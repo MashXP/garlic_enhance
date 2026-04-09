@@ -1,0 +1,308 @@
+                      IV International Congress “Food Technology, Quality and Safety”
+
+
+         EXTRACTION OF DIFFERENT GARLIC VARIETIES (Allium sativum L.) –
+             DETERMINATION OF ORGANOSULFUR COMPOUNDS AND
+                         MICROBIOLOGICAL ACTIVITY
+               1                        1                          1               2                    2
+Jelena Bajac *, Branislava Nikolovski , Sunčica Kocić-Tanackov , Alena Tomšik , Anamarija Mandić ,
+                                   3                3                 1                   1
+        Jelica Gvozdanović-Varga , Slobodan Vlajić , Milena Vujanović , Marija Radojković
+     1
+       University of Novi Sad, Faculty of Technology, Bulevar cara Lazara 1, 21000 Novi Sad, Serbia
+2
+    Institute of Food Technology, University of Novi Sad, Bulevar cara Lazara 1, 21000 Novi Sad, Serbia
+               3
+                 Institute of Fiels and Vegetable Crops, M. Gorkog 30, 21000 Novi Sad, Serbia
+
+*Corresponding author: Jelena Bajac
+E-mail address: ilicj@uns.ac.rs
+
+
+ABSTRACT
+
+Water and ethanol garlic extracts were prepared for encapsulation into double emulsion carriers. For
+extracts preparation three varieties of garlic were used: NSPBL-70, Labud and Bosut. Determination
+of organosulfur compounds was done by HPLC-DAD method. Results indicated the differences in
+sulphur compounds concentrations depending on garlic variety and solvent used for extraction.
+Dominant sulfur compound in water garlic extract was allicin (AC), with concentrations from 42.74 to
+50.79 µg/ml, depending on garlic variety, where extract of Labud had the highest AC concentration.
+Other investigated sulfur compounds were allyl sulfide (AS), diallyl disulfide (DADS) and
+methanethiosulfonic acid S-methyl ester (MMTS). AC was also dominant sulfur compounds in ethanol
+garlic extract, but in significantly lower concentrations than in water garlic extract (4.39 - 4.56 µg/ml).
+Extraction with ethanol showed small differences in sulfur compounds composition between extracts
+obtained from different varieties of garlic. AC content in lyophilized aqueous garlic extract was 12.35
+ng/mg, while lyophilized ethanol garlic extract had about ten times smaller concentration of AC (1.05
+ng/mg), but higher concentration of MMTS. Antibacterial activity of garlic extracts on growth of
+Staphylococcus aureus and Escherichia coli were determined using micro-dilution method.
+Microbiological activity of extracts was dependent on the garlic variety and extraction solvent. Labud
+water garlic extract had shown the smallest minimum inhibitory concentration, for both examined
+bacteria strains, which may be linked with highest AC concentration. The effect of ethanol garlic
+extract on the growth of E. coli does not depend on the variety of garlic, which is in accordance with
+small differences in the sulfur compounds composition, while for growth inhibition of S. aureus, the
+best result showed NSPBL-70 ethanol extract.
+Keywords: garlic extract, organosulfur compounds, allicin, antibacterial activity
+
+INTRODUCTION
+
+The garlic (Allium sativum L.) is considered as a nutrient with various positive effect on
+human health, which is confirmed trough many scientific studies (Das et al., 2012; Suleria et
+al., 2015). Consumption of the garlic and its products is associated with the cold and flu
+prevention, prevention and treatment of cardiovascular diseases, hypertension, thrombosis,
+atherosclerosis, hyperlipidemia, and diabetes (Hosseini and Hosseinzadeh, 2015; Majewski,
+2014). The other potential biological effects are associated with the reduction of risk factors
+for cancer, stimulation of immune function, improved detoxification, hepatitis prevention and
+antioxidant properties (Nicastro et al., 2015; Percival, 2014). In addition, the garlic was
+characterised as a plant with very good antimicrobial, antifungal, antiparasitic and antiviral
+activity (El-Sayed et al., 2017; Majewski, 2014; Suleria et al., 2015).
+The most active ingredients of garlic are volatile components (thiosulfonates and other
+organosulfur components), which are responsible for the characteristic smell and the taste of
+garlic itself. Tiosulfonates are reactive and unstable compounds, susceptible to spontaneous
+chemical reactions leading to a wide variety of sulfur compounds that take part in further
+transformations, without losing its biological activity (Ramirez et al., 2017). However, due to
+their thermal instability, the main biologically active tiosulfonates are destroyed in the process
+of food preparation (Lanzotti, 2006).
+
+
+                                                   104
+                  IV International Congress “Food Technology, Quality and Safety”
+
+One of the most important ingredients of the garlic is allicin (AC). It is considered to be
+responsible for antibacterial activity, and many other biological effects such as
+antiatherosclerotic, antithrombotic, antiinflammatory, immunomodulatory and anti-cancer
+effects (Harris et al., 2001; Hussein et al., 2017). Among other active compounds, it was
+reported that diallyl trisulfide (DATS) and diallyl disulfide (DADS) are the most active against
+yeasts, while ajoene is the main compound responsible for the antiviral activity. Allicin and
+propyl propane-TS (PPTS) have the strongest antiplatelet activity (thrombosis prevention),
+while ethyl ethane-TS (EETS) and methyl methane-TS (MMTS) are much weaker, but are
+still significantly more potent platelet inhibitors than aspirin at nearly equivalent
+concentrations (Briggs et al., 2000). Although allicin has been reported as a main anticancer
+compound, other garlic sulfur compounds (allyl sulfide, allyl disulfide, diallyl disulfide, allyl
+trisulfide, and SAMC) have been reported to inhibit proliferation of tumour cells (Lee et al.,
+2013).
+A mass consumption of the garlic is mostly restricted by its distinctive smell and taste.
+Encapsulation of biologically active substances and active ingredients into water-in-oil (W/O)
+and water-in-oil-in-water (W/O/W) emulsions, can give possibility to achieve controlled
+release of active ingredients and flavor retention, mask the bad taste or smell of some
+components, stabilize food ingredients, prevent their oxidation or hydrolysis, adjust their
+properties and/or increase their bioavailability (Ilić et al., 2017). In this way, the encapsulation
+of the garlic extract into emulsion carriers may contribute to increased consumption.
+In this research we explore the composition of different garlic extracts (produced from three
+garlic varieties), and aim to choose the best one for encapsulation into double emulsion
+carriers, in terms of the highest level of investigated organosulfur compounds and the highest
+antimicrobial activity. In particular, this paper will present comparison between organosulfur
+compounds concentrations of lyophilisedgarlic extracts prepared with different extraction
+procedures.
+
+MATERIAL AND METHODS
+
+Plant materials used for extraction were fresh garlic gloves (A. sativum L.) of three different
+garlic varieties: NSPBL-70, Labud and Bosut. All garlic varieties were provided by Inst. of
+Field and Vegetable Crops (Novi Sad, Serbia), cultivated on their experimental fields, while
+NSPBL-70 and Bosutare accepted varieties in Serbia.Demineralised water and 96% ethanol
+(Zorka Pharma d.o.o (Šabac, Serbia)) were used for extraction.
+
+Preparation of water garlic extract
+Fresh garlic bulbs (90g) were mixed with demineralised water (200g) and grinded in a
+blender for 15 min. The solid parts of the garlic were removed by filtration through sterile
+gauze, followed by centrifugation at 4500 rpm for 30 min at 20 °C. The supernatant was
+filtrated through filter paper using vacuum pump (Heidolph Instruments GMbH, Germany).
+Finally, the extract was collected and stored in refrigerator at 4°C (Ilić et al., 2017). The
+extract samples were lyophilised for 3 days.
+
+Preparation of ethanol garlic extract
+The recipe for the preparation of ethanol extract used in this work originates from ancient
+times, where it was used as a folk remedy. Nowadays, the composition based on this recipe
+is commercially available in the form of drops (BioCapilary kapi, Priroda na dar). For the
+preparation, fresh garlic bulbs (350g) were chopped into small pieces, mixed with 96%
+ethanol (300g) and left for 10 days in the dark glass bottle protected from the light at room
+temperature, with occasional mixing. The solids parts of the garlic were removed by filtration
+through sterile gauze, centrifuged at 4500 rpm for 30 min at 20 °C and finally filtrated under
+vacuum (Heidolph Instruments GMbH, Germany). Extract was stored in a dark bottle. Before
+same procedure lyophilisation process employed for water garlic extracts, samples of ethanol
+garlic extracts were evaporated at 45 °C.
+
+
+                                                105
+                 IV International Congress “Food Technology, Quality and Safety”
+
+Chemical analysis
+The determination of the organosulfur compounds was done by HPLC-DAD analysis, on a
+Poroshell 120 EC-C18 (100×3 mm, particles 2.7 μm) HPLC column. The column oven was
+conditioned at 30°C. Linear gradient elution mode with the mobile phase flow rate of 0.8
+ml/min was used. The initial soluble A ratio (phosphate buffer 20 mM, pH 4.5) and solvent B
+(acetonitrile) was 95% B; 0-5 min, 5% B; 5-15 min, 5-50% % B; 15-20 min, 50% B; 20-22
+min, 50-80% B; 22-25 min, 80% B; 25-30 min, 80-95% B. An automatic injector was used to
+subject samples of a 5 μl volume into the instrument. The analysis time was 30 minutes,
+while the column washout time was 3 minutes (Tomsik et al., 2018 under review). The
+spectrum is set for shooting in the range of 190-400 nm, while the chromatogram is recorded
+at 210 and 240 nm. Compounds such as allicin (AC), allyl sulfide (AS), dialyl disulfide
+(DADS), and S-methyl ester methanesulfonic acid (MMTS) have been identified based on
+the retention time and spectral characteristics of the standard.
+The liquid extracts were diluted with acetonitrile (ACN) filtered through a 0.45 μm nylon filter
+(Rotilabo-Spritzenfilter 13 mm, Roth, Karlsruhe, Germany). The lyophilized extract was
+reconstituted in a suitable solvent and sonicated for 30 min, diluted with ACN and finally
+filtered through a 0.45 μm nylon filter.
+
+Microbiological analysis
+Minimal inhibitory concentration (MIC) and minimal bactericidal concentration (MBC) were
+obtained using broth microdilution method. The assay was carried out using the following
+bacterial strains: Gram positive Staphylococcus aureus (ATCC 25923) and gram negative
+Escherichia coli (ATCC 25922).
+
+RESULTS AND DISCUSSION
+
+The investigation of extracts prepared from different garlic varieties was performed in order
+to select the garlic variety with the highest level of organosulfur compound concentrations,
+for its further encapsulation in emulsion carriers. Table 1 summarizes AC, DADS, AS and
+MMTS concentrations in water and ethanol garlic extracts prepared from garlic varieties
+NSPBL-70, Labud and Bosut.
+
+Table 1. Organosulfur compound concentrations in water and ethanol garlic extracts prepared from
+different garlic varieties
+                          Organosulfur compound
+ Garlic variety           AC                   DADS        AS                  MMTS
+                          (μg/ml)              (μg/ml)     (μg/ml)             (μg/ml)
+                          Water garlic extract (WatGE)
+ NSPBL-70                 42.74 ± 0.52         0.01 ± 0.00 2.89 ± 0.06         0.09 ± 0.01
+ Labud                    50.79 ± 0.83         0.02 ± 0.00 4.72 ± 0.08         0.25 ± 0.01
+ Bosut                    45.93 ± 0.65         0.03 ± 0.00 1.91 ± 0.02         0.33 ± 0.02
+                          Ethanol garlic extract (EthGE)
+ NSPBL-70                 4.56 ± 0.19          0.04 ± 0.00 0.24 ± 0.01         0.45 ± 0.02
+ Labud                    4.41 ± 0.12          0.03 ± 0.00 0.21 ± 0.01         0.67 ± 0.03
+ Bosut                    4.39 ± 0.23          0.03 ± 0.00 0.70 ± 0.02         0.56 ± 0.01
+
+As can be seen from Table 1, the sulfur compounds concentrations are depend, not only on
+garlic variety, but also on procedure used for extraction. Allicin was dominant compound in
+all three investigated varieties, with concentrations between 42.74 and 50.79 μg/ml. Water
+garlic extract obtained by extraction of Labud had the highest AC (50.79 ± 0.23 μg/ml) and
+AS (4.72 ± 0.08 μg/ml) concentrations. Bosut water extract showed the highest concentration
+of DADS, in comparison with other investigated varieties. NSPBL-70 water extract had the
+smallest AC, DADS and MMTS concentrations. The change of solvent and the extraction
+procedure gave extracts with much lower concentrations of allicin. Namely, ethanol garlic
+extracts had about ten times lower concentrations of AC, than water garlic extracts, which
+
+
+                                              106
+                 IV International Congress “Food Technology, Quality and Safety”
+
+was in the range between 4.39 and 4.56 μg/ml. The variation of AC concentration was minor
+among different garlic varieties. Also, the content of other investigated components in
+ethanol garlic extracts did not change significantly with the garlic variety.
+A comparison between lyophilized extracts obtained using different extraction procedures
+have shown some differences in concentration of investigated sulfur compounds. Results are
+shown in Table 2. Concentration of AC in lyophilized ethanol garlic extract was 1.05 ± 0.08
+ng/mg, ten times smaller than concentration in water extract (12.35 ± 0.06 ng/mg). Ethanol
+garlic extract had somewhat higher concentration of DADS and MMTS in comparison with
+extract obtained by extraction with water, while AS content was similar in both investigated
+samples.
+
+Table 2. Organosulfur compound concentrations in lyophilized water and ethanol garlic extracts
+                            Organosulfur compound
+                            AC                                     AS               MMTS (ng/mg)
+                            (ng/mg)            DADS (ng/mg)        (ng/mg)
+ Water garlic extract       12.35 ± 0.06       0.16 ± 0.01         1.31 ± 0.06      1.42 ± 0.07
+ Ethanol garlic extract     1.05 ± 0.08        0.57 ± 0.03         0.99 ± 0.04      3.33 ± 0.15
+
+The antibacterial activity of investigated extracts obtained from different garlic varieties is
+given in Fig.1. The influence of extracts on growth of S. aureus and E.coli was explored, and
+corresponding MICs and MBCs were obtained. As can be noticed, results of MICs and MBCs
+depend on the garlic variety, as well as procedure used for extraction.
+Labud water garlic extract had shown the smallest MIC (56.82 μl/ml), for both examined
+bacteria strains, while the corresponding MBC was 227.27 μl/ml. The best antibacterial
+activity of Labud water extract in comparison to other variety of garlic may be a consequence
+of the highest AC concentration (Table 1). Antibacterial properties of garlic is often connected
+to antimicrobial effect of AC, which was reported to exhibit antibacterial activity against a
+wide spectrum of bacteria (Escherichia, Salmonella, Staphylococcus, Streptococcus,
+Klebsiella, Proteus, Bacillus, Clostridium, Mycobacterium tuberculosis and Helicobacter
+pylori) and fungi (Candida, Cryptococcus, Trichophyton, Epidermophyton, and Microsporum)
+(Ankri & Mirelman, 1999). Water extract of NSPBL-70 also gave a low MIC value only for S.
+aureus (MIC = 56.82 μl/ml), while for the growth inhibition of E. coli a higher concentration of
+extract was required (MIC = 227.27 μl/ml and MBC = 454.54 μl/ml).
+The effect of ethanol garlic extract on the growth of E. coli is not dependent on the variety of
+garlic, whereby the same MIC (113.64 μl/ml) and MBC (227.27 μl/ml) were obtained for all
+investigated extracts. This effect could be a consequence of a small difference of sulfur
+compounds composition in all investigated samples. However, the influence of ethanol garlic
+extracts on growth inhibition of S. aureus was somewhat different, where the best result
+showed NSPBL-70, with the same MIC and MBC as well as for E. coli. Labud or Bosut
+ethanol extract must be applied in higher concentrations, where for the growth inhibition
+227.27 μl/ml of extractwas necessary, while appropriate MBCs were 454.54 μl/ml.
+
+
+
+
+                                              107
+                 IV International Congress “Food Technology, Quality and Safety”
+
+
+
+
+Figure 1. Antibacterial activity of water and ethanol garlic extracts (WatGE and EthGE) prepared with
+                                        different varieties of garlic
+
+CONCLUSIONS
+
+The garlic extracts obtained from different garlic varieties, using two extraction solvents, were
+analysed in order to select the appropriate variety of garlic for encapsulation into double
+emulsion carriers. In this regard, the organosulfur compounds concentrations and
+antibacterial activity of extracts has been investigated. Results indicated that Labud water
+garlic extract has the best performance in terms of the highest AC content, the component
+that was often associated with positive influence on human health. The microbiological study
+also favors Labud water garlic extract, with the smallest MICs and MBCs necessary for
+growth inhibition of investigated bacteria. When ethanol was used for extraction, all
+investigated varieties of garlic gave similar sulfur compound concentrations and antibacterial
+activities.
+
+ACKNOWLEDGEMENTS
+
+This work was supported by the Ministry of Education and Science of the Republic of Serbia
+within the Integrated and Interdisciplinary Research Project No. 46010, 2011-2018.
+
+                                                108
+                   IV International Congress “Food Technology, Quality and Safety”
+
+
+
+REFERENCES
+
+ Ankri, S., & Mirelman, D. (1999). Antimicrobial properties of allicin from garlic. Microbes and Infection, 1(2),
+      125–129.
+ Briggs, W. H., Xiao, H., Parkin, K. L., Shen, C., & Goldman, I. L. (2000). Differential inhibition of human
+      platelet aggregation by selected Allium thiosulfinates. Journal of Agricultural and Food Chemistry, 48(11),
+      5731–5735.
+ Das, L., Bhaumik, E., Raychaudhuri, U., & Chakraborty, R. (2012). Role of nutraceuticals in human health.
+      Journal of Food Science and Technology, 49(2), 173–183.
+ El-Sayed, H. S., Chizzola, R., Ramadan, A. A., & Edris, A. E. (2017). Chemical composition and antimicrobial
+      activity of garlic essential oils evaluated in organic solvent, emulsifying, and self-microemulsifying water
+      based delivery systems. Food Chemistry, 221, 196–204.
+ Harris, J. C., Cottrell, S. L., Plummer, S., & Lloyd, D. (2001). Antimicrobial properties of Allium sativum (garlic).
+      Applied Microbiology and Biotechnology, 57(3), 282–286.
+ Hosseini, a., & Hosseinzadeh, H. (2015). A review on the effects of Allium sativum (Garlic) in metabolic
+      syndrome. Journal of Endocrinological Investigation, 38(11), 1147–1157.
+ Hussein, H. J., Hameed, I. H., & Hadi, M. Y. (2017). A Review: Anti-microbial, Anti-inflammatory effect and
+      Cardiovascular effects of Garlic: Allium sativum. Research Journal of Pharmacy and Technology, 10(11),
+      4069–4078.
+ Ilić, J. D., Nikolovski, B. G., Petrović, L. B., Kojić, P. S., Lončarević, I. S., & Petrović, J. S. (2017). The garlic
+      (A. sativum L.) extracts food grade W 1/O/W 2 emulsions prepared by homogenization and stirred cell
+      membrane emulsification. Journal of Food Engineering, 205, 1–11.
+ Lanzotti, V. (2006). The analysis of onion and garlic. Journal of Chromatography A, 1112(1-2), 3–22.
+ Lee, J., Gupta, S., Huang, J. S., Jayathilaka, L. P., & Lee, B. S. (2013). HPLC-MTT assay: Anticancer activity
+      of aqueous garlic extract is from allicin. Analytical Biochemistry, 436(2), 187–189.
+ Majewski, M. (2014). Allium Sativum: Facts and Myths Regarding Human Health. Rocz Panstw Zakl Hig,
+      65(1), 1–8.
+ Nicastro, H. L., Ross, S. A., & Milner, J. A. (2015). Garlic and onions: Their cancer prevention properties.
+      Cancer Prevention Research, 8(3), 181–189.
+ Percival, S. S. (2014). Aged Garlic Extract. Alive.com, Supplement(13), 1S–4S.
+ Ramirez, D. A., Locatelli, D. A., Torres-Palazzolo, C. A., Altamirano, J. C., & Camargo, A. B. (2017).
+      Development of garlic bioactive compounds analytical methodology based on liquid phase microextraction
+      using response surface design. Implications for dual analysis: Cooked and biological fluids samples. Food
+      Chemistry, 215, 493–500.
+ Suleria, H. A. R., Butt, M. S., Khalid, N., Sultan, S., Raza, A., Aleem, M., & Abbas, M. (2015). Garlic (Allium
+      sativum): Diet based therapy of 21st century-a review. Asian Pacific Journal of Tropical Disease, 5(4),
+      271–278.
+
+
+
+
+                                                       109
+

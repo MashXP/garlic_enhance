@@ -5,9 +5,9 @@
 ---
 
 ## 📄 Paper 01: The Effect of Microbial Biofertilizer and Nanofertilizer On Growth and Quality of Garlic in China
-**Authors:** Jie Zhang, et al.
-**File:** `fer.txt`
-**DOI:** [https://doi.org/10.21203/rs.3.rs-2182245/v1](https://doi.org/10.21203/rs.3.rs-2182245/v1)
+**Authors:** Zhang, Y.; et al.
+**File:** `Zhang_et_al_2023_Fertilization_Yield_Allicin.txt`
+**DOI:** [https://doi.org/10.21203/rs.3.rs-2063527/v1](https://doi.org/10.21203/rs.3.rs-2063527/v1)
 
 ### 📊 Results Section (Literal Extracts)
 > "Result: The results revealed that the application of microbial biofertilizer and germanium-containing controlled release nanofertilizer increased the bulb yield by approximately 6-28% and 14%, respectively, compared with local fertilization practice." (Line 45-47)
@@ -22,7 +22,7 @@
 
 ## 📄 Paper 02: Comparative Study of Different Compound Fertilizers on Garlic (Allium Sativum L.) Productivity under Various Soils and Seasons
 **Authors:** Diriba-Shiferaw G., et al.
-**File:** `1-Comparative-Study-of-Different.txt`
+**File:** `Diriba_Shiferaw_2017_Fertilizer_Productivity.txt`
 **Ref:** Global Journal of Science Frontier Research (D) Volume 17 Issue 1.
 **DOI:** [https://doi.org/10.17406/GJSFR](https://doi.org/10.17406/GJSFR) | [Link](https://journalofscience.org/index.php/GJSFR/article/view/1917)
 
@@ -37,7 +37,7 @@
 
 ## 📄 Paper 03: Garlic-specific Fertilizer Improves Economic and Environmental Outcomes in China
 **Authors:** Yuandong Cui, et al.
-**File:** `hortsci-article-p605.txt`
+**File:** `Cui_et_al_2024_Garlic_Specific_Fertilizer.txt`
 **DOI:** [https://doi.org/10.21273/HORTSCI17677-23](https://doi.org/10.21273/HORTSCI17677-23)
 
 ### 📊 Results Section (Literal Extracts)

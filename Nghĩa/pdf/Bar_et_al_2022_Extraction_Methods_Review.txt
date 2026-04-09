@@ -1,0 +1,1880 @@
+             antioxidants
+
+Review
+Methods of Isolation of Active Substances from Garlic (Allium
+sativum L.) and Its Impact on the Composition and Biological
+Properties of Garlic Extracts
+Monika Bar 1 , Urszula E. Binduga 2 and Konrad A. Szychowski 1, *
+
+                                          1   Department of Biotechnology and Cell Biology, Medical College, University of Information Technology and
+                                              Management in Rzeszow, Sucharskiego 2, 35-225 Rzeszow, Poland; mbar@wsiz.edu.pl
+                                          2   Department of Lifestyle Disorders and Regenerative Medicine, Medical College, University of Information
+                                              Technology and Management in Rzeszow, Sucharskiego 2, 35-225 Rzeszow, Poland; ubinduga@wsiz.edu.pl
+                                          *   Correspondence: kszychowski@wsiz.edu.pl or konrad.szychowski@gmail.com
+
+
+                                          Abstract: Garlic (Allium sativum L.) is widely used in the human diet and in scientific research due
+                                          to its biological properties. Various factors, e.g., temperature, pressure, extraction method, type of
+                                          solvent, size, and territorial origin of garlic, affect the amount and type of bioactive compounds
+                                          obtained from garlic extracts. In turn, the content of bioactive compounds correlates with the
+                                          biological activity of the extracts. Therefore, the aim of this review was to summarize the current
+                                          state of knowledge of the methods and effectiveness of isolation of active substances from garlic and
+                                          their impact on the garlic extract composition and, consequently, biological properties. According
+                                          to the literature, extracts obtained using water as a solvent are mainly responsible for antimicrobial
+                                          properties, which is related to, inter alia, the high content of allicin. The use of alcohols, such as
+                                          methanol or ethanol, is associated with the outstanding antioxidant power of extracts resulting from
+                                          the presence of phenolic compounds. In turn, due to the presence of diallyl disulfide and disulfide
+Citation: Bar, M.; Binduga, U.E.;
+Szychowski, K.A. Methods of
+                                          trisulfide, garlic oil has anticancer potential. Acetone is the most effective organic solvent; however, it
+Isolation of Active Substances from       is not suitable for immediate consumption.
+Garlic (Allium sativum L.) and Its
+Impact on the Composition and             Keywords: garlic; bioactive compounds; solvent; extraction method; biological properties; bioavailability
+Biological Properties of Garlic
+Extracts. Antioxidants 2022, 11, 1345.
+https://doi.org/10.3390/
+antiox11071345                            1. Introduction
+Academic Editor: Mario Allegra                 Garlic (Allium sativum L.), i.e., a bulbous plant from the Lillaceae family, is native to
+                                          central Asia but at present grows in many countries around the world [1]. Garlic is widely
+Received: 20 June 2022
+                                          used due to its seasoning and flavor qualities as well as health-enhancing properties [2].
+Accepted: 8 July 2022
+                                          Moreover, it is used in folk medicine as a remedy for the treatment of bacterial and viral
+Published: 9 July 2022
+                                          diseases [3–5].
+Publisher’s Note: MDPI stays neutral           There are many consumable forms of garlic on the market, i.e., fresh garlic, garlic
+with regard to jurisdictional claims in   extract, garlic oil, dehydrated oil macerate, temperature aging garlic bulbs, and garlic
+published maps and institutional affil-   powder [6,7]. However, garlic is used for therapeutic purposes in tablet, oil, and powder
+iations.                                  forms [6]. Currently, highly efficient methods are being sought to obtain active ingredients
+                                          from various vegetables or fruits [8]. It has been shown in the literature that, in the case
+                                          of both fruit and vegetables, the extraction method and the type of solvent affect the
+                                          content of bioactive ingredients and biological properties [9–12]. Bioactive compounds
+Copyright: © 2022 by the authors.
+                                          isolated from plants, including garlic, are especially used in the pharmaceutical, food,
+Licensee MDPI, Basel, Switzerland.
+                                          and cosmetic industries [13]. Factors that influence the isolation and extraction efficiency
+This article is an open access article
+distributed under the terms and
+                                          include weighing, volume measurement, mixing, dilution, heating, cooling, fractionation,
+conditions of the Creative Commons
+                                          purification, and preservation [13]. Each solvent used in the extraction of active compounds
+Attribution (CC BY) license (https://     is characterized by different polarities, which may be important in terms of the solubility of
+creativecommons.org/licenses/by/          bioactive compounds and, consequently, the extraction efficiency [14,15]. Moreover, the
+4.0/).                                    volume ratio of individual solvents (in extractions with solvent mixtures) is also important
+
+
+
+
+Antioxidants 2022, 11, 1345. https://doi.org/10.3390/antiox11071345                                     https://www.mdpi.com/journal/antioxidants
+                              important in terms of the solubility of bioactive compounds and, consequently, the
+                              extraction efficiency [14,15]. Moreover, the volume ratio of individual solvents (in
+Antioxidants 2022, 11, 1345
+                              extractions with solvent mixtures) is also important and may correlate with the                                amount
+                                                                                                                                          2 of 29
+                              of recovery of individual bioactive compounds [15]. For this reason, the choice of the
+                              extraction method should be based on the following factors: the nature of the plant
+                              material,
+                                  and may   the  nature with
+                                               correlate  of isolated     compounds,
+                                                                 the amount      of recovery theof impact   of the
+                                                                                                    individual       extraction
+                                                                                                                bioactive          method
+                                                                                                                            compounds           on the
+                                                                                                                                            [15].
+                              degradation
+                                  For this reason, the choice of the extraction method should be based on the following [13].
+                                                 of compounds,         and   the   development         of undesirable     microorganisms
+                              Moreover,
+                                  factors: thethenature
+                                                   method
+                                                        of theofplant
+                                                                  isolation   of active
+                                                                        material,         ingredients
+                                                                                    the nature             should
+                                                                                                 of isolated        be safethe
+                                                                                                             compounds,                  of the and
+                                                                                                                                   consumers
+                                                                                                                              forimpact
+                              acceptable
+                                  extractionfor    human
+                                                method   on consumption,
+                                                             the degradatione.g.,      as a food additive.
+                                                                                  of compounds,       and the development of undesirable
+                                  microorganisms
+                                     Garlic consists[13].     Moreover,
+                                                         of 60–65%       of the  method
+                                                                            water,         of isolation
+                                                                                      28–30%                             ⁓2.3% ofshould
+                                                                                                          of active ingredients
+                                                                                                  of carbohydrates,                           be
+                                                                                                                                      organosulfur
+                                  safe  for  consumers    and   acceptable    for human     consumption,     e.g.,
+                              compounds, 2–6% of proteins, ⁓1.2% of amino acids, and ⁓1.5% of fiber, fatty acids,  as a food  additive.
+                                        Garlic consists of 60–65% of water, 28–30% of carbohydrates, ~2.3% of organosulfur
+                              phenols,     and mineral trace elements [6,16,17]. However, the composition of different
+                                  compounds, 2–6% of proteins, ~1.2% of amino acids, and ~1.5% of fiber, fatty acids, phenols,
+                              garlic varieties may vary significantly [18,19]. In addition, the composition of garlic bulbs
+                                  and mineral trace elements [6,16,17]. However, the composition of different garlic varieties
+                              is strongly
+                                  may varyinfluenced        by [18,19].
+                                                significantly    the soil In
+                                                                           and    broad-sense
+                                                                               addition,            weather and
+                                                                                           the composition          climatic
+                                                                                                                of garlic      conditions
+                                                                                                                            bulbs  is strongly[18,19].
+                              Garlic    owes    its main    healing     properties     to diverse     bioactive    compound
+                                  influenced by the soil and broad-sense weather and climatic conditions [18,19]. Garlic owes     groups,     such  as
+                              organic    sulfides,
+                                  its main   healingsaponins,
+                                                      properties to phenolic     compounds,
+                                                                       diverse bioactive            and polysaccharides
+                                                                                             compound                          [20,21].
+                                                                                                          groups, such as organic        Moreover,
+                                                                                                                                       sulfides,
+                              thesaponins,
+                                   group ofphenolic
+                                                 sulfur compounds
+                                                         compounds, and   identified     in garlic[20,21].
+                                                                                polysaccharides       has been   shownthe
+                                                                                                             Moreover,     to group
+                                                                                                                              comprise      a variety
+                                                                                                                                      of sulfur
+                              of compounds        identified in
+                                  active compounds,               garlic
+                                                               e.g.,     has been
+                                                                      allicin   (AC),shown    to comprise
+                                                                                         alliin,            a variety (SAC),
+                                                                                                   S-allylcysteine     of active diallyl
+                                                                                                                                  compounds,disulfide
+                                  e.g., allicin  (AC),  alliin, S-allylcysteine     (SAC),   diallyl  disulfide  (DADS),
+                              (DADS), diallyl trisulfide (DATS), diallyl sulfide (DAS), and ajoene [22] (Figure 1).          diallyl trisulfide
+                                 (DATS), diallyl sulfide (DAS), and ajoene [22] (Figure 1).
+
+
+
+
+                                 Figure 1. Main sulfur compounds identified in garlic: allicin (AC), alliin, S-allylcysteine (SAC), diallyl
+                              Figure   1. Main sulfur compounds identified in garlic: allicin (AC), alliin, S-allylcysteine (SAC),
+                                 disulfide
+                              diallyl      (DADS),
+                                      disulfide     diallyl diallyl
+                                                (DADS),     trisulfide (DATS), diallyl
+                                                                     trisulfide (DATS),sulfide (DAS),
+                                                                                          diallyl     methanethiosulfonic
+                                                                                                  sulfide                   acid S-methyl acid
+                                                                                                          (DAS), methanethiosulfonic
+                                 ester (MMTS),  allyl sulfide (AS),  and  ajoene.
+                              S-methyl ester (MMTS), allyl sulfide (AS), and ajoene.
+                                      A substantial number of studies have shown that, thanks to its unique composition of
+                                   A substantial
+                                 bioactive          number
+                                           constituents,      of exhibits
+                                                          garlic studies antibacterial,
+                                                                           have shownantifungal,
+                                                                                          that, thanks  to its unique composition
+                                                                                                     immunomodulatory,     anti-
+                              of inflammatory,
+                                 bioactive constituents,     garlic  exhibits  antibacterial,   antifungal,
+                                                 antioxidant, anticancer, hepatoprotective, gastroprotective, immunomodulatory,
+                                                                                                                cardiovascular
+                              antiinflammatory,        antioxidant,
+                                 protective, neuroprotective,             anticancer,
+                                                               renal protective,           hepatoprotective,
+                                                                                 antidiabetic,                     gastroprotective,
+                                                                                               anti-obesity, and anti-coagulant
+                                 properties. It has
+                              cardiovascular        also been neuroprotective,
+                                                 protective,  used in such diseases   as cholera
+                                                                                   renal         or malaria
+                                                                                           protective,       and to reduce
+                                                                                                        antidiabetic,      LDL
+                                                                                                                        anti-obesity,
+                              and anti-coagulant properties. It has also been used in such diseases as cholera orthe
+                                 cholesterol [1,22–25]. Moreover,   according  to the World  Health  Organization   (WHO),   malaria
+                              and to reduce LDL cholesterol [1,22–25]. Moreover, according to the World Health
+Antioxidants 2022, 11, 1345                                                                                                 3 of 29
+
+
+
+
+                              American Cancer Society (ACS), the American Institute of Cancer Research (AICR), and
+                              the National Cancer Institute (NCI), garlic consumption may reduce the risk of cancer [26].
+                                    Therefore, the aim of the present publication is to collect and summarize the current
+                              knowledge of the methods of extraction, with particular emphasis on the influence of the
+                              solvent used during the isolation of active substances from garlic (Allium sativum L.) and
+                              their impact on the composition and biological activity of extracts.
+                                    This review, in an innovative way, summarizes not only the biological properties of gar-
+                              lic extracts but mainly focuses on the significant influence of the optimization of extraction
+                              parameters. Different parameters influence the quantity, quality, type, and biological prop-
+                              erties of the extracted bioactive compounds from the plant material. The review compares
+                              traditional extraction methods with modern ones. Knowledge concerning the efficiency of
+                              extraction, bioavailability, and stability of bioactive compounds is crucial to overcoming
+                              the difficulties in the delivery of bioactive compounds in final therapeutic applications.
+
+                              2. Methods of Isolation of Active Compounds
+                                   Bioactive compounds are obtained with the use of different extraction methods and
+                              types of solvents, which affect the extraction yield and biological properties of extracts [15].
+                              The disadvantages of traditional extraction methods include high temperature during the
+                              process, large amounts of solvents used, the toxicity of some solvents, long processing times,
+                              and low selectivity [27]. The advantage of the new extraction methods is the reduction in
+                              the amount of solvents, shorter required process time and higher yield and quality of the
+                              obtained extract [28]. Water, methanol, ethanol, and acetone are most often used for the
+                              extraction of bioactive compounds from plants (Table 1).
+
+                              Table 1. Summary of methods used in extraction of active components from garlic (Allium sativum L.).
+                              NDA—no data available.
+
+         Type of Extract             Extraction Method                      Analyses Performed                   References
+                                                                       Assessment of antiproliferative
+                                 Distilling the garlic extract
+                                                                       properties of copper-enriched                 [29]
+                              solution under reduced pressure
+            Aqueous                                                            garlic extract
+                                                                         Identification of allicin with
+                                     Pressing extraction                                                             [30]
+                                                                             anticancer activity
+                                                                    Analysis of viability and apoptosis in
+            Methanol                    Maceration                                                                   [31]
+                                                                                leukemia cells
+                                                                     Analysis of motor coordination and
+                                     Solvent extraction                                                              [32]
+                                                                         Purkinje cell count in rats
+             Ethanol
+                                                                     Analysis of antibacterial properties
+                                     Solvent extraction                                                              [33]
+                                                                      against Staphylococcus aureus
+                              Solvent extraction under reduced      Assessment of the antiinflammatory
+           Chloroform                                                                                                [34]
+                                          pressure                    properties of aged black garlic
+                                                                  Analysis of NO and interferon-α (IFN-α)
+         Fresh material               Blended in water                                                               [35]
+                                                                              levels in plasma
+     Freeze-dried material                 NDA                          Preservation of minced meat                  [36]
+                                     Steam distillation                 Preservation of minced meat                  [36]
+                Oil                                               Analysis of the mechanism of cytotoxicity
+                                           NDA                                                                       [37]
+                                                                         of DATS in leukemic cells
+
+
+                                   The selection of the method and type of solvent is important and depends on the
+                              types of plant material and isolated compounds [15]. The use of water has numerous
+                              advantages, such as the positive environmental impact (water is non-flammable and non-
+                              toxic to humans and the environment, provides the possibility of clean processing and
+                              prevents pollution), selective extraction of bioactive compounds (depending on the type
+Antioxidants 2022, 11, 1345                                                                                             4 of 29
+
+
+
+
+                              of solvent, it allows avoiding extraction of unwanted components) [38–40]. Additional
+                              advantages include the use of simple equipment, no risks, simplification of process steps,
+                              and the possibility of application in the food and pharmaceutical industries [39,40]. In
+                              addition to water, acetone, ethyl acetate, hexane, heptane, dichloromethane, methanol,
+                              ethanol, tetrahydrofuran, acetonitrile, dimethylformamide, toluene, and dimethylsulfoxide
+                              are commonly used organic solvents [41]. Despite the high levels of extraction of certain
+                              substances, the main disadvantage of these solvents is the danger to health through inges-
+                              tion and inhalation, as well as irritation in contact with the skin and possible damage to the
+                              central nervous system (CNS) and other parts of the body through regular environmental
+                              exposure to these compounds [41].
+                                    The choice of other parameters of the extraction method is important as well. Tra-
+                              ditional methods of obtaining bioactive compounds from plants are Soxhlet extraction,
+                              distillation, infusion, and cold pressing. On the other hand, modern, green, environ-
+                              mentally friendly extraction methods include ultrasound-assisted extraction (UAE), high
+                              pressure-assisted extraction (HPAE), microwave-assisted extraction (MAE), enzyme as-
+                              sisted extraction (EAE), supercritical fluid extraction (SFE), pulse electrified field extraction
+                              (PEF), pressurized liquid assisted extraction (PLE), and surfactant-assisted extraction (SAE).
+                              The current use of the traditional extraction methods results from the possibility of using
+                              simple equipment and, depending on the type of plant and the extraction purpose, from
+                              the better stability of the extracted compounds. Often, traditional methods such as Soxhlet
+                              extraction or distillation in combination with modern ultrasonic or microwave technologies
+                              prove to be the most effective. Despite the many advantages of modern extraction methods,
+                              the optimization of time, temperature, and solvent parameters in the adaptation to the
+                              plant type is important for each method and contributes to quality and efficiency [42].
+                              Recent technological advances and the development of devices ensure greater extraction
+                              efficiency [43]. UAE, MAE, PLE, and SFE can change the content of bioactive compounds,
+                              including AC [44]. Loghmanifar et al. [45] showed that, of the extraction methods used,
+                              such as immersion, cooking, and ultrasound with the use of water/ethanol solvents, ultra-
+                              sonic extraction was the most effective. The main advantages of this method are its speed,
+                              efficiency of the process, and the use of a lower temperature during extraction, which is
+                              important in the case of heat-sensitive bioactive compounds [28]. The most commonly
+                              used methods for extracting garlic oil are steam hydrodistillation and hot solvent extrac-
+                              tion. Water temperature, distillation time, and particle size are factors that influence the
+                              efficiency of hydrodistillation extraction [43]. The temperature, the analytical degree of
+                              the solvents, the maceration time, and the drying method are important factors in the
+                              extraction of garlic oils with organic solvents [43]. According to the results obtained by
+                              Chen et al. [46], parameters ensuring the best quality of garlic oil extraction with the use
+                              of solvents are as follows: temperature 45 ◦ C, time 42 min, solvent to raw material ratio
+                              4:1, number of extractions 4 [46]. In addition to the influence of the extraction type on the
+                              content of organic compounds, the method of preparation of biological material is also
+                              important. According to the literature, alliin and γ-glutamyl-cysteine (γGCS) derivatives
+                              are the main bioactive compounds obtained from fresh garlic bulbs. Steam distilled oils are
+                              rich in sulfide compounds, ground powder is a source of alliin and DADS, and macerates
+                              contain mainly sulfide compounds, dithin, and (E-Z)-ajoene compounds. In turn, soaked,
+                              cut, and aged garlic extract using ethanol as a solvent is a source of bioactive compounds
+                              such as SAC and S-allyl-mercaptocysteine (SAMC) [47,48]. The summary of the influence
+                              of solvents on the isolation of bioactive compounds and the biological properties of extracts
+                              is presented in Figure 2.
+Antioxidants 2022, 11, 1345                                                                                                                            5 of 29
+
+
+
+
+                                    compounds such as SAC and S-allyl-mercaptocysteine (SAMC) [47,48]. The summary of
+      Antioxidants 2022, 11, 1345   the influence of solvents on the isolation of bioactive compounds and the biological
+                                                                                                                   5 of 29prop-
+                                    erties of extracts is presented in Figure 2.
+
+
+
+
+                                       Figure 2. Influence of the solvent used in extraction on the type of bioactive compounds and biological
+                                    Figure   2. Influence of the solvent used in extraction on the type of bioactive compounds and biolog-
+                                       properties. Abbreviations: ABTS—2,20 -Azino-bis(3-ethylbenzthiazoline-6-sulfonic acid; AC—allicin;
+                                         properties. Abbreviations:
+                                    icalDADS—diallyl                   ABTS—2,2′-Azino-bis(3-ethylbenzthiazoline-6-sulfonic acid; AC—
+                                                       disulfide; DADT—disulfide trisulfide; DPPH—2,2-diphenyl-1-picrylhydrazyl; MW
+                                    allicin; DADS—diallyl disulfide; DADT—disulfide trisulfide; DPPH—2,2-diphenyl-1-picrylhydra-
+                                       phenols—molecular weight of phenols; OH phenols—hydroxyl group of phenols; ROS—reactive
+                                    zyl; MW phenols—molecular weight of phenols; OH phenols—hydroxyl group of phenols; ROS—
+                                       oxygen species; SOD—superoxide dismutase.
+                                    reactive oxygen species; SOD—superoxide dismutase.
+                                       2.1. Aqueous Solutions
+                                    2.1. Aqueous Solutions
+                                           The main  advantage of aqueous solutions is the possibility of direct consumption or
+                                       administration      to animalsof
+                                          The main advantage             or aqueous
+                                                                             cells in vitro   withoutisadditional
+                                                                                         solutions                      processing
+                                                                                                           the possibility            [49]. The
+                                                                                                                                of direct          evalua-
+                                                                                                                                            consumption       or
+                                       tion of bioactive ingredients in water extracts from fresh garlic varieties NSPBL-70, Labud,
+                                    administration to animals or cells in vitro without additional processing [49]. The evalua-
+                                       and Bosut showed the highest amount of AC, ranging between 42.74 and 50.79 µg/mL,
+                                    tion of bioactive ingredients in water extracts from fresh garlic varieties NSPBL-70, Labud,
+                                       compared to other bioactive compounds present in the extract. The content of methanethio-
+                                    and   Bosut acid
+                                       sulfonic     showed      the highest
+                                                         S-methyl               amount
+                                                                      ester (MMTS),          of sulfide
+                                                                                         allyl   AC, ranging
+                                                                                                           (AS), and between     was inand
+                                                                                                                         DADS 42.74              50.79 of
+                                                                                                                                           the range     μg/mL,
+                                    compared        to  other   bioactive     compounds         present      in  the  extract.
+                                       0.09–0.33 µg/mL, 1.91–4.72 µg/mL, and 0.01–0.03 µg/mL, respectively. However, the value   The    content     of  methan-
+                                    ethiosulfonic       acid S-methyl
+                                       differed depending                   ester (MMTS),
+                                                                  on the variety     of garlic allyl     sulfide (AS),
+                                                                                                 [9]. Similarly,     waterand    DADS
+                                                                                                                              extracts     was infrom
+                                                                                                                                        obtained      the range
+                                    of lyophilized
+                                        0.09–0.33 μg/mL,          1.91–4.72
+                                                        garlic powder          μg/mL,
+                                                                           exhibited   theand     0.01–0.03
+                                                                                             highest   contentμg/mL,
+                                                                                                                   of AC = respectively.
+                                                                                                                             12.35 ng/mg, whileHowever,the the
+                                       levels  of  MMTS,    AS,   and   DADS    were  on  average    1.42,  1.31,  and  0.16
+                                    value differed depending on the variety of garlic [9]. Similarly, water extracts obtained ng/mg,    respectively    [9].
+                                       In  turn,  a  comparative      analysis   of ultrasound-assisted         extraction
+                                    from lyophilized garlic powder exhibited the highest content of AC = 12.35 ng/mg, while   (60 Hz,   room    tempera-
+                                    theture)
+                                         levelswithofthe  use ofAS,
+                                                       MMTS,       water,
+                                                                        and ethanol,
+                                                                              DADSacetone,
+                                                                                        were on   and    mixtures
+                                                                                                     average          of the
+                                                                                                                   1.42,      solvents
+                                                                                                                          1.31,  and 0.16carried
+                                                                                                                                              ng/mg,out by
+                                                                                                                                                         respec-
+                                       Cavalcanti et al. [15] proved the effectiveness of the water-based extraction method. The
+                                    tively [9]. In turn, a comparative analysis of ultrasound-assisted extraction (60 Hz, room
+                                       use of water resulted in the highest recovery of thiosulfinates (TS) at a level of 6.42 µmol/g
+                                    temperature)
+                                       dry weight (dw), withwhile
+                                                              the use theof  water,ofethanol,
+                                                                           amount                  acetone,
+                                                                                        total phenolic           and mixtures
+                                                                                                            compounds               of the solvents
+                                                                                                                            (TPC) expressed              carried
+                                                                                                                                                 as gallic
+                                    outacid
+                                         by Cavalcanti       et  al. [15]  proved    the  effectiveness       of  the  water-based
+                                              equivalent (GAE) was 3.82 mg/g dw [15]. A high extraction yield in a process with          extraction     method.
+                                    Thetheuseuseofofwater
+                                                      water resulted
+                                                             as a solvent in the   highest
+                                                                              (26.50%)    from recovery
+                                                                                                 garlic shellof thiosulfinates       (TS) at a levelbyof 6.42
+                                                                                                                  (GH) was also demonstrated
+                                       Kalleldry
+                                    μmol/g      et al.weight   (dw),
+                                                       [50]. The   yieldwhile   the amount
+                                                                           was higher    than inofthetotal    phenolic
+                                                                                                          extraction       compounds
+                                                                                                                        procedure             on theexpressed
+                                                                                                                                     based(TPC)        use
+                                    as of  other
+                                       gallic      solvents:
+                                                acid           ethanol,
+                                                       equivalent          methanol,
+                                                                       (GAE)    was 3.82ethanol-water,
+                                                                                             mg/g dw [15].    andAmethanol-water.
+                                                                                                                     high extractionNevertheless,
+                                                                                                                                          yield in a process
+                                    withethe water
+                                                 useextract  wasas
+                                                       of water     characterized    by the lowest
+                                                                         solvent (26.50%)        fromtotalgarlic   shellof
+                                                                                                               content            wasand
+                                                                                                                             phenols
+                                                                                                                           (GH)          alsoflavonoids,
+                                                                                                                                               demonstrated
+                                       i.e., 2.97  mg   and  0.045   mg  expressed     as  quercetin    equivalent
+                                    by Kallel et al. [50]. The yield was higher than in the extraction procedure based per  gram   (QE/g)    of  dry GH,  on the
+                                       respectively [50]. This was most likely related to the better solubility of the tested bioactive
+                                    use of other solvents: ethanol, methanol, ethanol-water, and methanol-water. Neverthe-
+                                       compounds (e.g., polyphenols) in solvents of lower polarity than water and the nonpolar
+                                    less, the water
+                                       nature    of GHextract
+                                                          [50]. Aswas     characterized
+                                                                      demonstrated            by the et
+                                                                                        by Meriga       lowest
+                                                                                                           al. [51],  thecontent
+                                                                                                                   total   content of    phenols and
+                                                                                                                                     of bioactive    com-flavo-
+                                    noids,
+                                       poundsi.e.,in2.97 mg and
+                                                      hexane,        0.045 mg
+                                                               chloroform,       expressed
+                                                                               ethyl             as quercetin
+                                                                                      acetate, methanol,       andequivalent      pervaried
+                                                                                                                     water extracts     gram[51].(QE/g)Theof dry
+                                    GH,presence of steroids, alkaloids, flavonoids, carbohydrates, tannins, and glycosides has beentested
+                                           respectively      [50].   This   was   most     likely   related     to  the   better  solubility      of the
+                                    bioactive compounds (e.g., polyphenols) in solvents of lower polarity than water and the
+                                    nonpolar nature of GH [50]. As demonstrated by Meriga et al. [51], the content of bioactive
+Antioxidants 2022, 11, 1345                                                                                             6 of 29
+
+
+
+
+                              demonstrated in the aqueous garlic extract. Moreover, flavonoids, alkaloids, carbohydrates,
+                              as well as tannins and glycosides, were present only in the water and methanol extracts [51].
+                              As shown by Kaur et al. [52], aqueous extracts also contained phthalic acid derivatives, acid
+                              esters, compounds containing phenyl groups, and steroids, which induced antimicrobial
+                              response of aqueous garlic extract against Bacillus anthracis [52]. In turn, the study described
+                              by Szychowski et al. [20] showed that water extracts from 9 varieties of garlic from Poland,
+                              Spain, China, Portugal, Burma, Thailand, and Uzbekistan were rich in a protein mixture
+                              and polyphenols [20]. Szychowski et al. [20] showed that the quantitative differences be-
+                              tween these compounds depended on the variety of garlic. The highest content of peptides
+                              was obtained from Chinese and Spanish garlic extracts, i.e., 6.12 mg/mL and 4.87 mg/mL,
+                              respectively. Similarly, the Chinese and Spanish garlic extracts were also the richest in pro-
+                              tein content, i.e., 2.80 mg/mL and 2.81 mg/mL, respectively. Moreover, as demonstrated by
+                              the biochemical analysis of phenolic compounds, the Chinese and Spanish garlic extracts
+                              had the highest amount of polyphenols, i.e., 394.10 µg/g and 365.52 µg/g of raw garlic,
+                              respectively. Syringic and p-hydroxybenzoic acid derivatives were found in the water
+                              extract in the greatest amount. Gallic acid, p-coumaric acid, k(+)-catechin, and epicatechin
+                              were the other phenolic compounds occurring in extracts from some garlic varieties [20].
+                              As shown by Loghmanifar et al. [45], the highest content of phenolic compounds in aque-
+                              ous ultrasonic extract (40 kHz for 15 min) was 0.311 mg GAE/g, which was higher than
+                              their content in 50% ethanol ultrasonic extract (40 kHz for 15 min). In addition, aqueous
+                              extract obtained in a shaking incubator (40 ◦ C for 72 h) contained a high phenolic amount
+                              of 0.295 mg GAE/g. On the other hand, a lower amount of phenols (0.191 mg GAE/g)
+                              was determined in the aqueous extract subjected to thermal treatment in an oven (35 ◦ C
+                              for 24 h), and the lowest level (0.112 GAE/g) was recorded for cooked aqueous extract.
+                              Finally, the influence of both methods and solvents on the phenol content in the garlic
+                              extract was confirmed [28]. Due to the high potential of the ultrasonic water extract, further
+                              analysis of the bioactive compounds was carried out and revealed the highest contents
+                              of DADS (34.87%), dipropyl trisulfide (25.88%), pyrogallol (13.38%), and methyl propyl
+                              trisulfide (11.36%) [28]. In turn, Johnson et al. [53] determined the levels of carbohydrate
+                              (66.8%), oil (2.6%), moisture (14.5%), total ash (1.3%), and protein (14.8%) in garlic [53]. The
+                              phytochemical analysis of the water extract showed the presence of bioactive ingredients,
+                              i.e., steroids, protein (high content), tannins, terpenoids, saponins (moderate content),
+                              reducing sugar, and phenols (low content) with the presence of phenols and flavonoids
+                              equal to 0.285 mg/mL and 28.74 mg QUE/mL, respectively, which are responsible for
+                              antimicrobial and antioxidant properties [53]. An effect of the use of various solvents
+                              (ethanol, diethyl ether, acetone, hexane, water) on the solubility of the phytochemicals and,
+                              consequently, on the antimicrobial properties was demonstrated as well [54]. The aqueous
+                              extract contained carbohydrates, total protein, saponins, and tannins but did not show
+                              the presence of alkaloids and steroids; hence, ethanol extracts are the richest sources of a
+                              variety of secondary plant substances (carbohydrates, total protein, saponins and tannins,
+                              alkaloids, and steroids) among all analyzed garlic bulb extracts [54].
+
+                              2.2. Alcohol Solutions
+                                   The content of bioactive compounds in ethanol extracts (96% ethanol) was determined
+                              by Bajac et al. [9], who used 3 varieties of garlic (NSPBL-70, Labud, and Bosut) and showed
+                              an amount of AC ranging from 4.39 to 4.56 µg/mL. The levels of other components, i.e.,
+                              MMTS, AS, and DADS, were in the range of 0.45–0.67 µg/mL, 0.21–0.70 µg/mL, and
+                              0.03–0.04 µg/mL, respectively, depending on the type of garlic [9]. In turn, lyophilized
+                              garlic ethanol extracts were distinguished by the MMTS content of 3.33 ng/mg compared
+                              to AC = 1.05 ng/mg, AS = 0.99 ng/mg, and DADS = 0.57 ng/mg [9]. Caiñzares et al. [55]
+                              showed a notable AC level of 7068 ppm in the ethanol extract (96%, v/v) [55]. Moreover,
+                              similar to acetone, ethanol ensured high efficiency of extraction of thiosulfinates (such
+                              as AC) compared to water/hexane-based extraction. Storage did not increase the yield,
+                              which may be related to the ability to recover the solute only from the outer layer sur-
+Antioxidants 2022, 11, 1345                                                                                            7 of 29
+
+
+
+
+                              rounding vegetable particles [55]. In turn, in the study conducted by Mamun et al. [56],
+                              polyphenols, terpenoids, steroids (absence in the petroleum ether extract), saponins, tannins
+                              (absence in the acetone extract), flavonoids, alkaloids, and glycosides (absence in the ace-
+                              tone extract and petroleum ether extract) were detected in both ethanolic and methanolic
+                              extracts [56]. The following bioactive compounds were isolated from the ethanol ex-
+                              tract (99.80%): phenols 24.81 mg expressed as gallic acid GAE/g (dry extract), 22.51 mg
+                              flavonoids expressed as CAE catechins/g (dry extract), flavonols 12.92 mg expressed as
+                              quercetin QUE/g (dry extract), and proanthocyanidins 5.13 mg CAE/g (dry extract). The
+                              following compounds were detected in the methanol extract: phenols—29.72 mg GAE/g
+                              (dry extract), flavonoids—20.18 mg CAE/g (dry extract), flavonols—11.92 mg QUE/g (dry
+                              extract), and proanthocyanidins—5.17 mg CAE/g (dry extract) [56]. Higher efficiency of
+                              TPC and TS recovery was found for ultrasound-assisted extraction with ethanol (99.80%)
+                              than for acetone and ethanol-acetone extraction (50%:50%, v/v). The presence of TPC and
+                              TS in the ethanol extract was 0.84 GAE/g dw and 1.40 µmol/g dw, respectively. Higher
+                              TPC and TS recovery was recorded in the other tested solvents (water) and solvent mixtures
+                              (water, ethanol, acetone) [15]. In turn, Kallel et al. [50] showed a lower yield in ethanol
+                              and methanol extracts than that in the other studied garlic GH extracts, equal to 4.00%
+                              and 7.00%, respectively. The higher extraction efficiency of bioactive compounds from
+                              garlic was achieved with the use of the following solvents: 50%:50% water-ethanol (v/v)—
+                              20.00% and 50%:50% water-methanol (v/v)—7.33% [50]. This experiment showed that
+                              water improved the ethanol extraction yield through the increased polarity of the solvent.
+                              Other factors that affect the yield of extraction are high temperature and the solid-to liquid-
+                              ratio [50]. The methanol-water extract showed the highest recovery of phenols (25 mg
+                              GAE/g dry GH) and flavonoids (0.617 mg QE/g dry GH). Similarly, the total contents of
+                              phenols and flavonoids in the methanol extract were high, i.e., 22.83 mg GAE/g dry GH
+                              and 0.60 mg QE/g dry GH, respectively. In turn, the use of ethanol as a solvent showed
+                              the presence of phenols and flavonoids at a level of 11.80 mg GAE/g dry GH and 0.49 mg
+                              QE/g dry GH, respectively. In the case of the water-ethanol solvent, the phenol content
+                              was 13 mg GAE/g dry GH and the content of flavonoids was 0.51 mg QE/g dry GH [50].
+                              Further analysis of the composition was then performed for the 50%:50% water-methanol
+                              extract (v/v), the 50%:50% water-ethanol extract (v/v), and the methanol extract [50]. The
+                              presence of phenolic acids and hydroxycinnamic acids such as ferulic acid, gallic acid,
+                              hydroxybenzoic acid, caffeic acid, p-coumaric acid, di-ferulic acid, chlorogenic acid, caffeic
+                              acid O-glucoside, coumaroylquinic acid, coumaric acid O-glucoside, and caffeoylputrescine
+                              was demonstrated for methanol-water extract. A similar composition was found for the
+                              ethanol-water extract except for the addition of cinnamic acid and synapic acid [50]. A high
+                              yield of extracts is achieved by the addition of water to acetone, ethanol, and methanol
+                              solvents, thus increasing polarity, which facilitates the extraction of bioactive compounds
+                              such as phenols [50]. On the other hand, the analysis of the composition of the methanol
+                              extract showed the presence of phenolic acids and hydroxycinnamic acids, as in the case
+                              of the 50%:50% methanol-water extract (v/v), with the exception of the absence of caffeic
+                              acid O-glucoside and coumaric acid O-glucoside [50]. In turn, Meriga et al. [51] proved the
+                              presence of steroids, triterpenes, flavonoids, alkaloids, saponins, tannins, and glycosides
+                              in extracts obtained using methanol as a solvent [51]. Bin et al. [54] reported the presence
+                              of carbohydrates, alkaloids, total protein, saponins, tannins, and steroids in the ethanol
+                              extract [54]. In contrast, the ethanolic ultrasonic extract contained a lower amount of
+                              phenols than in water-based isolation, i.e., 0.269 mg GAE/g, while the amount of phenols
+                              in the oven ethanolic extraction was 0.216 mg GAE/g [28] (Table 2).
+Antioxidants 2022, 11, 1345                                                                                                           8 of 29
+
+
+
+
+                                        Table 2. A comparative summary of bioactive ingredients in water and alcohol extracts. Abbre-
+                                        viations: AC—allicin; AS—allyl sulfide; CAE—caffeic acid equivalent; DADS—diallyl disulfide;
+                                        dw—dry weight; GAE—gallic acid equivalents; GH—garlic shell; MMTS—methanethiosulfonic acid
+                                        S-methyl ester; NDA—no data available; QUE—quercetin equivalent; TS—thiosulfinates.
+
+    Compunds                  Solvent                    Contents                Extraction Method       Geographic Region   References
+                         Water extracts            42.74 and 50.79 µg/mL         Pressing extraction          Serbia
+                                                                                                                                [9]
+        AC              Alcohol extracts        4.39 to 4.56 µg/mL (ethanol)     Pressing extraction          Serbia
+                        Alcohol extracts            7068 ppm (ethanol)            Soxhlet extractions          Spain            [55]
+                         Water extracts               0.09–0.33 µg/mL            Pressing extraction          Serbia
+       MMTS                                                                                                                     [9]
+                        Alcohol extracts         0.45–0.67 µg/mL (ethanol)       Pressing extraction          Serbia
+                         Water extracts               1.91–4.72 µg/mL            Pressing extraction          Serbia
+         AS                                                                                                                     [9]
+                        Alcohol extracts         0.21–0.70 µg/mL (ethanol)       Pressing extraction          Serbia
+                         Water extracts               0.01–0.03 µg/mL            Pressing extraction          Serbia
+       DADS                                                                                                                     [9]
+                        Alcohol extracts         0.03–0.04 µg/mL (ethanol)       Pressing extraction          Serbia
+                                                                                Uultrasound-assisted
+                         Water extracts              6.42 µmol/g (dw)                                          Brazil
+                                                                                     extraction
+         TS                                                                                                                     [15]
+                                                                                 Ultrasound-assisted
+                        Alcohol extracts         1.40 µmol/g dw (ethanol)                                      Brazil
+                                                                                      extraction
+                                                                                 Ultrasound-assisted
+                         Water extracts                3.82 mg/g dw                                            Brazil
+                                                                                      extraction
+                                                                                                                                [15]
+                                                                                 Ultrasound-assisted
+                        Alcohol extracts          0.84 GAE/g dw (ethanol)                                      Brazil
+                                                                                      extraction
+                         Water extracts               2.97 mg GAEs/g              Solvent extraction           NAD
+                                                13 mg GAE/g (50% ethanol);
+                                                 11.80 mg GAE/g (ethanol);                                                      [50]
+                        Alcohol extracts                                          Solvent extraction           NAD
+                                               25 mg GAE/g (50% methanol);
+                                                22.83 mg GAE/g (methanol)
+                                                   201.99 to 365.52 µg/g          Blended in water            Spanish
+      Phenols                                           231.66 µg/g               Blended in water            Uzbek
+                         Water extracts                 185.26 µg/g               Blended in water             Thai
+                                                        253.58 µg/g               Blended in water           Burmese            [20]
+                                                        201.04 µg/g               Blended in water          Portuguese
+                                                        394.10 µg/g               Blended in water            Chinese
+                                                        223.74 µg/g               Blended in water            Polish
+                         Water extracts             0.112 to 0.311 mg/g         Boiling and ultrasound         Iran
+                                                                                                                                [45]
+                        Alcohol extracts        0.216 to 0.269 mg/g (ethanol)   Boiling and ultrasound         Iran
+                         Water extracts                0.285 mg/mL                Blended in water            Nigeria           [53]
+                                                 24.81 mg GAE/g (ethanol);
+                        Alcohol extracts                                          Solvent extraction        Bangladesh          [56]
+                                                29.72 mg GAE/g (methanol)
+                         Water extracts              28.74 mg QUE/mL              Blended in water            Nigeria           [53]
+                                                 22.51 mg CAE/g (ethanol);
+                        Alcohol extracts                                          Solvent extraction        Bangladesh          [56]
+                                                20.18 mg CAE/g (methanol)
+     Flavonoids          Water extracts           0.045 mg QUE/g dry GH           Solvent extraction           NAD
+                                                0.51 mg QUE/g (50% ethanol);
+                                                  0.486 mg QUE/g (ethanol);                                                     [50]
+                        Alcohol extracts                                          Solvent extraction           NAD
+                                              0.617 mg QUE/g (50% methanol);
+                                                 0.602 mg QUE/g (methanol)
+                                                 12.92 mg QUE/g (ethanol);
+     Flavonols          Alcohol extracts                                          Solvent extraction        Bangladesh          [56]
+                                                11.92 mg QUE/g (methanol)
+                                                  5.13 mg CAE/g (ethanol);
+ Proanthocyanidins      Alcohol extracts                                          Solvent extraction        Bangladesh          [56]
+                                                 5.17 mg CAE/g (methanol)
+Antioxidants 2022, 11, 1345                                                                                            9 of 29
+
+
+
+
+                              2.3. Other Organic Solvents
+                                   Unfortunately, organic solvents are dangerous to humans and are not suitable for direct
+                              consumption due to their toxicity, which is influenced by their concentration, time of expo-
+                              sure, frequency, and nature. In addition, the solvent must be removed, which may result in
+                              degradation or loss of active substances [41]. In the study conducted by Cañizares et al. [55],
+                              an AC level of 3663 ppm was detected in the acetone extract (99.50%, v/v) [55]. The yield of
+                              the acetone extraction of bioactive compounds was significantly higher (38.18%) than in the
+                              other tested extracts (2–6%) (ethanol + Soxhlet method; ethanol + Stirred tank extraction
+                              (ET); hexane + Soxhlet method; hexane + ET; water with solvent elimination; water without
+                              solvent elimination). This is related to the degradation of the cell wall and, consequently,
+                              the recovery of the solute from garlic cells through acetone extraction. As a result, the water
+                              content decreased, and the porosity increased during storage. Therefore, the efficiency
+                              of acetone extraction increased with storage for up to 9 months [55]. As in the case of
+                              using water as a solvent, the efficiency of the extraction process with hexane (99.50% v/v)
+                              was low [55]. Mamun et al. [56] also investigated the presence of bioactive compounds
+                              in acetone (99.50%), chloroform, and petroleum ether extracts in comparison to aqueous,
+                              ethanol, and methanolic extracts [56]. The authors found polyphenols, terpenoids, steroids,
+                              saponins, tannins, flavonoids, alkaloids, and glycosides in the acetone extract. The presence
+                              of the same compounds was identified in the chloroform extract and petroleum ether
+                              extract, except for the absence of tannins and glycosides in the chloroform extract and the
+                              absence of steroids and glycosides in the petroleum ether extract [56]. Moreover, further
+                              quantitative analysis of the acetone extract revealed characteristic contents of phenolic
+                              compounds—110.76 mg GAE/g (dry extract), flavonoids—43.32 mg CAE/g (dry extract),
+                              flavonols—15.31 mg QUE/g (dry extract), and proanthocyanidins—8.54 mg CAE/g (dry
+                              extract). The chloroform extract showed the presence of 41.19 mg GAE/g of phenols,
+                              25.70 mg CAE/g of flavonoids, 9.00 mg QUE/g of flavonols, and 3.62 mg CAE/g of
+                              proanthocyanidins. In turn, the petroleum ether extract contained 25.65 mg GAE/g of
+                              phenolic compounds, 14.39 mg CAE/g of flavonoids, 5.81 mg QUE/g of flavonols, and
+                              3.00 mg CAE/g of proanthocyanidins [56]. By analogy with the ethanol extract analyzed
+                              by Cavalcanti et al. [15], the use of acetone (99.50%) in ultrasonically assisted extraction
+                              resulted in lower content of TPC and TS equal to 0.35 mg GAE/g dw and 1.43 µmol/g
+                              dw, respectively, compared to the other tested extracts (water, ethanol) and mixtures of
+                              extracts [15]. The acetone extract showed only a higher level of TPC and TS compared
+                              to the lowest content of these compounds in the 50%/50% ethanol-acetone extract [15].
+                              In analyses of hexane, chloroform, and ethyl acetate extracts, saponins were found in the
+                              hexane extract and ethyl acetate extract, but steroids and triterpenes were detected in the
+                              chloroform extract, showing the different affinity of these compounds for certain solvents.
+                              The presence or absence of individual compounds in the extracts is associated with their
+                              biological activity [51]. However, other studies have shown quite a different extraction
+                              profile, in which in acetone (carbohydrates, total protein, steroids, flavonoids), diethyl
+                              ether (carbohydrates, total protein, tannins, steroids), and hexane extracts (carbohydrates,
+                              alkaloids, total protein, flavonoids) were analyzed [54].
+                                   Additionally, Cavalcanti et al. [15] analyzed solvent mixtures using ultrasonic extrac-
+                              tion and the single-sided axial design (SAD) method [15]. The authors showed the highest
+                              recovery of TPC (5.84 mg GAE/g dw) in a water-ethanol-acetone mixture (66.6%:16.7%:
+                              16.7%, v/v/v) compared to the lower level obtained through water extraction, ethanol
+                              extraction, acetone extraction, and in other solvent mixtures. The TS content in the water-
+                              ethanol-acetone mixture (66.6%:16.7%:16.7%, v/v/v) extraction was 3.69 µmol/g dw, and
+                              a higher amount of TS was found only in the water extract [15]. The water-ethanol and
+                              water-acetone mixtures (50%:50%, v/v) were also rich in bioactive compounds. The con-
+                              tents of TPC and TS were 3.62 mg GAE/g dw and 2.78 µmol/g dw in the water-ethanol
+                              extraction, respectively, and 4.28 mg GAE/g dw and 3.41 µmol/g dw in the water-acetone
+                              variants. In turn, the acetone-ethanol mixture (50%:50%, v/v) yielded the lowest amount of
+                              TPC (0.26 mg GAE/g dw) and TS (0.33 µmol/g dw) [15].
+Antioxidants 2022, 11, 1345                                                                                            10 of 29
+
+
+
+
+                              2.4. Garlic Essential Oil Quality Depending on the Extraction Method
+                                    Garlic oils are obtained by steam distillation of garlic cloves using n-hexane or
+                              petroleum ether, among other methods [57]. The amount of oil in garlic cloves is in
+                              the range of 0.20–0.50%, and DADS and DATS are the bioactive compounds in the oil. Due
+                              to its pungent odor, garlic oil capsules contain mainly vegetable oils and lower content
+                              of garlic oil [57]. As reported by Dehariya et al., garlic oil is rich in DADS (48.42%), allyl-
+                              methyl trisulfide (7.27%), trisulfide, di-2-propenyl (3.46%), and DAS (7.64%) [58]. Rafe et al.
+                              studied the effect of the extraction procedure and solvent type on the physicochemical
+                              properties of garlic oil that can facilitate the encapsulation process [23]. The yield of garlic
+                              oil extraction expressed as the volume of oil after evaporation of the solvent was dependent
+                              on the extraction method used, with the highest result of 7.00% for supercritical fluid
+                              extraction (SCF). The oil obtained with the SCF method exhibited high viscosity, which
+                              facilitated encapsulation. Extraction with solvents and steam distillation indicated a yield
+                              level of 6.00% and 5.50%, respectively. The specific gravity of garlic oils, which is important
+                              for commercial feasibility, was also checked, but the method showed no effect on its value
+                              (0.894 g/cm3 ). The higher efficiency achieved by SCF compared to solvent extraction and
+                              steam distillation may be related to better transport properties, such as diffusivity, mass
+                              transfer coefficient, and penetration capacity [23].
+
+                              2.5. Other Factors
+                                    Parameters such as temperature, pressure, and the size of the garlic used in the
+                              extraction are important for the extraction process [27,59]. Aqueous extraction in a stirred
+                              tank with a solvent recovery step resulted in a loss of antimicrobial activity with a maximum
+                              holding temperature of the extract of 95 ◦ C and an overall extraction temperature of 21 ◦ C.
+                              For comparison, aqueous extraction was performed without solvent recovery at a lower
+                              extraction temperature of 23 ◦ C, and the extract exhibited antimicrobial activity against
+                              Helicobacter pylori [55]. As reported by the authors, the negative effect of the temperature
+                              close to boiling is the result of the thermal degradation of compounds responsible for
+                              inhibition of the growth of bacteria [55]. The negative effect of temperature on the content
+                              of bioactive compounds and enzymes involved in their production was also reported by
+                              Loghmanifar et al. [45], who showed the lowest AC content of 0.009% in boiled water extract,
+                              which confirms the negative effect of heat [28]. In addition, cooking softens the cell wall and
+                              facilitates the release of carotenoids into the water during extraction, which results in their
+                              lower content in tissues [28]. In turn, the highest AC content, equal to 0.086%, was detected
+                              in the ultrasonic aqueous extract [28]. On the other hand, Pedraza-Chaverrı et al. [60]
+                              compared the following extracts: cooked garlic clove extract, microwave-treated garlic
+                              clove extract, pickled garlic extract, heated garlic powder extract, and heated raw garlic
+                              extract [60]. They demonstrated the thermal stability of the bioactive compounds in the
+                              aqueous garlic extract involved in scavenging superoxide anion (O2 •− ), hydrogen peroxide
+                              (H2 O2 ), and hydroxyl radicals (OH•). No effect of alliinase on the scavenging of the
+                              tested radicals was shown [61]. However, compared to unheated raw garlic or unheated
+                              garlic powder, the O2 •-scavenging capacity of the microwave-treated garlic clove extract
+                              and the heated raw garlic extract was lower. In turn, a lower antioxidant potential in
+                              relation to H2 O2 scavenging was demonstrated for the heated garlic powder extract and
+                              the pickled garlic extract [61]. The extraction method has an impact on the acquisition
+                              of components as well. It has been proven that the extraction efficiency in a tank with
+                              an agitator is more effective than that of the Soxhlet extraction due to the higher yield,
+                              lower operating temperatures (room temperature), and easy operation [55]. The effective
+                              mixing speed was 175 rpm, and the extraction time was 2 h. The selected mixing speed
+                              provides suitable efficiency, whereas a higher speed could impede solute recovery. On
+                              the other hand, extending the extraction time to 3 h does not significantly increase the
+                              efficiency but increases the costs of the extraction process [55]. The increase in the extraction
+                              efficiency is influenced by the particle size of garlic, which increases with the decrease in
+                              size. This is associated with the larger specific surface area and, as a result, easy removal
+Antioxidants 2022, 11, 1345                                                                                          11 of 29
+
+
+
+
+                              of the contents [55]. Dehariya et al. [58] analyzed the effect of 2, 3, and 4 h garlic ethanol
+                              extraction with the Soxhlet method at temperatures of 50, 60, and 70 ◦ C on the efficiency
+                              and antioxidant properties [58]. The highest yield, i.e., 16.55%, was obtained after 4 h of
+                              extraction at 50 ◦ C. In turn, the highest antioxidant properties (12.018 mM of tocopherol
+                              per mL of oil) were achieved by extraction for 2 h at 70 ◦ C. As suggested by the authors,
+                              it may have been a result of the higher activity of sulfur compounds and phenols or
+                              better extraction at 70 ◦ C [58]. Another study compared the extraction of garlic using
+                              ethanol as a solvent with supercritical carbon dioxide (SC-CO2 ) extraction [59]. Despite
+                              the higher yield of the ethanol extraction (5.50%) than the SC-CO2 extraction, where the
+                              yield ranged from 0.65 to 1.00%, ethanol turned out to be a less selective solvent for the
+                              valuable components of the extract [59]. Moreover, in the case of SC-CO2 , it was found
+                              that a temperature in the range of 35–60 ◦ C at a pressure of 300 bar had little effect on
+                              the extraction rate and yield. On the other hand, with the increase in the pressure in
+                              the range of 150–400 bar at a constant temperature of 50 ◦ C, an increase in the extraction
+                              efficiency was observed. However, the efficiency of extraction by a further increase in
+                              the temperature led to thermal damage and/or co-extraction of unwanted compounds
+                              resulting in degradation and/or dilution of the desired components [59]. In addition, the
+                              comparison of raw materials in the form of fresh crushed garlic and dehulled or dried
+                              garlic showed a greater similarity to commercial preparations of fresh garlic. This may
+                              be explained by the thermal or oxidative degradation of precursors and products during
+                              hot air drying resulting in the loss of valuable bioactive compounds [59]. Among the
+                              methods of allicin extraction, i.e., solvent extraction, ultrasonic-assisted extraction (UAE),
+                              pressurized liquid extraction (PLE), supercritical CO2 extraction (SCCO2 ), and subcritical
+                              water extraction (SWE), a great potential of the SWE method has been shown by researchers,
+                              considering the disadvantages of the other methods, i.e., the use of an organic solvent,
+                              the long extraction time, and the application of two types of processes (enzymatic process
+                              and extraction process). Moreover, the advantage of the SWE method is the ability to
+                              regulate the temperature in the subcritical phase, which in turn facilitates the modification
+                              of the polar character of water and, consequently, the possibility of efficient extraction of
+                              compounds with medium and low polarity [62].
+
+                              3. Biological Properties of Garlic Extracts
+                              3.1. Antibacterial Properties
+                                   The high antimicrobial effectiveness of garlic is related to the content of such com-
+                              pounds as allicin, ajoenes, and allyl sulfides. It has been well described that AC inhibits
+                              the growth of both Gram-positive and Gram-negative bacteria and reduces the formation
+                              of bacterial biofilm [63]. AC is one of the main bioactive compounds in garlic water ex-
+                              tracts [57]. When garlic is chopped and/or crushed, AC is produced through the activation
+                              of the alliinase enzyme, which acts on alliin [64]. According to the literature, extracts
+                              obtained with the use of water as a solvent are characterized by a particularly high antimi-
+                              crobial potential, which is correlated with the high AC content [9,65]. The antimicrobial
+                              activity of alcohol extracts and organic extracts has been demonstrated as well [55]. In
+                              addition, despite its low polarity, AC is more stable in higher polarity solvents such as
+                              water at 0.1 MPa than in lower polarity organic solvents [28,66]. Table 3 summarizes the
+                              biological properties of Allium sativum L. in both in vivo and in vitro tests. The mechanism
+                              of biological activity of the main bioactive compounds contained in extracts and oils of
+                              garlic (Allium sativum L.) is shown in Figure 3.
+Antioxidants 2022, 11, 1345                                                                                                         12 of 29
+
+
+
+
+                                 Table 3. Biological properties of garlic (Allium sativum L.) in certain models.
+
+                                             Type of Action                          Model                          References
+                                             Antibacterial                          In vitro                         [51,67–70]
+                                              Anticancer                        In vitro/In vivo                      [6,71–80]
+                                             Antidiabetic                            In vivo                            [81,82]
+                                              Antifungal                            In vitro                         [25,83–86]
+                                       Antihypercholesterolemic                 In vivo/In vitro                       [87–89]
+                                           Antihypertensive                     In vivo/In vitro                          [90]
+                                          Antiinflammatory                      In vivo/In vitro                     [34,91–93]
+                                             Antioxidant                            In vitro                       [68,80,94–101]
+                                             Antiparasitic                      In vivo/In vitro                      [102,103]
+                                               Antiviral                            In vitro                         [104–108]
+                                           Hepatoprotective                          In vivo                        [98,109,110]
+   Antioxidants 2022, 11, 1345           Immunostimulatory                      In vitro/In vivo                     [111–113]       12 of 29
+                                             Insecticidal                            In vivo                           [51,114]
+                                           Neuroprotective                          In vitro                          [115,116]
+
+
+
+
+                                    Figure 3. Mechanism of biological activity of the main bioactive compounds contained in extracts
+                                 Figure 3. Mechanism of biological activity of the main bioactive compounds contained in extracts
+                                    and oils of garlic (Allium sativum L.).
+                                 and oils of garlic (Allium sativum L.).
+                                    Table
+                                 3.1.1.   3. Biological Activity
+                                        Antibacterial   propertiesofofAqueous
+                                                                       garlic (Allium sativum L.) in certain models.
+                                                                                 Extracts
+                                      The antimicrobial
+                                            Type of Actionactivity of aqueous garlic
+                                                                                Model extracts against Escherichia   coli expressed
+                                                                                                              References
+                                 as the minimum    inhibitory
+                                             Antibacterial     concentration  (MIC)   was
+                                                                               In vitro    estimated  at 56.82 to  227.27
+                                                                                                               [51,67–70]µL/mL,
+                                 while the minimum     bactericidal
+                                              Anticancer            concentration  (MBC)
+                                                                           In vitro/In vivoranged from   227.27 to 454.54 µL/mL
+                                                                                                                [6,71–80]
+                                 dependingAntidiabetic
+                                              on the garlic variety. In turn, In MIC
+                                                                                   vivoand   MBC  of aqueous     extracts
+                                                                                                                  [81,82] against
+                                 Staphylococcus aureus ranged from 56.82 to about 120.00 µL/mL and from about 120.00
+                                              Antifungal                       In vitro                        [25,83–86]
+                                 to 227.27 µL/mL, respectively, also depending on the garlic variety [9]. Moreover, the
+                                      Antihypercholesterolemic             In vivo/In vitro                      [87–89]
+                                 researchers compared the antimicrobial activity of the analyzed water and ethanol extracts
+                                           Antihypertensive                In vivo/In vitro                         [90]
+                                 and showed a higher efficiency of the water extracts, which was correlated with higher AC
+                                          Antiinflammatory                 In vivo/In  vitro                   [34,91–93]
+                                 content, with a 10-fold difference between the extracts [9]. The antimicrobial properties of
+                                             Antioxidant
+                                 aqueous extracts  of garlic were investigatedInbyvitro
+                                                                                    Wallock-Richards et al. [68,80,94–101]
+                                                                                                             [65], who also high-
+                                 lighted the Antiparasitic                 In vivo/In
+                                             correlation of antimicrobial activities   vitro
+                                                                                     with the presence of AC in [102,103]
+                                                                                                                   the extract [65].
+                                               Antiviral                       In  vitro                       [104–108]
+                                 The MIC interval ranged from 0.50 to 3.00% (v/v) for 38 Burkholderia cepacia complex
+                                 isolates. Hepatoprotective                     In vivoof AC with a recombinant
+                                           Moreover, a further mechanism of action                            [98,109,110]
+                                                                                                                      form of thiol-
+                                         Immunostimulatory                 In vitro/In vivo                    [111–113]
+                                             Insecticidal                      In vivo                           [51,114]
+                                           Neuroprotective                     In vitro                         [115,116]
+Antioxidants 2022, 11, 1345                                                                                            13 of 29
+
+
+
+
+                              dependent peroxyredoxin (BCP) indicated that both pure AC and AC from garlic aqueous
+                              extract modified the cysteine residue of BCP. As suggested by the authors, AC may act as
+                              an electrophilic reagent targeting protein thiols [65]. On the other hand, Cañizares et al.
+                              observed that water extract was less effective than ethanol and acetone extracts in terms
+                              of the antimicrobial properties against Helicobacter pylori [55]. Similarly, despite the high
+                              yield of aqueous extract with antibacterial activity, Kallel et al. [50] demonstrated lower
+                              antibacterial efficacy than that of extracts obtained with the use of other solvents. This may
+                              be correlated with the biochemical composition of the extract, i.e., the phenolic content and
+                              high polarity of water, which hinders the extraction of nonpolar compounds from GH [50].
+                              In turn, Olukunle and Adenola [117] showed higher effectiveness of aqueous extract of
+                              Allium sativum compared to methanol and ethanol extracts against two clinical strains of
+                              Salmonella typhi [117], with the efficiency of the aqueous extract (21.83%) and the growth
+                              inhibition zone at the concentration of 800 mg/mL equal to 7.00 mm and 10 mm for S. typhi I
+                              and K isolates, respectively. In turn, the MIC for S. typhi I and K isolates was 150.00 mg/mL,
+                              and the MBC was 200.00 mg/mL [117]. The mechanism of the antimicrobial action of
+                              polyphenols is mainly based on the inhibition of microbial extracellular enzymes, effects
+                              on metabolism, and deprivation of substrates that are necessary for microbial growth [118].
+                              Among the tested extracts from 14 plants, the water extract of garlic most effectively inhib-
+                              ited the development of B. anthracis, responsible for the development of gastrointestinal
+                              anthrax, which underlines the importance of these extracts [52]. The antimicrobial activity
+                              of the aqueous extract against B. anthracis was confirmed in the agar well diffusion test
+                              (AWDA), while the evaluation of the biocidal activity showed a decrease in the number
+                              of viable colony-forming cells/mL (CFU/mL) by 6 logs from 6 to 12 h in liquid cultures
+                              exposed to the aqueous extract. Moreover, the evaluation of the extract stability proved its
+                              thermostability at 50 ◦ C for 12 h with the antimicrobial effect > 80.00%. Additionally, the
+                              potential interaction of the aqueous extract with antibiotics currently used in the treatment
+                              of anthrax was tested, and no antagonistic activity was found. Finally, it was proved that
+                              mainly derivatives of phthalic acid, acid esters, compounds containing phenyl groups, and
+                              steroids are responsible for the antimicrobial activity of water garlic extracts [52]. Moreover,
+                              similar to methanol extract, the water extract showed high antimicrobial efficacy, which
+                              was higher than that of the hexane extract. Chloroform and ethyl acetate had negligible
+                              activity. The use of water as a solvent most effectively inhibited the growth of Bacillus
+                              subtilis, Staphylococcus aureus, Escherichia coli, Klebsiella pneumoniae, and Candida albicans.
+                              The highest sensitivity was exhibited by B. subtilis with an inhibition zone of 20 mm and a
+                              minimum inhibitory concentration of 100 µg/mL [51]. Johnson et al. [53] also demonstrated
+                              the antimicrobial efficacy of an aqueous extract of garlic with a growth inhibition zone of
+                              25.6 mm for S. aureus and 28.1 mm for P. aeruginosa. In this study, the MIC and MBC values
+                              were 80 mg/mL and 104 mg/mL, respectively, for S. aureus and 40 mg/mL and 88 mg/mL,
+                              respectively, for P. aeruginosa. These data indicate the greater sensitivity of P. aeruginosa to
+                              the antimicrobial properties of the aqueous extract [53]. In addition, Durairaj et al. [119]
+                              proved the antimicrobial efficacy of aqueous garlic extract against 15 g-positive bacteria
+                              and 2 g-negative bacteria. The tested aqueous extract inhibited the growth of Bacillus
+                              subtilis most strongly but had the least potent inhibitory activity against Proteus sp. The
+                              MIC value was in the range of 6–11 mg/mL for Gram-positive bacteria and 7–21 mg/mL
+                              for Gram-negative bacteria [119]. Moreover, the influence of temperature and time on
+                              the antimicrobial properties of the aqueous extract was investigated, and maintenance of
+                              the biological properties was demonstrated at room temperature for up to 7 days and at
+                              −20 ◦ C for 90 days [119]. In addition, aqueous ultrasonic garlic extracts have shown an
+                              antimicrobial potential to inhibit the growth of E. coli, Staphylococcus aureus sub. aureus,
+                              Streptococcus mutans, and Poryphyromonas gingivalis strains [69].
+
+                              3.1.2. Antibacterial Activity of Alcoholic Extracts
+                                   Similar to water extracts, ethanol extracts also have strong antimicrobial activity.
+                              Bajac et al. [9] assessed the antibacterial properties of ethanol extracts with MIC and MBC
+Antioxidants 2022, 11, 1345                                                                                            14 of 29
+
+
+
+
+                              of 113.64 µL/mL and 227.27 µL/mL, respectively, for Gram-negative E. coli. For Gram-
+                              positive S. aureus, the type of garlic used was significant, with MIC ranging from 113.64 to
+                              227.27 µL/mL and MBC in the range from 227.27 µL/mL to 454.54 µL/mL [9]. Additionally,
+                              as in the case of water extracts, a possible influence of the presence of AC on antimicrobial
+                              properties was found [9]. In turn, Cañizares et al. [55] proved the effectiveness of ethanol
+                              extract in inhibiting the growth of H. pylori, E. coli, and Staphylococcus epidermidis. The
+                              antimicrobial properties are most likely correlated with the AC content [55]. Compara-
+                              tive analysis with antibiotics proved that garlic extract was more effective than nalidixic
+                              acid and metronidazole, and its effectiveness was comparable to that of ciprofloxacin
+                              and erythromycin. Considering the commercial concentrations of erythromycin (15 µg),
+                              metronidazole (10 µg), ciprofloxacin (10 µg), and nalidixic acid (30 µg), as well as the
+                              quantity of the extracts used, the garlic extracts were shown to have only 3- or 4-fold
+                              lower antimicrobial activity [55]. Antibacterial activity against Gram-positive bacteria
+                              B. subtilis, S. aureus, and Bacillus thuringiensis and Gram-negative P. aeruginosa and Klebsiella
+                              pneumoniae was exhibited by methanol extract [50]. Gram-positive bacteria were more
+                              sensitive to the action of the extract than Gram-negative bacteria, which is related to the
+                              difference in the composition of their cell envelope [50]. In turn, Olukunle and Adenola
+                              (2019) examined the antibacterial activity against S. typhi and showed lower antimicrobial
+                              efficiency and potency of ethanol and methanol extracts in comparison with aqueous garlic
+                              extract [117]. Bin et al. [54] demonstrated the antimicrobial activity of ethanol, diethyl
+                              ether, acetone, hexane, and water extracts against drug-resistant bacterial strains isolated
+                              from periodontal and dental caries samples (Lactobacillus acidophilus, Streptococcus sanguis,
+                              S. salivarius, S. mutans, and Staphylococcus aureus) [54]. The ability to produce biofilm
+                              and the production of extracellular polysaccharides (EPS) by bacteria contributes to the
+                              currently increasing resistance to antibiotics. As shown by the researchers, the ethanol
+                              extract was the most effective, especially against S. mutans with MIC of 20 mg/mL and
+                              MBC of 70 mg/mL, as well as S. aureus with MIC of 35 mg/mL and MBC of 60 mg/mL [54].
+                              Allium sativum ethanol extract in a concentration of 20% showed a strong antibacterial effect
+                              against Ralstonia solanacearum [120]. In recent studies with formocresol as a positive control
+                              and ethanol as a negative control, garlic ethanol extracts in concentrations of 100%, 50%,
+                              and 25% showed antimicrobial activity against S. mutans and Lactobacillus acidophilus. The
+                              latter was a more sensitive strain. Formocresol at a concentration of 1:5 showed excellent
+                              antimicrobial activity, and no such activity was observed with the use of ethanol at 24 and
+                              48 h intervals. As reported by Vyas et al. [121], Allium savitum ethanol extracts may be a
+                              replacement for the currently used formocresol in the treatment of pulpotomy [121]. In
+                              turn, methanol extract and water-methanol (50%:50%) extract induced strong inhibition
+                              of bacterial growth, which was related to the high content of phenols in the extracts such
+                              as caffeic acid, p-coumaric acid, ferulic acid, and di-ferulic acid [50]. In addition to the
+                              antibacterial activity of the aqueous-methanol extract (50%:50%) against the Gram-positive
+                              strains tested, this extract applied at a concentration of 10 mg/mL was effective against
+                              Gram-negative strains of P. aeruginosa and K. pneumoniae [50]. Lower antimicrobial effec-
+                              tiveness and lower content of phenolic compounds were found for the ethanol extract. In
+                              addition, the lower phenol content in the ethanol-water extract (50%:50%) was correlated
+                              with the lower antimicrobial potential [50]. Moreover, Meriga et al. [51] demonstrated
+                              antimicrobial activity of methanol extracts against B. subtilis, E. coli, and K. pneumoniae.
+                              As in the case of water extraction, B. subtilis was the most sensitive organism, with an
+                              inhibition zone of 16 mm and a MIC value of 100 (µg/mL). The methanol extract exhibited
+                              no antimicrobial efficacy only against S. aureus and C. albicans [51].
+                                    The antimicrobial properties of alcohol extracts are mainly associated with the content
+                              of AC and polyphenols [9,50]. However, despite the AC content in alcoholic extracts (e.g.,
+                              ethanol extracts), usually aqueous extracts show stronger antimicrobial activity, most likely
+                              due to the presence of other compounds in the extract and their synergistic or additive
+                              effect [63].
+Antioxidants 2022, 11, 1345                                                                                             15 of 29
+
+
+
+
+                              3.1.3. Antibacterial Activity of Other Types of Extracts
+                                    High activity inhibiting the growth of H. pylori was exhibited by acetone and ethanol
+                              extracts, whereas hexane and water extracts were characterized by low efficiency [55]. The
+                              high activity is most likely related to the AC and allyl-methyl and methyl-allyl thiosulfinate
+                              content in the extracts [55,122]. Similar to ethanol, acetone extracts were estimated to have
+                              3 to 4 times lower activity against H. pylori compared to the commercial concentrations of
+                              the tested antibiotics [55]. Moreover, both acetone and ethanol extracts were effective and
+                              inhibited the growth of E. coli and S. epidermidis in addition to H. pylori [55]. In turn, Meriga
+                              et al. [51] reported no antimicrobial activity of hexane, chloroform, and ethyl acetate garlic
+                              extracts against B. subtilis, S. aureus, E. coli, K. pneumoniae, and C. albicans [51].
+
+                              3.2. Antioxidant Properties
+                                    Bioactive compounds such as polyphenols play a protective role against oxidative
+                              stress-related diseases, in addition to traditional antioxidants, e.g., butylated hydrox-
+                              yanisole (BHA), butylhydroxytoluene (BHT), and ascorbyl palmitate (PA) [123]. As reported
+                              in the literature, ethanol and methanol garlic extracts usually have strong antioxidant prop-
+                              erties, which result from the high content of phenols [50]. Aqueous extracts and extracts
+                              obtained using organic compounds as solvents also exhibit antioxidant activity [51,56]. The
+                              antioxidant efficiency in scavenging free radicals, e.g., DPPH•, depends on the quantitative
+                              content of phenols and tocopherols in the tested extracts [56]. An increase in the concen-
+                              tration of phenols is accompanied by an increase in the antioxidant power [28,124]. An
+                              increase in the number of hydroxyl groups and in the concentration of phenols in extracts
+                              results in an increase in the potential of hydrogen donors for free radicals. Antioxidant
+                              activity depends on the position of phenol hydroxyl groups, and phenolic compounds with
+                              lower molecular weights exhibit their greater bioavailability [28]. The study of Ahmad
+                              et al. [125] assessed the effect of methods, i.e., maceration, percolation, ultrasonic-assisted,
+                              Soxhlet and Soxtec extraction (STE), and accelerated solvent extraction (ASE), on the extract
+                              yield and phenolic content of Allium sativum L. In addition to the above, the effect of the
+                              type of solvents such as n-hexane, dichloromethane and methanol, and temperature (60,
+                              80, and 100 ◦ C) on the following factors such as extraction yield was evaluated, phenolic
+                              content and antioxidant activity (DPPH, and ABTS). Both STE and ASE methods using
+                              methanol as solvent at 100 ◦ C showed high yield and recovery of the extract equal to
+                              1221.10 mg/5 g (24.42%) and 91.50 mg/1 g (9.15%), respectively [125].
+                                    In addition to their antimicrobial properties, water extracts have antioxidant power.
+                              This is most likely related to the high content of bioactive compounds such as TS [15]. The
+                              total antioxidant capacity (TAC) and oxygen radical absorbance capacity (ORAC) were
+                              200.31 mg expressed as ascorbic acid equivalent (AAE)/g dw and 882.47 µmol expressed as
+                              Trolox equivalent (TE)/g dw, respectively, and were higher than in the case of the acetone-
+                              water mixture (1/4: 3/4, v/v) [15]. Further antioxidant analysis also showed the ability to
+                              scavenge the DPPH• radical with an IC50 of 3.40 mg/mL [15]. In contrast, Kallel et al. [50]
+                              showed a lower antioxidant efficiency of water extracts compared to methanol, ethanol, and
+                              50%:50% methanol-water, which was related to the low phenol content [50]. As in the case
+                              of antimicrobial properties, the higher efficiency of lower polarity solvents than water is
+                              most likely a result of the nonpolar nature of GH [50]. In addition to the strong antioxidant
+                              activity exhibited by methanol extract, Meriga et al. [51] demonstrated high antioxidant
+                              efficiency of aqueous garlic bulb extract, which was confirmed by the high DPPH• rad-
+                              ical scavenging ability in the range of 80.00–90.00%. The strong reducing power of the
+                              aqueous extract, which amounted to 55.00–65.00%, was higher than that demonstrated
+                              for the methanol extract in relation to ascorbic acid [51]. The garlic varieties originating
+                              from different geographic areas used for the extraction had an effect on the antioxidant
+                              power [20]. The highest DPPH• and ABTS radical scavenging capacity was exhibited by
+                              the Chinese extract with values of 4.63 µg/mL and 0.43 µg/mL, respectively. Moreover, this
+                              extract contained the highest content of peptides, proteins, and polyphenols. The greatest
+                              power of chelation of Cu2+ ions was exhibited by the extracts from the Polish (16.58 µg/mL)
+Antioxidants 2022, 11, 1345                                                                                            16 of 29
+
+
+
+
+                              and Chinese garlic (14.90 µg/mL) [20]. In turn, as reported by Loghmanifar et al. [45], the
+                              ultrasonic water extract and the shaking water extract showed the highest reduction in the
+                              DPPH• radical amounting to 50.00% at 500 ppm; analogously, the highest IC50 antioxidant
+                              activity of 4.376 µg/mL was determined for the aqueous ultrasonic extract compared to the
+                              other tested extracts (ultrasonic ethanol, oven aqueous, oven ethanol). In turn, the lowest
+                              antioxidant power IC50 of 8.540 mg/mL was demonstrated for the boiled aqueous extract,
+                              which corresponds to the lowest phenol content in this extract. The phenol content in
+                              extracts has an influence on the antioxidant effectiveness [28]. Another study also showed
+                              the potential of garlic aqueous extract in the concentration range from 3 to 40 mg/mL
+                              to reduce the DPPH•+ radical from 4.47% to 92.44%. The IC50 for the aqueous extract
+                              was 25.30 mg/mL [53]. The phenolic constituents found in plants, including flavonoids,
+                              phenolic acids, and phenolic diterpenes, are mainly responsible for the antioxidant activ-
+                              ity [53,126]. This is related to the redox properties of phenols, which result in neutralization
+                              of free radicals, quenching of singlet and triplet oxygen, and breakdown of peroxides [53].
+                                    On the other hand, as the concentration of ethanol and methanol extracts (µg/mL)
+                              increased, the antioxidant activity and iron-reducing antioxidant power increased [56].
+                              In order to analyze the antioxidant potential of garlic extracts obtained using various
+                              solvents, the following tests were performed: DPPH•, ABTS, hydroxyl radical scavenging
+                              (HO•), and lipid peroxidation (LPI) tests. The antioxidant activity of ethanol extract
+                              with IC50 (50% inhibitory concentration) was 7.80 µg/mL (DPPH•), 13.60 µg/mL (ABTS),
+                              16.70 µg/mL (HO), and 21.70 µg/mL (LPI), respectively. In the case of methanol extract,
+                              it was equal to 7.20 µg/mL (DPPH•), 15.90 µg/mL (ABTS), 16.30 µg/mL (HO), and
+                              22.50 µg/mL, respectively (LPI) [56]. Similarly, Kallel et al. [50] proved the antioxidant
+                              effectiveness of extracts obtained using methanol as a solvent [50]. This was evidenced by
+                              the high DPPH• radical scavenging capacity with an IC50 of 0.64 mg/mL and the hydroxyl
+                              radical scavenging capacity of 90.04% at 3 mg/mL. Moreover, a strong reduction potential
+                              of Fe3+ to Fe2+ was found [50]. The antioxidant efficacy of ethanolic and methanolic
+                              garlic extracts was reported by Mamun et al. [56] and Kallel et al. [50] (methanol extract),
+                              showing the dependence of the antioxidant activity on the phenol content in the tested
+                              extracts [50,56]. Likewise, Meriga et al. [51] demonstrated the antioxidant potential of
+                              methanol extract with DPPH• radical scavenging capacity ranging from 80% to 90% and
+                              40% to 50% reducing power compared to ascorbionic acid [51]. The antioxidant potential
+                              of 50%:50% methanol-water extract (v/v) related to the high total recovery of phenolic
+                              compounds was also demonstrated by Kallela et al. [50]. The 50%:50% (v/v) methanol-water
+                              extract was characterized by IC50 for DPPH• of 0.26 mg/mL, high potential of reduction
+                              in free hydroxyl radicals, and reducing power equal to 1.69 at 10 mg/mL. In contrast, the
+                              50%:50% ethanol-water (v/v) extract exhibited lower antioxidant activity, reflected in the
+                              IC50 value for DPPH•, and free radical scavenging potential, which were 1.26 mg/mL and
+                              0.344 at 10 mg/mL, respectively. The reducing power of this extract was lower as well [50].
+                              Similarly, the antioxidant potential of methanol extract (98.00%) from garlic reflected as
+                              the ability to scavenge the DPPH• radical was estimated by Sultana et al. [127] at IC50 of
+                              89.25 µg/mL, compared to that of ascorbionic acid [127].
+                                    As reported by Mamun et al., an increase in the concentration of extracts with the use
+                              of organic solvents results in an increase in the antioxidant potential and ferric reducing
+                              antioxidant power [56]. This is particularly evident in the case of acetone extract, which
+                              showed higher antioxidant activity than the commonly used BHT antioxidant, with IC50 of
+                              5.10 µg/mL for DPPH•, 11.30 µg/mL for ABTS, 15.70 µg/mL for HO. , and 19.50 µg/mL
+                              for LPI. The effectiveness of chloroform and petroleum ether extracts was lower [56]. Most
+                              likely, this is the result of a quantitative difference in the phytochemical composition
+                              (phenols). The IC50 value in the DPPH•, ABTS, HO, and LPI tests was 18.50 µg/mL,
+                              47.60 µg/mL, 38.40 µg/mL, and 77.60 µg/mL, respectively, for the chloroform extract
+                              and 19.90 µg/mL, 27.90 µg/mL, 50.10 µg/mL, and 91.10 µg/mL, respectively, for the
+                              petroleum ether extract [56]. Moreover, the DPPH• radical scavenging ability of the
+                              acetone-water extract (25%:75%), which was higher than in water extraction, also proves
+Antioxidants 2022, 11, 1345                                                                                           17 of 29
+
+
+
+
+                              the high biological activity with IC50 at the level of 2.88 mg/mL. The antioxidant power
+                              was evidenced by the TAC and ORAC values of 171.30 mg AAE/g dw and 794.63 µmol
+                              TE/g dw, respectively [15].
+                                   A positive correlation was found between the type of extraction, the yield of the extract,
+                              and the content of phenolic compounds, which was not the case between the antioxidant
+                              activity and the type of extraction for the STE method [125]. In the case of the ASE method,
+                              there was a positive correlation between the solvent and the extraction efficiency, phenols,
+                              and antioxidant activity, and no correlation was found between the extraction efficiency
+                              and DPPH activity. In addition, for both STE and ASE, low IC50 values (µg/mL) were
+                              found at 1.09 and 1.18 for DPPH, 2.11 and 5.32 for ABTS, and 4.35 and 7.88 for phenazine
+                              methosulfate-nicotinamide adenine dinucleotide [125].
+                                   As demonstrated by Sani et al., methanolic extracts of garlic bulbs containing phenolic
+                              compounds at the level of 4.273 mg GAE/g dw increased the activity of the antioxidant
+                              superoxide dismutase (SOD) enzyme by 60% and reduced the level of total cholesterol
+                              (TC) by 34% in Wistar rats with Alloxan-induced diabetes [128]. In turn, Nasr observed
+                              the therapeutic effects of ripe garlic extract on hepatotoxicity induced by the use of the
+                              anticancer drug cisplatin (CP). Garlic extracts decreased the level of malondialdehyde
+                              (MDA) and increased the levels of the following antioxidant enzymes: catalase (CAT),
+                              SOD, and reduced glutathione (GSH), which proves the antioxidant properties of garlic in
+                              in vitro conditions [129].
+
+                              3.3. Anticancer Properties
+                                    Garlic oils have an anticancer potential, which correlates with the content of bioactive
+                              compounds such as DADS and DATS. The antitumor effect has also been demonstrated for
+                              water extracts [130]. The antitumor mechanism is mainly related to the activation of reactive
+                              oxygen species (ROS) production, which in turn leads to apoptosis of cells treated with oil
+                              or garlic extract [37,131]. Both polyphenols and flavonoids, including those isolated from
+                              plants, have antioxidant potential (e.g., they scavenge endogenous ROS) and pro-oxidative
+                              potential, which can be used in cancer therapy [132,133]. Lee et al. (2013) used reversed-
+                              phase high-performance liquid chromatography (TLC), thin-layer chromatography (TLC),
+                              mass spectrometry (MS), nuclear magnetic resonance (NMR), chemical synthesis, and
+                              cell viability (MTT) assay, and isolated AC with antitumor potential from aqueous garlic
+                              extract [30]. The mechanism of the anticancer activity of bioactive sulfur garlic compounds,
+                              such as DAS, DADS, DATS, alliin, SAC, SAMC, and AC, involves alteration of mitochon-
+                              drial permeability, inhibition of angiogenesis, enhancement of antioxidant and proapoptotic
+                              properties, and regulation of cell proliferation [1]. The correlation of the antioxidant po-
+                              tential with the antitumor activity of aqueous garlic extract was also demonstrated by
+                              Avci et al. [134] in two mouse cell lines, 32D (normal cells) and 32Dp210 (chronic myelo-
+                              cytic leukemia cells) [134]. There was no change in the activity of the xanthine oxidase (XO)
+                              enzyme and antioxidant enzymes (SOD, glutathione peroxidase (GSH-Px), CAT), while
+                              there was an increase in malondialdehyde (MDA) in the 32D cells. In turn, an increase in
+                              XO, antioxidant power, and MDA was demonstrated in the 32Dp210 cells. In addition, the
+                              researchers demonstrated antiproliferative and apoptotic activity in the 32D and 32Dp210
+                              cells. The 0.4% (w/v) concentration of the aqueous extract proved to be the most effective,
+                              with a 2-fold higher apoptosis rate in the 32Dp210 versus 32D cells [134]. Szychowski et al.
+                              described that water extracts of the Polish garlic cultivar “Harnaś” and the Spanish variety
+                              “Morado” exhibited strong anticancer properties in the human squamous cancer cell line
+                              (SCC-15) measured by ROS production, lactate dehydrogenase (LDH) release, caspase-3
+                              activity, and neutral red uptake methods [130].
+                                    Jasamai et al. [31] analyzed the antitumor effect of garlic methanol extract (99.50%) on
+                              the viability and apoptosis of the U-937, Jurkat Clone E6-1, and K-562 leukemia lines. The
+                              researchers determined IC50 values for U-937 (105 µg/mL), Jurkat clone E6-1 (489 µg/mL),
+                              and K-562 (455 µg/mL). The Jurkat clone E6-1 cell line appeared to be the most sensitive
+                              to methanol extract, showing a 38.37% increase in apoptosis compared to the control. In
+Antioxidants 2022, 11, 1345                                                                                                               18 of 29
+
+
+
+
+                                         the other leukemia lines tested, apoptosis was estimated at 17.93% for the U-937 cells and
+                                         16.37% for the K-562 cells. Moreover, 6.87% necrosis was demonstrated after treatment of
+                                         the U-937 cells with the methanol extract [31].
+                                              Aquilano et al. [131] proved the antitumor efficacy of DADS in the neuronal SH-SY5Y
+                                         and NSC34 cell lines. This mechanism was based on cell apoptosis and an increase in
+                                         the level of ROS and nitric oxide [131]. In turn, Choi et al. [37] showed the effect of the
+                                         presence of DATS in garlic oils on the apoptosis in leukemic cells and the increase in ROS
+                                         levels. The mechanism of apoptosis in U937 cells was the result of a decrease in the level
+                                         of Bcl-2, XIAP, and cIAP-1 proteins, Bid cleavage, caspase activation, and a breakdown
+                                         of the mitochondrial membrane potential [37]. In addition, Zeng et al. demonstrated
+                                         the beneficial effects of garlic oil consumption during radiotherapy and chemotherapy.
+                                         Although garlic oil did not increase tumor inhibition by CTX/radiation, it inhibited the
+                                         decrease in peripheral white blood cells, DNA content, and bone marrow micronucleus
+                                         ratio [135]. The anticancer effects of garlic extracts on individual cell lines are presented
+                                         in Table 4.
+
+                                         Table 4. Anticancer properties of garlic extracts in in vitro studies.
+
+             Type of Cancer                             Type of Extract               Proposed Mechanism of Action           References
+ HT29 (human colon adenocarcinoma)                         Ethanol                               Apoptosis                     [136]
+                                                  Aqueous, methanol, ethanol                        ROS                        [130]
+   CACO-2 (human colon carcinoma)
+                                                         Crude garlic                  Inhibition of cell proliferation        [137]
+         colo 205 (human colon                                                      Reduction in cell viability, induction
+                                                         Crude garlic                                                          [138]
+            adenocarcinoma)                                                                    of apoptosis
+  32Dp210 (murine myeloid leukemia)                        Aqueous                             Oxidant stress                  [134]
+        HL-60 (human leukemia)                             Aqueous                       Cytotoxic effect, apoptosis           [139]
+         ALL (precursor-B acute
+                                                         Fresh garlic                     Selective cells apoptosis            [140]
+        lymphoblastic leukemia)
+      U937 (histiocytic lymphoma)                            Oil                               ROS, apoptotic                   [37]
+  TIB (monocyte/macrophage cell line)                    Crude garlic                  Inhibition of cell proliferation        [137]
+                                                                                         Antiproliferative effect,
+                                                           Aqueous                 overexpression of p53 and p21 (break         [29]
+                                                                                             of DNA strand)
+       HepG2 (human hepatoma)
+                                                         Crude garlic                  Inhibition of cell proliferation        [137]
+                                                          Heat-aging                   Inhibition of cell proliferation         [7]
+                                                                                         Inhibition of cell growth
+                                                                                            through apoptosis,
+    SGC-7901 (human gastric cancer)                    Aged black garlic            inhibition of tumor growth in rats,        [141]
+                                                                                    which may result from antioxidant
+                                                                                     and immunomodulating effects
+                                                                                     Pro-apoptotic effect as a result of
+      AsPC-1 (pancreatic beta cells)                         Oil                       programmed cell death, cell             [142]
+                                                                                               cycle arrest
+                                                                                       Modulating lipid peroxidation,
+    Squamous cell carcinomas (SCC)                         Aqueous                   increase in the levels of GSH, GPx,       [143]
+                                                                                                   and GST
+                                                                                    Reduced proliferation mediated by
+   U2OS (human bone osteosarcoma
+                                                           Ethanol                   increased endoplasmic reticulum            [76]
+           epithelial cells)
+                                                                                                (ER) stress
+  U937 (human histiocytic lymphoma
+                                                          Heat-aging                   Inhibition of cell proliferation         [7]
+             cell line)
+     Mia PaCa-2 (epithelial cell line)                       Oil                       Inhibition of cell proliferation        [142]
+      Sk-mel3 (human melanoma)                             Aqueous                        Decrease in cell viability           [144]
+Antioxidants 2022, 11, 1345                                                                                                           19 of 29
+
+
+
+
+                                      Table 4. Cont.
+
+             Type of Cancer                            Type of Extract           Proposed Mechanism of Action            References
+                                                          Aqueous                    Decrease in cell viability            [145]
+                                                                               Inhibition of cell growth, change in
+      MCF-7 (human breast cancer)                       Fresh garlic                                                        [72]
+                                                                                         cell morphology
+                                                        Crude garlic              Inhibition of cell proliferation         [137]
+                                                                                Inhibition of cell proliferation, cell
+      PC-3 (human prostate cancer)                      Crude garlic                                                       [137]
+                                                                                            cycle arrest
+   PANC-1 (human pancreatic cancer)                         Oil                   Inhibition of cell proliferation         [142]
+                                                                               Reduced proliferation mediated by
+    DU145 (human prostate cancer)                         Ethanol               increased endoplasmic reticulum             [76]
+                                                                                           (ER) stress
+                                                                               Reduced proliferation mediated by
+       67NR (cellosaurus cell line)                       Ethanol               increased endoplasmic reticulum             [76]
+                                                                                           (ER) stress
+
+
+                                      3.4. Other Biological Activities of Garlic Extracts
+                                           The biological properties of garlic described below emphasize its importance, paying
+                                      particular attention to the dose responsible for the beneficial or toxic effect. A number of
+                                      factors (choice of solvents, extraction methods, and temperature) exert an impact on the
+                                      amount and type of compounds extracted from garlic and, consequently, on the biological
+                                      properties and bioactivity of compounds contained in garlic extracts.
+
+                                      3.4.1. Antiviral, Antifungal, Antiparasitic, and Insecticidal Properties
+                                           Garlic extracts also have antiviral properties, i.e., they were found to inhibit infec-
+                                      tious bronchitis virus (IBV) cultivated in a chicken embryo, as demonstrated by Mohajer
+                                      Shojai et al. [146]. Garlic, and especially its organosulfur compounds (OSC), stop viral
+                                      infections by inhibiting viral penetration into host cells, viral RNA polymerase, reverse
+                                      transcriptase, DNA synthesis, and transcription of immediate-early gene 1 (IEG1). Another
+                                      mechanism of antiviral properties described by Rouf et al. [147] is the downregulation
+                                      of extracellular signal-regulated kinase (ERK)/mitogen-activated protein kinase (MAPK)
+                                      signaling [147]. Recent reports also indicate a strong antiviral effect of garlic against
+                                      SARS-CoV-2 infection [106–108]. Bioactive compounds, such as allyl disulfide and allyl
+                                      trisulfide present in garlic oil with a content of 51.3%, showed the strongest activity against
+                                      SARS-CoV2. According to the docking results, researchers demonstrated a synergistic
+                                      mechanism of 17 organosulfur compounds present in garlic oil by inhibiting host receptor
+                                      angiotensin-converting enzyme 2 (ACE2) protein and protease (PDB6LU7) proteins [107].
+                                      In turn, as demonstrated by Pandey et al. [106], bioactive compounds derived from Allium
+                                      sativum, and in particular alliin, are a potential inhibitor of the main protease COVID-19
+                                      due to their ability to bind to the 6LU7 protein [106].
+                                           As reported by Bakhshi et al. [148], water garlic extract has antifungal potential and
+                                      can be used in the treatment of denture stomatitis (DS) caused by Candida yeasts [148]. This
+                                      extract does not show side effects. In comparison, nystatin, i.e., a commonly used antibiotic
+                                      in the treatment of DS, may cause an allergic reaction, adrenal insufficiency, liver necrosis,
+                                      and drug interactions, and nystatin tablets have a bitter taste [148]. Garlic extracts also have
+                                      the potential to treat onychomycosis through their antifungal activity against such yeasts
+                                      as Meyerozyma guilliermondii and Rhodotorula mucilaginosa, in which changes related to cell
+                                      death were found at Allium sativum extract MIC of 120 mg/mL [25]. As demonstrated by
+                                      Pârvu et al. [25], Allium sativum extract has comparable antioxidant efficacy to that of the
+                                      bioactive compound AC and the drug diclofenac in the treatment of mycosis [25].
+                                           Meriga et al. [51] observed high insecticidal efficacy of water extract of garlic bulbs
+                                      against Spodoptera litura, which was correlated with the composition of the extract. The
+                                      larval mortality was estimated at 64.00%, 55.00%, and 42.00% at concentrations of 1000 ppm,
+                                      500 ppm, and 250 ppm, respectively [51]. In turn, similar to aqueous extracts, methanol
+Antioxidants 2022, 11, 1345                                                                                          20 of 29
+
+
+
+
+                              extracts also showed high insecticidal effectiveness, compared to the lower insecticidal
+                              effectiveness for extracts obtained using hexane, chloroform, and ethyl acetate. The larval
+                              mortality increased with the increasing concentration of the extracts and was 81%, 72%,
+                              and 66%, respectively, using methanol as a solvent at 1000 ppm, 500 ppm, and 250 ppm.
+                              The insecticidal activity was correlated with the high content of phytochemicals and the
+                              interaction between garlic compounds [51].
+
+                              3.4.2. Antiinflammatory Activity and Treatment of Cardiovascular Diseases
+                                     The antioxidant properties of garlic extracts can be used in the treatment of inflam-
+                              mation caused by turpentine to reduce the oxidative state in serum, decrease the levels of
+                              MDA and nitric oxide (NO), and increase the level of thiols [25]. The correlation between
+                              oxidative stress and inflammation may be related to ROS-induced activation of transcrip-
+                              tion factors and pro-inflammatory genes [149]. The antiinflammatory mechanism of garlic
+                              extracts was also described by Arreol et al. [150]. It involves the engagement of bioactive
+                              compounds present in garlic in the inhibition of the transcription of cytokine genes, e.g.,
+                              tumor necrosis factor-α (TNF-α), interleukin-1beta (IL-1β), IL-6, monocyte chemoattractant
+                              protein-1 (MCP-1), and IL-12 [47]. Keiss et al. [93] demonstrated the antiinflammatory
+                              properties of garlic powder extract, which at a concentration of 100 mg/L reduced the
+                              level of lipopolysaccharide (LPS)-induced pro-inflammatory cytokines such as interleukin
+                              (IL)-1β from 15.7 to 6.2 µg/L and tumor necrosis factor (TNF)-α from 8.8 to 3.9 µg/L in
+                              human whole blood [93]. As shown by these researchers, the garlic bioactive compound
+                              DADS contained in the extract in the concentration range of 1–100 µmol/L reduced (IL)-1β
+                              and TNF-α levels [93]. This was correlated with the presence of sulfur, as HEK293 kidney
+                              cells exposed to blood supernatant treated with sulfur-unfertilized garlic (100 mg/L) ex-
+                              hibited a 25% reduction in the activity of NF-κB, whereas a 41% decrease in this activity
+                              was shown for blood supernatants treated with an extract from sulfur-fertilized garlic
+                              (100 mg/L) [93]. Another study showed the antiatherosclerotic potential of both the ethanol
+                              extract and the bioactive compound SAC itself, i.e., reduction in the cytotoxic effect caused
+                              by oxidized LDL (Ox-LDL) on endothelial cells (EC) [151]. Treatment of the cells with the
+                              extract or SAC resulted in the prevention of glutathione (GSH) depletion and reduction
+                              in peroxides. Moreover, SAC itself inhibited the activity of NF-κB, which was induced by
+                              H2 O2 or TNF-a [151].
+                                     Garlic extracts also have the potential for the treatment of cardiovascular diseases
+                              through their antihypertensive activity. Different studies examined the effect of fermented
+                              garlic extract on the circulatory system by focusing on anti-pressure activity [152,153]. Mun
+                              Park et al. [152] demonstrated the sGC-cGMP-PKG pathway-mediated antihypertensive
+                              potential of nitrites contained in fermented garlic extract, which are converted into NO in
+                              the body [152]. Mun Park et al. [152] proved the beneficial properties of fermented garlic ex-
+                              tract (0.97 mg of nitrite/mL/day) in the reduction in monocrotaline-induced hypertension
+                              in rats (50 mg/kg). The mechanism of action was based on the reduction in the inflamma-
+                              tory response via the NO-sGC-PKG pathway [153]. In turn, Ushijim et al. [154] showed
+                              inessential anti-pressure effectiveness of a sulfur compound present in mature garlic extract,
+                              i.e., S-1-propenylcysteine at a dose of 6.50 mg/kg body weight, which significantly reduced
+                              systolic blood pressure in Wistar Kyoto rats with spontaneous hypertension [154]. A drop
+                              in blood pressure of about 10.00% was achieved 3 h after administration of the compound
+                              to the rats, and a return to the initial value was observed after 24 h. The authors did not
+                              observe significant changes in the heart rate. Further analysis of such sulfur compounds
+                              present in the extract as SAC and SAMC showed no therapeutic effect [154]. In turn, antihy-
+                              pertensive activity was demonstrated by Ried et al. [155] by administration of four tablets
+                              containing 960 mg of garlic extract and 2.40 mg of SAC per day to a group of 50 humans
+                              for a 12-week treatment period. The garlic extract turned out to be well tolerated by the
+                              patients, and a 10.20 mmHg decrease in systolic blood pressure was demonstrated in the
+                              hypertensive subjects (≥140 mmHg) after 12 weeks, compared to the control group [155].
+Antioxidants 2022, 11, 1345                                                                                            21 of 29
+
+
+
+
+                              3.4.3. Neuroprotective Properties
+                                   The broad neuroprotective effect of SAC contained in garlic extract was demonstrated
+                              by Zarezadeh et al. [156] in lipopolysaccharide (LPS)-induced cognitive deficit. Admin-
+                              istration of SAC (100 mg/kg/day) for 7 days resulted in improved memory of spatial
+                              recognition in the Y-maze, discrimination factor in the new object recognition task, and re-
+                              tention and recall in the passive-avoidance test in rats [156]. The mechanism of the positive
+                              action of SAC consisted of the reduction in oxidative stress by weakening the lipid peroxi-
+                              dation marker MDA and activation of SOD, CAT, and GSH in the rat hippocampus [156].
+                              The other defense mechanisms of the nervous system include the reduction in neuritis,
+                              astrogliosis, and acetylcholinesterase [156]. In turn, the properties of the garlic extract
+                              described by Jing-FangLuo et al. [157] indicate its possible use in Alzheimer’s disease due
+                              to the reduction in cognitive impairment and neuropathology, for example, by reducing
+                              the level of beta amyloid (Aβ40 and Aβ42) [157].
+
+                              3.4.4. Other Health Properties of Garlic Extracts
+                                   A hepatoprotective effect was demonstrated for garlic oil, and the bioactive component
+                              DADS contained therein. In a murine model, Yi-Syuan et al. [158] reported anti-obesity
+                              and antihyperlipidemic effects, evidenced by the reduced body weight and adipose tissue
+                              mass as well as serum biochemical parameters after treatment with both garlic essential oil
+                              and DADS, which has protective potential against the occurrence of nonalcoholic fatty liver
+                              disease (NAFLD) [158]. In addition, both the oil (50 and 100 mg/kg) and DADS (20 mg/kg)
+                              reduced the level of pro-inflammatory cytokines in the liver, which ultimately resulted
+                              in the inhibition of cytochrome P450 2E1 expression [158]. Despite all these advantages
+                              of garlic extract, special attention should be paid to the dose, which may be responsible
+                              for both therapeutic and toxic effects [159]. The garlic extract administered to rats (500
+                              and 1000 mg/kg) by Siddique et al. [159] exerted a toxic effect, i.e., the occurrence of
+                              hemorrhages and nodular edema as well as an increase in body and liver weight [159].
+
+                              4. Bioavailability of Garlic Extracts
+                                   Phadatare et al. [160] searched for a form of delivery of AC, which is highly unstable
+                              also at low temperatures. AC is generated through the interaction of the alliinase enzyme
+                              with the alliin precursor [160]. In addition, alliinase is destroyed by gastric juice. Intestinal
+                              fluid inhibits the release of AC from the powder in standard formulations by up to 40%,
+                              while intestinal epithelial cells degrade AC [160]. On the other hand, garlic oil is poorly
+                              bioavailable after oral administration [160]. In order to overcome these difficulties, the
+                              authors proposed and prepared buccal tablets containing freeze-dried garlic powder. The
+                              buccal tablets consisted of allicin-releasing garlic powder, methocel K4M, carbopol 974 P,
+                              mannitol, and magnesium stearate. The advantages of this form of AC were that freeze-
+                              drying inhibited the effect of powder alliinase due to the lack of water [160]. Satisfactory
+                              physicochemical properties of the tablets were achieved at the following parameter values:
+                              AC content 78.66 (µg/tablet), mucoadhesive strength 7.28 (gm), and 22.65% of absorbed
+                              moisture. In turn, the better bioavailability of garlic oil was improved by the use of self-
+                              emulsifying systems. Nanoemulsions were absorbed on colloidal silicon dioxide and then
+                              placed in hard gelatin capsules. Such nanoemulsions had a high absorption surface and,
+                              consequently, suitable bioavailability in oral administration. The capsules consisted of
+                              garlic oil, Cremophor EL, Transcutol P, and Aerosil 200 [160]. In addition to the relevance
+                              of the extraction method on the isolation of the bioactive compounds from garlic and
+                              their biological properties, it is necessary to pay attention to the method of delivery of the
+                              bioactive compounds from the extracts or whole garlic extracts and oils to living organisms
+                              in order to ensure the highest possible efficacy. The efficacy of the delivery method of crude
+                              garlic extract is important, as demonstrated by Li et al., [161], who showed an antitumor
+                              effect after intravenous administration of the extract at 100 mg for 21 days in mice, while
+                              oral administration showed no therapeutic against fatal ascites tested on the 180 (aggressive
+                              lethal mouse sarcoma) and EL4 (aggressive mouse lymphoma) cancer cell lines [161]. This
+Antioxidants 2022, 11, 1345                                                                                                    22 of 29
+
+
+
+
+                                 may be associated with metabolic changes in epithelial cells after oral administration as
+                                 well as the effects of digestive enzymes and the acidic environment of the stomach. A
+                                 comparison of plain crude extract and extract heated at 100 ◦ C for 10 min showed partial
+                                 inactivation of some tumor lines after heating. Furthermore, in vitro anticancer activity
+                                 studies on various cell lines confirmed the superior efficacy of garlic extracts compared
+                                 to 21 fruit and vegetable extracts [161]. In addition, further research is carried out on
+                                 the encapsulation and use of nanoparticles for garlic extracts or oils for potential use as
+                                 preservatives and further possible use for drug delivery [162–164].
+
+                                  5. Conclusions
+                                       Depending on the solvent used for the extraction, the resulting extracts differ in the
+                                 content of different active substances. This manuscript summarizes the extraction methods
+                                 used to obtain bioactive substances from garlic (Allium sativum L.). The literature study
+                                 showed that aqueous extracts are the most proper for allicin extraction, while methanol-
+                                 and ethanol-based extraction processes are best for the isolation of polyphenols. The
+                                 content of other active substances in the extract also depends on the used solvent. In water
+                                 extracts, active substances can be ranked AC > AS > MMTS > DADS. This proportion
+                                 is similar in different alcohol solvents or in water-alcohol mixtures. Water and ethanolic
+                                 extracts have a large number of health-beneficial properties such as antibacterial, anticancer,
+                                 antidiabetic, antifungal, antihypercholesterolemic, antihypertensive, antiinflammatory,
+                                 antioxidant, antiparasitic, antiviral, and immunostimulatory activities. Moreover, due
+                                 to their antioxidant and immunostimulatory properties, aqueous and ethanolic garlic
+                                 extracts can be used as an aid in conventional anticancer therapy, but more research in this
+                                 field is needed. In addition to the obvious culinary uses, garlic oil can also be used as an
+                                 adjuvant agent in conventional therapies for different skin infections and pathologies due to
+                                 the large amounts of DADS > allyl-methyl trisulfide > trisulfide and di-2-propenyl > DAS,
+                                 which have antibacterial and antiinflammatory properties. However, the use of such
+                                 substances as methanol and/or organic solvents is limited due to their toxicity, especially
+                                 when consumed directly. Filling the gaps in the knowledge of methods for improvement of
+                                 the stability of bioactive compounds contained in garlic extracts and the selection of the
+                                 best modes and forms of supplying thereof to organisms yielding a therapeutic effect may
+                                 contribute to the higher efficiency of the use of garlic extracts. Future research should focus
+                                 on the improvement of the stability of bioactive compounds obtained from the extracts.
+
+                                 Author Contributions: Conceptualization, M.B. and K.A.S.; methodology, K.A.S.; formal analysis,
+                                 M.B. and K.A.S.; data curation, M.B.; writing—original draft preparation, M.B., U.E.B. and K.A.S.;
+                                 writing—review and editing, K.A.S.; visualization, M.B.; supervision, K.A.S.; funding acquisition,
+                                 K.A.S. All authors have read and agreed to the published version of the manuscript.
+                                  Funding: This work was supported by statutory funds from the University of Information Technology
+                                  and Management in Rzeszow, Poland (DS 503-07-01-27).
+                                  Conflicts of Interest: The authors declare no conflict of interest.
+
+References
+1.    De Greef, D.; Barton, E.M.; Sandberg, E.N.; Croley, C.R.; Pumarol, J.; Wong, T.L.; Das, N.; Bishayee, A. Anticancer potential of
+      garlic and its bioactive constituents: A systematic and comprehensive review. Semin. Cancer Biol. 2021, 73, 219–264. [CrossRef]
+2.    Petrovska, B.; Cekovska, S. Extracts from the history and medical properties of garlic. Pharmacogn. Rev. 2010, 4, 106. [CrossRef]
+3.    El-Saber Batiha, G.; Magdy Beshbishy, A.; Wasef, L.G.; Elewa, Y.H.A.; Al-Sagan, A.A.; Abd El-Hack, M.E.; Taha, A.E.;
+      Abd-Elhakim, Y.M.; Prasad Devkota, H. Chemical Constituents and Pharmacological Activities of Garlic (Allium sativum L.): A
+      Review. Nutrients 2020, 12, 872. [CrossRef] [PubMed]
+4.    Mikaili, P.; Maadirad, S.; Moloudizargari, M.; Aghajanshakeri, S.; Sarahroodi, S. Therapeutic uses and pharmacological properties
+      of garlic, shallot, and their biologically active compounds. Iran. J. Basic Med. Sci. 2013, 16, 1031–1048.
+5.    Martins, N.; Petropoulos, S.; Ferreira, I.C.F.R. Chemical composition and bioactive compounds of garlic (Allium sativum L.) as
+      affected by pre- and post-harvest conditions: A review. Food Chem. 2016, 211, 41–50. [CrossRef] [PubMed]
+Antioxidants 2022, 11, 1345                                                                                                           23 of 29
+
+
+
+
+6.    Subramanian, M.S.; Nandagopal, G.M.S.; Nordin, S.A.; Thilakavathy, K.; Joseph, N. Prevailing knowledge on the bioavailability
+      and biological activities of Sulphur compounds from Alliums: A potential drug candidate. Molecules 2020, 25, 4111. [CrossRef]
+      [PubMed]
+7.    Bontempo, P.; Stiuso, P.; Lama, S.; Napolitano, A.; Piacente, S.; Altucci, L.; Molinari, A.M.; De Masi, L.; Rigano, D. Metabolite
+      Profile and In Vitro Beneficial Effects of Black Garlic (Allium sativum L.) Polar Extract. Nutrients 2021, 13, 2771. [CrossRef]
+      [PubMed]
+8.    Zhang, Q.-W.; Lin, L.-G.; Ye, W.-C. Techniques for extraction and isolation of natural products: A comprehensive review. Chin.
+      Med. 2018, 13, 20. [CrossRef] [PubMed]
+9.    Bajac, J.; Nikolovski, B.; Kocić-Tanackov, S.; Tomšik, A.; Mandić, A.; Gvozdanović-Varga, J.; Vlajić, S.; Vujanović, M.;
+      Radojković, M. Extraction of different garlic varieties (A. sativum L.)—Determination of organosulfur compounds and
+      microbiological activity. In Proceedings of the IV International Congress Food Technology, Quality and Safety, Novi Sad, Serbia,
+      23–25 October 2018; p. 82.
+10.   Zhang, T.; Wei, X.; Miao, Z.; Hassan, H.; Song, Y.; Fan, M. Screening for antioxidant and antibacterial activities of phenolics from
+      Golden Delicious apple pomace. Chem. Cent. J. 2016, 10, 1–9. [CrossRef] [PubMed]
+11.   Massias, A.; Boisard, S.; Baccaunaud, M.; Leal Calderon, F.; Subra-Paternault, P. Recovery of phenolics from apple peels using
+      CO2 + ethanol extraction: Kinetics and antioxidant activity of extracts. J. Supercrit. Fluids 2015, 98, 172–182. [CrossRef]
+12.   Lou, S.N.; Lai, Y.C.; Hsu, Y.S.; Ho, C.T. Phenolic content, antioxidant activity and effective compounds of kumquat extracted by
+      different solvents. Food Chem. 2016, 197, 1–6. [CrossRef] [PubMed]
+13.   Krakowska-Sieprawska, A.; Kiełbasa, A.; Rafińska, K.; Ligor, M.; Buszewski, B. Modern Methods of Pre-Treatment of Plant
+      Material for the Extraction of Bioactive Compounds. Molecules 2022, 27, 730. [CrossRef] [PubMed]
+14.   Butsat, S.; Siriamornpun, S. Effect of solvent types and extraction times on phenolic and flavonoid contents and antioxidant
+      activity in leaf extracts of Amomum chinense C. Int. Food Res. J. 2016, 23, 180–187.
+15.   Cavalcanti, V.P.; Aazza, S.; Bertolucci, S.K.V.; Rocha, J.P.M.; Coelho, A.D.; Oliveira, A.J.M.; Mendes, L.C.; Pereira, M.M.A.;
+      Morais, L.C.; Forim, M.R.; et al. Solvent mixture optimization in the extraction of bioactive compounds and antioxidant activities
+      from garlic (Allium sativum L.). Molecules 2021, 26, 6026. [CrossRef] [PubMed]
+16.   Zhang, Y.; Liu, X.; Ruan, J.; Zhuang, X.; Zhang, X.; Li, Z. Phytochemicals of garlic: Promising candidates for cancer therapy.
+      Biomed. Pharmacother. 2020, 123, 109730. [CrossRef] [PubMed]
+17.   U. S. Department of Agriculture. A.R.S. USDA National Nutrient Database for Standard Reference; United States Department of
+      Agriculture: Washington, DC, USA, 2013; p. 28.
+18.   Kacjan Marsic, N.; Necemer, M.; Veberic, R.; Poklar Ulrih, N.; Skrt, M. Effect of cultivar and fertilization on garlic yield and allicin
+      content in bulbs at harveand during storage. Turk. J. Agric. For. 2019, 43, 414–429. [CrossRef]
+19.   Tchórzewska, D.; Bocianowski, J.; Najda, A.; Dabrowska, A.; Winiarczyk, K. Effect of environment fluctuations on biomass and
+      allicin level in Allium sativum (cv. Harnas, Arkus) and Allium ampeloprasum var. ampeloprasum (GHG-L). J. Appl. Bot. Food
+      Qual. 2017, 90, 106–114.
+20.   Szychowski, K.A.; Rybczyńska-Tkaczyk, K.; Gaweł-Bȩben, K.; Ašwieca, M.; Kara, M.; Jakubczyk, A.; Matysiak, M.; Binduga, U.E.;
+      Gmiński, J.; Gaweł-B˛eben, K.; et al. Characterization of Active Compounds of Different Garlic (Allium sativum L.) Cultivars. Pol. J.
+      Food Nutr. Sci. 2018, 68, 73–81. [CrossRef]
+21.   Diretto, G.; Rubio-Moraga, A.; Argandoña, J.; Castillo, P.; Gómez-Gómez, L.; Ahrazem, O. Tissue-Specific Accumulation of
+      Sulfur Compounds and Saponins in Different Parts of Garlic Cloves from Purple and White Ecotypes. Molecules 2017, 22, 1359.
+      [CrossRef]
+22.   Shang, A.; Cao, S.-Y.; Xu, X.-Y.; Gan, R.-Y.; Tang, G.-Y.; Corke, H.; Mavumengwana, V.; Li, H.-B. Bioactive Compounds and
+      Biological Functions of Garlic (Allium sativum L.). Foods 2019, 8, 246. [CrossRef]
+23.   Rafe, A. Physicochemical Characteristics of Garlic (Allium sativum L.) Oil: Effect of Extraction Procedure. Int. J. Nutr. Food Sci.
+      2014, 3, 1. [CrossRef]
+24.   Jacob, B.; Narendhirakannan, R.T. Role of medicinal plants in the management of diabetes mellitus: A review. Biotech 2019, 9, 4.
+25.   Pârvu, M.; Moţ, C.A.; Pârvu, A.E.; Mircea, C.; Stoeber, L.; Roşca-Casian, O.; Ţigu, A.B. Allium sativum Extract Chemical
+      Composition, Antioxidant Activity and Antifungal Effect against Meyerozyma guilliermondii and Rhodotorula mucilaginosa
+      Causing Onychomycosis. Molecules 2019, 24, 3958. [CrossRef] [PubMed]
+26.   Surh, Y.J. Cancer chemoprevention with dietary phytochemicals. Nat. Rev. Cancer 2003, 3, 768–780. [CrossRef]
+27.   Mathialagan, R.; Mansor, N.; Shamsuddin, M.R.; Uemura, Y.; Majeed, Z. Optimisation of Ultrasonic-Assisted Extraction (UAE) of
+      Allicin from Garlic (Allium sativum L.). Chem. Eng. Trans. 2017, 56, 1747–1752.
+28.   Li, X.; Zhu, F.; Zeng, Z. Effects of different extraction methods on antioxidant properties of blueberry anthocyanins. Open Chem.
+      2021, 19, 138–148. [CrossRef]
+29.   De Martino, A.; Torricelli, P.; Abu-Zeid, H.M.; Shevchenko, A.; Siciliano, A.; Beninati, S. Synergistic Anticancer Potential of Water
+      Garlic Extract and Copper in a Human Hepatocarcinoma Cell Line. Cancer Res. J. 2016, 4, 28. [CrossRef]
+30.   Lee, J.; Gupta, S.; Huang, J.-S.; Jayathilaka, L.P.; Lee, B.-S. HPLC–MTT assay: Anticancer activity of aqueous garlic extract is from
+      allicin. Anal. Biochem. 2013, 436, 187–189. [CrossRef]
+31.   Jasamai, M.; Hui, C.S.; Azmi, N.; Kumolosasi, E. Effect of Allium sativum (Garlic) methanol extract on viability and apoptosis of
+      human leukemic cell lines. Trop. J. Pharm. Res. 2016, 15, 1479–1485. [CrossRef]
+Antioxidants 2022, 11, 1345                                                                                                         24 of 29
+
+
+
+
+32.   Aminuddin, M.; Partadiredja, G.; Sari, D.C.R. The effects of black garlic (Allium sativum L.) ethanol extract on the estimated total
+      number of Purkinje cells and motor coordination of male adolescent Wistar rats treated with monosodium glutamate. Anat. Sci.
+      Int. 2015, 90, 75–81. [CrossRef]
+33.   Khashan, A.A. Antibacterial activity of garlic extract (Allium sativum) against Staphylococcus aureus in vitro. Glob. J. Bio-Sci.
+      Biotechnol. 2014, 3, 346–348.
+34.   Lee, E.N.; Choi, Y.W.; Kim, H.K.; Park, J.K.; Kim, H.J.; Kim, M.J.; Lee, H.W.; Kim, K.-H.; Bae, S.S.; Kim, B.S.; et al. Chloroform
+      extract of aged black garlic attenuates TNF-α-induced ROS generation, VCAM-1 expression, NF-κB activation and adhesiveness
+      for monocytes in human umbilical vein endothelial cells. Phytother. Res. 2011, 25, 92–100. [CrossRef]
+35.   Bhattacharyya, M.; Girish, G.V.; Karmohapatra, S.K.; Samad, S.A.; Sinha, A.K. Systemic production of IFN-α by garlic (Allium
+      sativum) in humans. J. Interferon Cytokine Res. 2007, 27, 377–381. [CrossRef] [PubMed]
+36.   Najjaa, H.; Chekki, R.; Elfalleh, W.; Tlili, H.; Jaballah, S.; Bouzouita, N. Freeze-dried, oven-dried, and microencapsulation of
+      essential oil from Allium sativum as potential preservative agents of minced meat. Food Sci. Nutr. 2020, 8, 1995–2003. [CrossRef]
+      [PubMed]
+37.   Choi, Y.; Park, H. Apoptosis induction of U937 human leukemia cells by diallyl trisulfide induces through generation of reactive
+      oxygen species. J. Biomed. Sci. 2012, 19, 50. [CrossRef]
+38.   Lefebvre, T.; Destandau, E.; Lesellier, E. Selective extraction of bioactive compounds from plants using recent extraction techniques:
+      A review. J. Chromatogr. A 2021, 1635, 461770. [CrossRef]
+39.   Filly, A.; Fabiano-Tixier, A.S.; Louis, C.; Fernandez, X.; Chemat, F. Water as a green solvent combined with different techniques for
+      extraction of essential oil from lavender flowers. Comptes Rendus Chim. 2016, 19, 707–717. [CrossRef]
+40.   Castro-Puyana, M.; Marina, M.L.; Plaza, M. Water as green extraction solvent: Principles and reasons for its use. Curr. Opin. Green
+      Sustain. Chem. 2017, 5, 31–36. [CrossRef]
+41.   Joshi, D.R.; Adhikari, N. An Overview on Common Organic Solvents and Their Toxicity. J. Pharm. Res. Int. 2019, 28, 1–18.
+      [CrossRef]
+42.   Carreira-Casais, A.; Lourenço-Lopes, C.; Otero, P.; Carpena, M.; Gonzalez Pereira, A.; Echave, J.; Soria-Lopez, A.; Chamorro, F.;
+      Prieto, M.A.; Simal-Gandara, J. Application of Green Extraction Techniques for Natural Additives Production. In Food Additives
+      [Working Title]; IntechOpen: London, UK, 2021.
+43.   Ezeorba, T.P.C.; Chukwudozie, K.I.; Ezema, C.A.; Anaduaka, E.G.; Nweze, E.J.; Okeke, E.S. Potentials for health and therapeutic
+      benefits of garlic essential oils: Recent findings and future prospects. Pharmacol. Res. Mod. Chin. Med. 2022, 3, 100075. [CrossRef]
+44.   Dhwani, S.; Pushparaj, P.; Gurumoorthi, P. A Review on Different Extraction and Quantification Methods of Allicin from Garlic. J.
+      Xidian Univ. 2021, 15, 183–196.
+45.   Loghmanifar, S.; Nasiraie, L.R.; Nouri, H.; Jafarian, S. Effects of Different Extraction Methods on Antioxidant Properties and
+      Allicin Content of Garlic. J. Food Sci. Hyg. 2020, 1, 16–25.
+46.   Li, R.; Chen, W.C.; Wang, W.P.; Tian, W.Y.; Zhang, X.G. Extraction of essential oils from garlic (Allium sativum) using ligarine as
+      solvent and its immunity activity in gastric cancer rat. Med. Chem. Res. 2010, 19, 1092–1105. [CrossRef]
+47.   Tulloch, A.D.; Khondoker, M.R.; Fearon, P.; David, A.S. Associations of homelessness and residential mobility with length of stay
+      after acute psychiatric admission. BMC Psychiatry 2012, 12, 1–13. [CrossRef] [PubMed]
+48.   Trio, P.Z.; You, S.; He, X.; He, J.; Sakao, K.; Hou, D.-X. Chemopreventive functions and molecular mechanisms of garlic
+      organosulfur compounds. Food Funct. 2014, 5, 833. [CrossRef] [PubMed]
+49.   Turner, P.V.; Pekow, C.; Vasbinder, M.A.; Brabb, T. Administration of substances to laboratory animals: Equipment considerations,
+      vehicle selection, and solute preparation. J. Am. Assoc. Lab. Anim. Sci. 2011, 50, 614–627. [PubMed]
+50.   Kallel, F.; Driss, D.; Chaari, F.; Belghith, L.; Bouaziz, F.; Ghorbel, R.; Chaabouni, S.E. Garlic (Allium sativum L.) husk waste as a
+      potential source of phenolic compounds: Influence of extracting solvents on its antimicrobial and antioxidant properties. Ind.
+      Crops Prod. 2014, 62, 34–41. [CrossRef]
+51.   Meriga, B.; Mopuri, R.; MuraliKrishna, T. Insecticidal, antimicrobial and antioxidant activities of bulb extracts of Allium sativum.
+      Asian Pac. J. Trop. Med. 2012, 5, 391–395. [CrossRef]
+52.   Kaur, R.; Tiwari, A.; Manish, M.; Maurya, I.K.; Bhatnagar, R.; Singh, S. Common garlic (Allium sativum L.) has potent Anti-Bacillus
+      anthracis activity. J. Ethnopharmacol. 2021, 264, 113230. [CrossRef]
+53.   Johnson, M.; Olaleye, O.; Kolawole, O. Antimicrobial and Antioxidant Properties of Aqueous Garlic (Allium sativum) Extract
+      against Staphylococcus aureus and Pseudomonas aeruginosa. Br. Microbiol. Res. J. 2016, 14, 1–11. [CrossRef]
+54.   Bin, C.; Al-Dhabi, N.A.; Esmail, G.A.; Arokiyaraj, S.; Arasu, M.V. Potential effect of Allium sativum bulb for the treatment of
+      biofilm forming clinical pathogens recovered from periodontal and dental caries. Saudi J. Biol. Sci. 2020, 27, 1428–1434. [CrossRef]
+      [PubMed]
+55.   Cañizares, P.; Gracia, I.; Gómez, L.A.; De Argila, C.M.; De Rafael, L.; García, A. Optimization of Allium sativum solvent extraction
+      for the inhibition of in vitro growth of Helicobacter pylori. Biotechnol. Prog. 2002, 18, 1227–1232. [CrossRef] [PubMed]
+56.   Mamun, A.; Hasan, N.; Belal, H.; Karim, R.U.; Islam, D.; Afroz, S.; Islam, A.; Ara, T. Investigation on phytochemical content and
+      antioxidant activity of locally grown garlic (Allium sativum L.) in Bangladesh. Int. J. Biol. Res. 2016, 1, 37–42.
+Antioxidants 2022, 11, 1345                                                                                                           25 of 29
+
+
+
+
+57.   Milner, J.A.; Rivlin, R.S. Recent Advances on the Nutritional Effects Associated with the Use of Garlic as a Supplement Historical
+      Perspective on the Use of Garlic 1, 2. J. Nutr. 2001, 131, 951–954.
+58.   Dehariya, N.; Guha, P.; Gupta, R.K. Extraction and characterization of essential oil of garlic (Allium sativa L.). Int. J. Chem. Stud.
+      2021, 9, 1455–1459. [CrossRef]
+59.   Del Valle, J.M.; Mena, C.; Budinich, M. Extraction of garlic with supercritical CO2 and conventional organic solvents. Braz. J.
+      Chem. Eng. 2008, 25, 535–542. [CrossRef]
+60.   Maldonado, P.D.; Chánez-Cárdenas, M.E.; Pedraza-Chaverrí, J. Aged garlic extract, garlic powder extract, S-allylcysteine, diallyl
+      sulfide and diallyl disulfide do not interfere with the antibiotic activity of gentamicin. Phytother. Res. 2005, 19, 252–254. [CrossRef]
+61.   Pedraza-Chaverrí, J.; Medina-Campos, O.N.; Ávila-Lombardo, R.; Berenice Zúñiga-Bustos, A.; Orozco-Ibarra, M. Reactive oxygen
+      species scavenging capacity of different cooked garlic preparations. Life Sci. 2006, 78, 761–770. [CrossRef]
+62.   Zaini, A.S.; Putra, N.R.; Idham, Z.; Md Norodin, N.S.; Mohd Rasidek, N.A.; Che Yunus, M.A. Mini Review: Extraction of Allicin
+      from Allium sativum using Subcritical Water Extraction. IOP Conf. Ser. Mater. Sci. Eng. 2020, 932, 012023. [CrossRef]
+63.   Bhatwalkar, S.B.; Mondal, R.; Krishna, S.B.N.; Adam, J.K.; Govender, P.; Anupam, R. Antibacterial Properties of Organosulfur
+      Compounds of Garlic (Allium sativum). Front. Microbiol. 2021, 12, 1–20. [CrossRef]
+64.   Lawson, L.D.; Wang, Z.J. Allicin and allicin-derived garlic compounds increase breath acetone through allyl methyl sulfide: Use
+      in measuring allicin bioavailability. J. Agric. Food Chem. 2005, 53, 1974–1983. [CrossRef] [PubMed]
+65.   Wallock-Richards, D.; Doherty, C.J.; Doherty, L.; Clarke, D.J.; Place, M.; Govan, J.R.W.; Campopiano, D.J. Garlic revisited:
+      Antimicrobial activity of allicin-containing garlic extracts against Burkholderia cepacia complex. PLoS ONE 2014, 9, e112726.
+      [CrossRef] [PubMed]
+66.   Ilic, D.; Nikolic, V.; Nikolic, L.; Stankovic, M.; Stanojevic, L.; Cakic, M. Allicin and related compounds: Biosynthesis, synthesis
+      and pharmacological activity. Facta Univ. Ser. Phys. Chem. Technol. 2011, 9, 9–20. [CrossRef]
+67.   Cellini, L.; Di Campli, E.; Masulli, M.; Di Bartolomeo, S.; Allocati, N. Inhibition of Helicobacter pylori by garlic extract (Allium
+      sativum). FEMS Immunol. Med. Microbiol. 1996, 13, 273–277. [CrossRef] [PubMed]
+68.   Jang, H.J.; Lee, H.J.; Yoon, D.K.; Ji, D.S.; Kim, J.H.; Lee, C.H. Antioxidant and antimicrobial activities of fresh garlic and aged
+      garlic by-products extracted with different solvents. Food Sci. Biotechnol. 2018, 27, 219–225. [CrossRef]
+69.   Gabriel, T.; Vestine, A.; Kim, K.D.; Kwon, S.J.; Sivanesan, I.; Chun, S.C. Antibacterial Activity of Nanoparticles of Garlic (Allium
+      sativum) Extract against Different Bacteria Such as Streptococcus mutans and Poryphormonas gingivalis. Appl. Sci. 2022, 12, 3491.
+      [CrossRef]
+70.   Zhu, X.Y.; Zeng, Y.R. Garlic extract in prosthesis-related infections: A literature review. J. Int. Med. Res. 2020, 48, 300060520913778.
+      [CrossRef]
+71.   Kyo, E.; Uda, N.; Suzuki, A.; Kakimoto, M.; Ushijima, M.; Kasuga, S.; Itakura, Y. Immunomodulation and antitumor activities of
+      Aged Garlic Extract. Phytomedicine 1998, 5, 259–267. [CrossRef]
+72.   Modem, S.; DiCarlo, S.E.; Reddy, T.R. Fresh Garlic Extract Induces Growth Arrest and Morphological Differentiation of MCF7
+      Breast Cancer Cells. Genes Cancer 2012, 3, 177–186. [CrossRef]
+73.   Babu, B.; Sunil, A.; Mukunda, A.; Pynadath, M.K.; Mohan, A. Anti-cancer potency of garlic ( Allium sativum ) extract in
+      comparison to 5-fluorouracil—An in vitro study. Oral Maxillofac. Pathol. J. 2020, 11, 11–15.
+74.   Durak, I.; Yilmaz, E.; Devrim, E.; Perk, H.; Kaçmaz, M. Consumption of aqueous garlic extract leads to significant improvement
+      in patients with benign prostate hyperplasia and prostate cancer. Nutr. Res. 2003, 23, 199–204. [CrossRef]
+75.   Hong, Y.-S.; Ham, Y.-A.; Choi, J.-H.; Kim, J. Effects of allyl sulfur compounds and garlic extract on the expression of Bcl-2, Bax,
+      and p53 in non small cell lung cancer cell lines. Exp. Mol. Med. 2000, 32, 127–134. [CrossRef] [PubMed]
+76.   Petrovic, V.; Nepal, A.; Olaisen, C.; Bachke, S.; Hira, J.; Søgaard, C.K.; Røst, L.M.; Misund, K.; Andreassen, T.; Melø, T.M.; et al.
+      Anti-cancer potential of homemade fresh garlic extract is related to increased endoplasmic reticulum stress. Nutrients 2018,
+      10, 450. [CrossRef] [PubMed]
+77.   Fallah-Rostami, F.; Tabari, M.A.; Esfandiari, B.; Aghajanzadeh, H.; Behzadi, M.Y. Immunomodulatory activity of aged garlic
+      extract against implanted fibrosarcoma tumor in mice. North Am. J. Med. Sci. 2013, 5, 207–212.
+78.   Bayan, L.; Koulivand, P.H.; Gorji, A. Garlic is said to be a wonderful medicinal plant because of its antitumoral and antioxidant
+      properties, as well as its ability to prevent cardiovascular diseases, regulate blood pressure, lower blood sugar, and cholesterol
+      levels, and be effective against. Avicenna J. Phytomedicine 2014, 4, 1–14.
+79.   Morales-González, J.A.; Madrigal-Bujaidar, E.; Sánchez-Gutiérrez, M.; Izquierdo-Vega, J.A.; Del Carmen Valadez-Vega, M.;
+      Álvarez-González, I.; Morales-González, Á.; Madrigal-Santillán, E. Garlic (Allium sativum L.): A brief review of its antigenotoxic
+      effects. Foods 2019, 8, 343. [CrossRef] [PubMed]
+80.   Borek, C. Recent Advances on the Nutritional Effects Associated with the Use of Garlic as a Supplement Antioxidant Health
+      Effects of Aged Garlic Extract 1. J. Nutr. 2001, 131, 1010–1015. [CrossRef] [PubMed]
+81.   Baluchnejadmojarad, T.; Roghani, M. Endothelium-dependent and -independent effect of aqueous extract of garlic on vascular
+      reactivity on diabetic rats. Fitoterapia 2003, 74, 630–637. [CrossRef]
+82.   Eidi, A.; Eidi, M.; Esmaeili, E. Antidiabetic effect of garlic (Allium sativum L.) in normal and streptozotocin-induced diabetic rats.
+      Phytomedicine 2006, 13, 624–629. [CrossRef] [PubMed]
+Antioxidants 2022, 11, 1345                                                                                                         26 of 29
+
+
+
+
+83.  Lemar, K.M.; Turner, M.P.; Lloyd, D. Garlic (Allium sativum) as an anti-Candida agent: A comparison of the efficacy of fresh
+     garlic and freeze-dried extracts. J. Appl. Microbiol. 2002, 93, 398–405. [CrossRef]
+84. Low, C.F.; Chong, P.P.; Yong, P.V.C.; Lim, C.S.Y.; Ahmad, Z.; Othman, F. Inhibition of hyphae formation and SIR2 expression in
+     Candida albicans treated with fresh Allium sativum (garlic) extract. J. Appl. Microbiol. 2008, 105, 2169–2177. [CrossRef]
+85. Pai, S.T.; Platt, M.W. Antifungal effects of Allium sativum (garlic) extract against the Aspergillus species involved in otomycosis.
+     Lett. Appl. Microbiol. 1995, 20, 14–18. [CrossRef] [PubMed]
+86. Hayat, S.; Cheng, Z.; Ahmad, H.; Ali, M.; Chen, X.; Wang, M. Garlic, from remedy to stimulant: Evaluation of antifungal
+     potential reveals diversity in phytoalexin allicin content among garlic cultivars; allicin containing aqueous garlic extracts trigger
+     antioxidants in Cucumber. Front. Plant Sci. 2016, 7, 1–15. [CrossRef] [PubMed]
+87. Lau, B.H.S. Suppression of LDL Oxidation by Garlic. J. Nutr. 2001, 131, 985S–988S. [CrossRef] [PubMed]
+88. Sobenin, I.A.; Andrianova, I.V.; Demidova, O.N.; Gorchakova, T.; Orekhov, A.N. Lipid-Lowering Effects of Time-Released Garlic
+     Powder Tablets in Double-Blinded Placebo-Controlled Randomized Study. J. Atheroscler. Thromb. 2008, 15, 334–338. [CrossRef]
+89. Oboh, G.; Akinyemi, A.J.; Ademiluyi, A.O. Inhibitory Effect of Phenolic Extract from Garlic on Angiotensin-1 Converting Enzyme
+     and Cisplatin induced Lipid Peroxidation—In Vitro. Int. J. Biomed. Sci. IJBS 2013, 9, 98–106. [PubMed]
+90. Shouk, R.; Abdou, A.; Shetty, K.; Sarkar, D.; Eid, A.H. Mechanisms underlying the antihypertensive effects of garlic bioactives.
+     Nutr. Res. 2014, 34, 106–115. [CrossRef]
+91. Moutia, M.; Seghrouchni, F.; Abouelazz, O.; Elouaddari, A.; Al Jahid, A.; Elhou, A.; Nadifi, S.; Jamal Eddine, J.; Habti, N.; Badou,
+     A. Allium sativum L. regulates in vitro IL-17 gene expression in human peripheral blood mononuclear cells. BMC Complementary
+     Altern. Med. 2016, 16, 1–10. [CrossRef] [PubMed]
+92. Morihara, N.; Hino, A.; Miki, S.; Takashima, M.; Suzuki, J.I. Aged garlic extract suppresses inflammation in apolipoprotein
+     E-knockout mice. Mol. Nutr. Food Res. 2017, 61, 1–22. [CrossRef] [PubMed]
+93. Keiss, H.P.; Dirsch, V.M.; Hartung, T.; Haffner, T.; Trueman, L.; Auger, J.; Kahane, R.; Vollmar, A.M. Garlic (Allium sativum L.)
+     modulates cytokine expression in lipopolysaccharide-activated human blood thereby inhibiting NF-κB activity. J. Nutr. 2003,
+     133, 2171–2175. [CrossRef] [PubMed]
+94. Queiroz, Y.S.; Ishimoto, E.Y.; Bastos, D.H.M.; Sampaio, G.R.; Torres, E.A.F.S. Garlic (Allium sativum L.) and ready-to-eat garlic
+     products: In vitro antioxidant activity. Food Chem. 2009, 115, 371–374. [CrossRef]
+95. Weiss, N.; Papatheodorou, L.; Morihara, N.; Hilge, R.; Ide, N. Aged garlic extract restores nitric oxide bioavailability in cultured
+     human endothelial cells even under conditions of homocysteine elevation. J. Ethnopharmacol. 2013, 145, 162–167. [CrossRef]
+     [PubMed]
+96. Nasr, A.Y.; Saleh, H. Aged garlic extract protects against oxidative stress and renal changes in cisplatin-treated adult male rats.
+     Cancer Cell Int. 2014, 14, 92. [CrossRef] [PubMed]
+97. Zakarova, A.; Seo, J.Y.; Kim, H.Y.; Kim, J.H.; Shin, J.H.; Cho, K.M.; Lee, C.H.; Kim, J.S. Garlic sprouting is associated with increased
+     antioxidant activity and concomitant changes in the metabolite profile. J. Agric. Food Chem. 2014, 62, 1875–1880. [CrossRef]
+98. Naji, K.M.; Al-Shaibani, E.S.; Alhadi, F.A.; Al-Soudi, S.A.; D’souza, M.R. Hepatoprotective and antioxidant effects of single clove
+     garlic against CCl4-induced hepatic damage in rabbits. BMC Complementary Altern. Med. 2017, 17, 1–12. [CrossRef] [PubMed]
+99. Hiramatsu, K.; Tsuneyoshi, T.; Ogawa, T.; Morihara, N. Aged garlic extract enhances heme oxygenase-and glutamate-cysteine
+     ligase modifier subunit expression via the nuclear factor erythroid 2-related factor 2-antioxidant response element signaling
+     pathway in human endothelial cells. Nutr. Res. 2016, 36, 143–149. [CrossRef] [PubMed]
+100. Lu, X.; Li, N.; Qiao, X.; Qiu, Z.; Liu, P. Composition analysis and antioxidant properties of black garlic extract. J. Food Drug Anal.
+     2017, 25, 340–349. [CrossRef] [PubMed]
+101. Banerjee, S.K.; Mukherjee, P.K.; Maulik, S.K. Garlic as an antioxidant: The good, the bad and the ugly. Phytother. Res. 2003,
+     17, 97–106. [CrossRef]
+102. Krstin, S.; Sobeh, M.; Braun, M.; Wink, M. Anti-Parasitic Activities of Allium sativum and Allium cepa against Trypanosoma b.
+     brucei and Leishmania tarentolae. Medicines 2018, 5, 37. [CrossRef]
+103. Yavuzcan Yildiz, H.; Phan Van, Q.; Parisi, G.; Dam Sao, M. Anti-parasitic activity of garlic (Allium sativum) and onion (Allium
+     cepa) juice against crustacean parasite, Lernantropus kroyeri, found on European sea bass (Dicentrarchus labrax). Ital. J. Anim.
+     Sci. 2019, 18, 833–837. [CrossRef]
+104. Mehrbod, P.; Amini, E.; Tavassoti-Kheiri, M. Antiviral Activity of Garlic Extract on Influenza Virus. Iran. J. Virol. 2009, 3, 19–23.
+     [CrossRef]
+105. Harazem, R.; Rahman, S.; Kenawy, A. Evaluation of Antiviral Activity of Allium Cepa and Allium Sativum Extracts Against
+     Newcastle Disease Virus. Alex. J. Vet. Sci. 2019, 61, 108. [CrossRef]
+106. Pandey, P.; Khan, F.; Kumar, A.; Srivastava, A.; Jha, N.K. Screening of potent inhibitors against 2019 novel coronavirus (COVID-19)
+     from alliumsativum and allium cepa: An in silico approach. Biointerface Res. Appl. Chem. 2021, 11, 7981–7993.
+107. Thuy, B.T.P.; My, T.T.A.; Hai, N.T.T.; Hieu, L.T.; Hoa, T.T.; Thi Phuong Loan, H.; Triet, N.T.; Van Anh, T.T.; Quy, P.T.; Van Tat, P.;
+     et al. Investigation into SARS-CoV-2 Resistance of Compounds in Garlic Essential Oil. ACS Omega 2020, 5, 8312–8320. [CrossRef]
+     [PubMed]
+108. Sen, D.; Debnath, P.; Debnath, B.; Bhaumik, S.; Debnath, S. Identification of potential inhibitors of SARS-CoV-2 main protease and
+     spike receptor from 10 important spices through structure-based virtual screening and molecular dynamic study. J. Biomol. Struct.
+     Dyn. 2022, 40, 941–962. [CrossRef]
+Antioxidants 2022, 11, 1345                                                                                                          27 of 29
+
+
+
+
+109. Almatroodi, S.A.; Anwar, S.; Almatroudi, A.; Khan, A.A.; Alrumaihi, F.; Alsahli, M.A.; Rahmani, A.H. Hepatoprotective effects of
+     garlic extract against carbon tetrachloride (CCl4)-induced liver injury via modulation of antioxidant, anti-inflammatory activities
+     and hepatocyte architecture. Appl. Sci. 2020, 10, 6200. [CrossRef]
+110. Chinnala, K.; Jayagar, P.; Motta, G.; Adusumilli, R.; Elsani, M. Evaluation of hepatoprotective activity of Allium sativum ethanolic
+     extract in thioacetamide induced hepato-toxicity in albino Wistar rats. Am. J. Res. Med. Sci. 2018, 3, 48. [CrossRef]
+111. Wang, D.; Feng, Y.; Liu, J.; Yan, J.; Wang, M.; Changlong, J.S. Black Garlic (Allium sativum) Extracts Enhance the Immune System.
+     Med. Aromat. Plant Sci. Biotechnol. 2010, 4, 37–40.
+112. Colic, M.; Vuević, D.; Kilibarda, V.; Radiević, N.; Savić, M. Modulatory effects of garlic extracts on proliferation of T-lymphocytes
+     in vitro stimulated with concanavalin A. Phytomedicine 2002, 9, 117–124. [CrossRef] [PubMed]
+113. Hassouna, I.; Ibrahim, H.; Abdel Gaffar, F.; El-Elaimy, I.; Abdel Latif, H. Simultaneous administration of hesperidin or garlic oil
+     modulates diazinon-induced hemato- and immunotoxicity in rats. Immunopharmacol. Immunotoxicol. 2015, 37, 442–449. [CrossRef]
+     [PubMed]
+114. Solomon, W.J.; Azare, B.A. Insecticidal Properties of Garlic (Allium sativum) Aqueous Extracts on Beans (Phaseolus valgaris) and
+     Maize (Zea mays) Pest. Direct Res. J. Biol. Biotechnol. 2019, 5, 24–33.
+115. Selassie, M.; Griffin, B.; Gwebu, N.; Gwebu, E.T. Aged garlic extract attenuates the cytotoxicity of beta-amyloid on undifferentiated
+     PC12 cells. Vitr. Cell. Dev. Biology. Anim. 1999, 35, 369–370. [CrossRef] [PubMed]
+116. Shi, H.; Jing, X.; Wei, X.; Perez, R.G.; Ren, M.; Zhang, X.; Lou, H. S-allyl cysteine activates the Nrf2-dependent antioxidant
+     response and protects neurons against ischemic injury in vitro and in vivo. J. Neurochem. 2015, 133, 298–308. [CrossRef] [PubMed]
+117. Olukunle, O.F.; Adenola, O.J. Comparative Antimicrobial Activity of Lemon Grass (Cymbopogon citratus) and Garlic (Allium
+     sativum) Extracts on Salmonella typhi. J. Adv. Med. Pharm. Sci. 2019, 20, 1–9. [CrossRef]
+118. Heinonen, M. Antioxidant activity and antimicrobial effect of berry phenolics—A Finnish perspective. Mol. Nutr. Food Res. 2007,
+     51, 684–691. [CrossRef]
+119. Durairaj, S.; Srinivasan, S.; Lakshmanaperumalsamy, P. In vitro Antibacterial Activity and Stability of Garlic Extract at Different
+     pH and Temperature. Electr. J. Biol. 2009, 5, 5–10.
+120. Hutabarat, R.T.; Nurjanah, U.; Fahrurrozi, F. Effects of mulching on weed growth and cucumber yield. J. Appl. Hortic. 2021,
+     23, 125–129. [CrossRef]
+121. Vyas, Y.; Bhatnagar, M.; Sharma, K. In vitro evaluation of antibacterial activity of an herbal dentifrice against Streptococcus
+     mutans and Lactobacillus acidophilus. Indian J. Dent. Res. 2008, 19, 26–28.
+122. Cañizares, P.; Gracia, I.; Gómez, L.A.; De Argila, C.M.; Boixeda, D.; García, A.; De Rafael, L. Allyl-thiosulfinates, the Bacteriostatic
+     Compounds of Garlic against Helicobacter pylori. Biotechnol. Prog. 2004, 20, 397–401. [CrossRef]
+123. Scalbert, A.; Manach, C.; Morand, C.; Rémésy, C.; Jiménez, L. Dietary Polyphenols and the Prevention of Diseases. Crit. Rev. Food
+     Sci. Nutr. 2005, 45, 287–306. [CrossRef]
+124. Jung, C.H.; Seog, H.M.; Choi, I.W.; Park, M.W.; Cho, H.Y. Antioxidant properties of various solvent extracts from wild ginseng
+     leaves. LWT Food Sci. Technol. 2006, 39, 266–274. [CrossRef]
+125. Ahmad, R.; Ahmad, N.; Riaz, M.; Al-Tarouti, M.; Aloufi, F.; AlDarwish, A.; Alalaq, B.; Alhanfoush, B.; Khan, Z. Optimization
+     of extraction and quantification technique for phenolics content of garlic (Allium sativum): An application for comparative
+     phytochemical evaluation based on cultivar origin. Biomed. Chromatogr. BMC 2020, 34, e4942. [CrossRef]
+126. Shahidi, F.; Wanasundara, P.K. Phenolic antioxidants. Crit. Rev. Food Sci. Nutr. 1992, 32, 67–103. [CrossRef]
+127. Sultana, S.; Ripa, F.A.; Hamid, K. Comparative antioxidant activity study of some commonly used spices in Bangladesh. Pak. J.
+     Biol. Sci. 2010, 13, 340–343. [CrossRef]
+128. Sani, M.F.; Kouhsari, S.M.; Moradabadi, L. Effects of three medicinal plants extracts in experimental diabetes: Antioxidant
+     enzymes activities and plasma lipids profiles in comparison with metformin. Iran. J. Pharm. Res. 2012, 11, 897–903.
+129. Nasr, A.Y. Protective effect of aged garlic extract against the oxidative stress induced by cisplatin on blood cells parameters and
+     hepatic antioxidant enzymes in rats. Toxicol. Rep. 2014, 1, 682–691. [CrossRef]
+130. Szychowski, K.A.; Binduga, U.E.; Rybczyńska-Tkaczyk, K.; Leja, M.L.; Gmiński, J. Cytotoxic effects of two extracts from garlic
+     (Allium sativum L.) cultivars on the human squamous carcinoma cell line SCC-15. Saudi J. Biol. Sci. 2018, 25, 1703–1712. [CrossRef]
+     [PubMed]
+131. Aquilano, K.; Filomeni, G.; Baldelli, S.; Piccirillo, S.; De Martino, A.; Rotilio, G.; Ciriolo, M.R. Neuronal nitric oxide synthase
+     protects neuroblastoma cells from oxidative stress mediated by garlic derivatives. J. Neurochem. 2007, 101, 1327–1337. [CrossRef]
+132. Hadi, S.M.; Asad, S.F.; Singh, S.; Ahmad, A. Putative mechanism for anticancer and apoptosis-inducing properties of plant-derived
+     polyphenolic compounds. IUBMB Life 2000, 50, 167–171. [PubMed]
+133. Spencer, J.P.E.E.; Abd El Mohsen, M.M.; Minihane, A.-M.M.; Mathers, J.C. Biomarkers of the intake of dietary polyphenols:
+     Strengths, limitations and application in nutrition research. Br. J. Nutr. 2007, 99, 12–22. [CrossRef] [PubMed]
+134. Avci, A.; Sunguroğlu, A.; Ergüder, İ.B.; Gümüş Akay, G.; Devrİm, E.; Özkal Baydin, P.; Varol, N.; Durak, İ. Effects of aqueous
+     garlic extract on oxidant/antioxidant status in 32D and 32Dp210 cell lines. Turk J. Med. Sci. 2010, 40, 881–888. [CrossRef]
+135. Zeng, T.; Li, Y.; Zhang, C.L.; Yu, L.H.; Zhu, Z.P.; Zhao, X.L.; Xie, K.Q. Garlic Oil Suppressed the Hematological Disorders Induced
+     by Chemotherapy and Radiotherapy in Tumor-Bearing Mice. J. Food Sci. 2013, 78, 936–942. [CrossRef] [PubMed]
+136. Delshad, A.A.; Heshmati, M.; Ghaini, M.H. Garlic Extract Can Induce Apoptotic Cell Death In The Human Colon Adenocarcinoma
+     Ht29 Cell Line. Iran. J. Pathol. 2010, 5, 126–131.
+Antioxidants 2022, 11, 1345                                                                                                              28 of 29
+
+
+
+
+137. Bagul, M.; Kakumanu, S.; Wilson, T.A. Crude garlic extract inhibits cell proliferation and induces cell cycle arrest and apoptosis of
+     cancer cells in vitro. J. Med. Food 2015, 18, 731–737. [CrossRef]
+138. Su, C.-C.; Chen, G.-W.; Tan, T.-W.; Lin, J.-G.; Chung, J.-G. Crude extract of garlic induced caspase-3 gene expression leading to
+     apoptosis in human colon cancer cells. Vivo 2006, 20, 85–90.
+139. Yedjou, C.G.; Tchounwou, P.B. In vitro assessment of oxidative stress and apoptotic mechanisms of garlic extract in the treatment
+     of acute promyelocytic leukemia. J. Cancer Sci. Ther. 2012, 2012, 6. [CrossRef] [PubMed]
+140. Hodge, G.; Davis, S.; Rice, M.; Tapp, H.; Saxon, B.; Revesz, T. Garlic compounds selectively kill childhood pre-B acute lymphoblas-
+     tic leukemia cells in vitro without reducing T-cell function: Potential therapeutic use in the treatment of ALL. Biol. Targets Ther.
+     2008, 2, 143–149. [CrossRef] [PubMed]
+141. Wang, X.; Jiao, F.; Wang, Q.W.; Wang, J.; Yang, K.; Hu, R.R.; Liu, H.C.; Wang, H.Y.; Wang, Y.S. Aged black garlic extract induces
+     inhibition of gastric cancer cell growth in vitro and in vivo. Mol. Med. Rep. 2012, 5, 66–72. [CrossRef] [PubMed]
+142. Lan, X.Y.; Sun, H.Y.; Liu, J.J.; Lin, Y.; Zhu, Z.Y.; Han, X.; Sun, X.; Li, X.R.; Zhang, H.C.; Tang, Z.Y. Effects of garlic oil on pancreatic
+     cancer cells. Asian Pac. J. Cancer Prev. 2013, 14, 5905–5910. [CrossRef] [PubMed]
+143. Balasenthil, S.; Arivazhagan, S.; Ramachandran, C.R.; Nagini, S. Effects of garlic on 7,12-dimethylbenz[a]anthracene-induced
+     hamster buccal pouch carcinogenesis. Cancer Detect. Prev. 1999, 23, 534–538. [CrossRef]
+144. Hakimzadeh, H.; Ghazanfari, T.; Rahmati, B.; Naderimanesh, H. Cytotoxic effect of garlic extract and its fractions on Sk-mel3
+     melanoma cell line. Immunopharmacol. Immunotoxicol. 2010, 32, 371–375. [CrossRef]
+145. Ghazanfari, T.; Yaraee, R.; Rahmati, B.; Hakimzadeh, H.; Shams, J.; Jalali-Nadoushan, M.R. In vitro cytotoxic effect of garlic
+     extract on malignant and nonmalignant cell lines. Immunopharmacol. Immunotoxicol. 2011, 33, 603–608. [CrossRef] [PubMed]
+146. Mohajer Shojai, T.; Ghalyanchi Langeroudi, A.; Karimi, V.; Barin, A.; Sadri, N. The effect of Allium sativum (Garlic) extract on
+     infectious bronchitis virus in specific pathogen free embryonic egg. Avicenna J. Phytomedicine 2016, 6, 458–467.
+147. Rouf, R.; Uddin, S.J.; Sarker, D.K.; Islam, M.T.; Ali, E.S.; Shilpi, J.A.; Nahar, L.; Tiralongo, E.; Sarker, S.D. Antiviral potential of
+     garlic (Allium sativum) and its organosulfur compounds: A systematic update of pre-clinical and clinical data. Trends Food Sci.
+     Technol. 2020, 104, 219–234. [CrossRef]
+148. Bakhshi, M.; Taheri, J.-B.; Basir Shabestari, S.; Tanik, A.; Pahlevan, R. Comparison of therapeutic effect of aqueous extract of garlic
+     and nystatin mouthwash in denture stomatitis. Gerodontology 2012, 29, e680–e684. [CrossRef] [PubMed]
+149. Chatterjee, S. Oxidative Stress, Inflammation, and Disease. In Oxidative Stress and Biomaterials; Elsevier Inc.: Amsterdam, The
+     Netherlands, 2016; pp. 35–58. ISBN 9780128032701.
+150. Arreola, R.; Quintero-Fabián, S.; López-Roa, R.I.; Flores-Gutiérrez, E.O.; Reyes-Grajeda, J.P.; Carrera-Quintanar, L.;
+     Ortuño-Sahagún, D. Immunomodulation and Anti-Inflammatory Effects of Garlic Compounds. J. Immunol. Res. 2015,
+     2015, 1–13. [CrossRef] [PubMed]
+151. Ide, N.; Lau, B.H.S. Garlic Compounds Minimize Intracellular Oxidative Stress and Inhibit Nuclear Factor-κB Activation. J. Nutr.
+     2001, 131, 1020S–1026S. [CrossRef] [PubMed]
+152. Park, B.M.; Cha, S.A.; Kim, H.Y.; Kang, D.K.; Yuan, K.; Chun, H.; Chae, S.W.; Kim, S.H. Fermented garlic extract decreases blood
+     pressure through nitrite and sGC-cGMP-PKG pathway in spontaneously hypertensive rats. J. Funct. Foods 2016, 22, 156–165.
+     [CrossRef]
+153. Park, B.M.; Chun, H.; Chae, S.W.; Kim, S.H. Fermented garlic extract ameliorates monocrotaline-induced pulmonary hypertension
+     in rats. J. Funct. Foods 2017, 30, 247–253. [CrossRef]
+154. Ushijima, M.; Takashima, M.; Kunimura, K.; Kodera, Y.; Morihara, N.; Tamura, K. Effects of S -1-propenylcysteine, a sulfur
+     compound in aged garlic extract, on blood pressure and peripheral circulation in spontaneously hypertensive rats. J. Pharm.
+     Pharmacol. 2018, 70, 559–565. [CrossRef]
+155. Ried, K.; Frank, O.R.; Stocks, N.P. Aged garlic extract lowers blood pressure in patients with treated but uncontrolled hypertension:
+     A randomised controlled trial. Maturitas 2010, 67, 144–150. [CrossRef] [PubMed]
+156. Zarezadeh, M.; Baluchnejadmojarad, T.; Kiasalari, Z.; Afshin-Majd, S.; Roghani, M. Garlic active constituent s-allyl cysteine
+     protects against lipopolysaccharide-induced cognitive deficits in the rat: Possible involved mechanisms. Eur. J. Pharmacol. 2017,
+     795, 13–21. [CrossRef] [PubMed]
+157. Luo, J.-F.; Dong, Y.; Chen, J.-Y.; Lu, J.-H. The effect and underlying mechanisms of garlic extract against cognitive impairment and
+     Alzheimer’s disease: A systematic review and meta-analysis of experimental animal studies. J. Ethnopharmacol. 2021, 280, 114423.
+     [CrossRef]
+158. Lai, Y.S.; Chen, W.C.; Ho, C.T.; Lu, K.H.; Lin, S.H.; Tseng, H.C.; Lin, S.Y.; Sheen, L.Y. Garlic essential oil protects against
+     obesity-triggered nonalcoholic fatty liver disease through modulation of lipid metabolism and oxidative stress. J. Agric. Food
+     Chem. 2014, 62, 5897–5906. [CrossRef] [PubMed]
+159. Siddique, A.; Iqbal, J.; Sheikh, M.A. Effects of garlic (allium sativum) on the weights of liver in albino rats. Pak. J. Med. Health Sci.
+     2015, 9, 1051–1054.
+160. Phadatare, A.G.; Viswanathan, V.; Mukne, A. Novel strategies for optimized delivery of select components of Allium sativum.
+     Pharmacogn. Res. 2014, 6, 334–340.
+Antioxidants 2022, 11, 1345                                                                                                   29 of 29
+
+
+
+
+161. Li, Z.; Le, W.; Cui, Z. A novel therapeutic anticancer property of raw garlic extract via injection but not ingestion. Cell Death
+     Discov. 2018, 4, 108. [CrossRef] [PubMed]
+162. Nazari, M.; Ghanbarzadeh, B.; Samadi Kafil, H.; Zeinali, M.; Hamishehkar, H. Garlic essential oil nanophytosomes as a natural
+     food preservative: Its application in yogurt as food model. Colloids Interface Sci. Commun. 2019, 30, 100176. [CrossRef]
+163. Kumari, G.D.; Shivangi, K.; Sharma, N.K.; Gupta, K.M. Formulation and Evaluation of Herbal Extract of Allivum sativum (Garlic)
+     Loaded Chitosan Nanoparticles. J. Drug Deliv. Ther. 2019, 9, 715–718.
+164. Pinilla, C.M.B.; Noreña, C.P.Z.; Brandelli, A. Development and characterization of phosphatidylcholine nanovesicles, containing
+     garlic extract, with antilisterial activity in milk. Food Chem. 2017, 220, 470–476. [CrossRef] [PubMed]
+

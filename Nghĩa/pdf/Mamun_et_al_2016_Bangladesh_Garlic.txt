@@ -1,0 +1,368 @@
+International Journal of Biology Research
+
+
+International Journal of Biology Research
+ISSN: 2455-6548, Impact Factor: RJIF 5.22
+www.biotechjournals.com
+Volume 1; Issue 5; November 2016; Page No. 37-42
+
+
+            Investigation on phytochemical content and antioxidant activity of locally grown garlic
+                                                  (Allium sativum L.) in Bangladesh
+   Al Mamun, Nazmul Hasan, Hazrat Belal, Rokon Ul Karim, Dobirul Islam, Sayela Afroz, Ariful Islam, Tabassum Ara,
+                                            Sirajam Munira, Masudul Hasan Khan, * Amirul Islam
+                   Department of Biochemistry and Molecular Biology, University of Rajshahi, Rajshahi, Bangladesh
+
+Abstract
+Background: Garlic (Allium sativum L.) belonging to the Alliaceae family has played important dietary and medicinal roles
+throughout the history.
+Objectives: The present study was undertaken to investigate the phytochemical content as well as antioxidant activity of local
+variety garlic extract using different solvent systems in Bangladesh.
+Methods: Five different types of extract were prepared using methanol, ethanol, acetone, chloroform and petroleum ether as
+solvent. We performed the phytochemical screening and determined the total phenolic, flavonoid, flavonol and proanthocyanidin
+content of the extracts using standard procedures. Several in vitro assay models were employed to investigate the antioxidant
+activity.
+Results: Out of the five extracts, the acetone extract of local variety possessed the highest content of phenolics (110.76±1.9mg of
+gallic acid equivalent/gm of dry extract)), flavonoids (43.32±2.7mg of catechin equivalent/gm of dry extract), flavonols
+(15.31±2.3mg of quercetin equivalent/gm of dry extract)) and proanthocyanidins (8.54±0.5 mg of catechin equivalent/gm of dry
+extract). The radical scavenging activity, the total antioxidant capacity as well as the reducing power of the extracts increased with
+the increase of concentration. In total antioxidant capacity test and ferric reducing antioxidant power assay acetone extract of local
+variety showed the highest activity. In DPPH, ABTS, hydroxyl radical scavenging assay and lipid peroxidation inhibition assay
+strong antioxidant activities were observed by each extract in which acetone extract of local variety was found to be the best one
+with the IC50 values (in µg/ml) of 5.1±0.9 (DPPH assay), 11.3±0.2 (ABTS assay), 15.7±0.6 (Hydroxyl radical assay) and 19.5±0.3
+(Lipid peroxidation assay).
+Conclusion: Findings of the present study suggested that local variety garlic of Bangladesh is a promising source of natural
+antioxidant and could have great importance as therapeutic agent in various diseased conditions. The study also recommended that
+acetone would be the preferable solvent for extracting polyphenols from garlic.
+
+Keywords: garlic extract, phytochemical, antioxidant activity
+
+
+1. Introduction                                                        cultivated in Bangladesh, but there is no available scientific
+Imbalance between production and scavenging of free                    data regarding the pharmacological properties of this variety.
+radicals and other reactive oxygen species (ROS), known as             Hence, the present study investigated the phytochemicals of
+oxidative stress, is an important component of                         locally grown garlic extract and determined its antioxidant
+pathophysiology of countless human diseases like                       activity.
+atherosclerosis, cancer, diabetes, cardiovascular disease,
+ageing and inflammatory diseases. All biological systems               2. Materials and Methods
+have antioxidant defense mechanism that protects against               2.1 Collection of plant material and authentication
+oxidative damages and repairs enzymes to remove damaged                For the present study, local variety garlic of Bangladesh was
+molecules. However, this natural antioxidant defense                   collected from the local area of Rajshahi (north-western part
+mechanism often fails; hence dietary intake of antioxidant is          of Bangladesh) and authenticated by the Department of
+important. Currently, synthetic antioxidants such as                   Botany, University of Rajshahi, Bangladesh.
+butylated hydroxytoluene (BHT) are most commonly
+included in food products. However, the synthetic                      2.2 Preparation of extract
+antioxidant BHT has been suspected of causing liver                    The garlics were first washed with water to remove adhering
+damage due to their toxic properties [1, 2]. Recently,                 dirt, chopped into small pieces and then shed dried. After
+medicinal plants have attracted particular attention in                complete drying, the entire portions were grinded into a
+research due to their diverse pharmacological properties.              coarse powder by a grinding machine and stored in an airtight
+Garlic (Allium sativum L. family: Alliaceae) has played                container for further use. Five different solvents namely
+important dietary and medicinal roles throughout the ages.             ethanol, methanol, chloroform, acetone and petroleum ether
+Several in vitro and in vivo investigations suggested many             were used for extraction. For each solvent about 100gm of
+favorable effects of garlic and its preparations [3, 4]. A             the powdered material was taken in separate clean, round
+morphologically distinct variety of garlic is locally                  bottomed glass bottle and soaked in 500 ml of solvent. The
+                                                                                                                                   37
+International Journal of Biology Research
+
+
+container with its content was sealed by cotton plug and         with 3 ml of 4% vanillin-methanol solution and 1.5 ml
+aluminum foil and kept for a period of 15 days                   hydrochloric acid; the mixture was allowed to stand for 15
+accompanying occasional shaking and stirring. The resulting      minutes. The absorbance was measured at 500 nm. Total
+extracts were filtered through Whatman No. 1 filter paper.       content of proanthocyanidins was expressed in terms of
+Afterwards, the solvents were evaporated under reduced           catechin equivalent, CAE, mg of CA/g of dry extract.
+pressure at 39˚C using rotary evaporator. Finally, the
+residues were kept in small sterile bottles under refrigerated   2.9. Determination of Antioxidant Activity
+conditions until used. Thus, five types of extracts of garlic    2.9.1 Determination of total antioxidant capacity
+were obtained as Methanol Extract (MEG), Ethanol Extract         Total antioxidant capacity (TAC) of samples/standard was
+(EEG), Chloroform Extract (CEG), Acetone Extract (AEG)           determined by the method reported by Prieto et al. [10] with
+and Petroleum ether Extract (PEG).                               some modifications. 0.5 ml of samples/standard at different
+                                                                 concentrations was mixed with 3 ml of reaction mixture
+2.3 Chemicals and reagents                                       containing 0.6 M sulphuric acid, 28 mM sodium phosphate
+All the chemicals and reagents used throughout this              and 1% ammonium molybdate into the test tubes. The test
+investigation were of reagent grade.                             tubes were incubated at 95°C for 10 minutes to complete the
+                                                                 reaction. The absorbance was measured at 695 nm using a
+2.4 Phytochemical screening of the extracts                      spectrophotometer against blank after cooling at RT. BHT
+Qualitative phytochemical tests were carried out to detect       was used as standard. A typical blank solution contained 3 ml
+some bioactive components present in the extracts. The           of reaction mixture and the appropriate volume of the same
+main bioactive groups (Polyphenols, Terpenoids, Steroids,        solvent used for the samples/standard. Each tube was
+Saponins, Tannin, Flavonoids, Alkaloids and Glycosides)          incubated at 95°C for 10 minutes and the absorbance was
+were identified in each extract using different standard         measured at 695 nm.
+methods [5].
+                                                                 2.9.2 Determination of ferric reducing antioxidant
+2.5 Estimation of total phenolics                                capacity
+Total phenolic contents of the extracts were determined by       The ferric reducing antioxidant capacity of samples/standard
+the modified Folin-Ciocalteu method described by Wolfe et        was evaluated by the method of Oyaizu [11]. 0.25 ml of
+al. [6]. An aliquot of the extracts/standard was mixed with 2    samples/standard solution at different concentrations, 0.625
+ml Folin-Ciocalteu reagent (previously diluted with water        ml of potassium buffer (0.2 M) and 0.625 ml of 1%
+1:10 v/v) and 2 ml (75 g/l) of sodium carbonate. The test        potassium ferricyanide [K3Fe (CN)6] solution were added
+tubes were vortexed for 15 seconds and kept for 20 minutes       into the test tubes. The reaction mixture was incubated for 20
+at 25°C for color development. Absorbance was then               minutes at 50°C to complete the reaction. Then 0.625 ml of
+measured at 760 nm using UV-spectrophotometer                    10% TCA solution was added into the test tubes. The total
+(Shimadzu, USA). Total phenolic contents were expressed          mixture was centrifuged at 3000 rpm for 10 minutes. After
+in terms of gallic acid equivalent, GAE, mg of GA/g of dry       that, 1.8 ml supernatant was withdrawn from the test tubes
+extract.                                                         and was mixed with 1.8 ml of distilled water and 0.36 ml of
+                                                                 0.1% FeCl3 solution. The absorbance of the solution was
+2.6 Determination of total flavonoids                            measured at 700 nm using a spectrophotometer against blank.
+Total flavonoids were estimated using the method described       A typical blank solution contained the same solution mixture
+by Ordonez et al. [7]. To 0.5 ml of samples/standard, 1.5 ml     without plant extracts/standard was also incubated under the
+of methanol, 100 μl of 10% AlCl3, 100 μl of 1M potassium         same condition, and the absorbance of the blank solution was
+acetate solution and 2.8 ml of distilled water were added.       measured at 700 nm.
+After 90 minutes of incubation at room temperature (RT),
+the absorbance was measured at 420 nm. Total flavonoid           2.9.3 DPPH free radical scavenging assay
+contents were expressed in terms of catechin equivalent,         DPPH free radical scavenging activity was determined using
+CAE, mg of CA/g of dry extract.                                  the method described by Choi et al. [12]. A solution of 0.1 mM
+                                                                 DPPH in methanol was prepared and 2.4 ml of this solution
+2.7 Determination of total flavonols                             was mixed with 1.6 ml of extractives in methanol at different
+Total flavonols in the plant extracts were estimated using       concentrations. The reaction mixture was vortexed
+the method of Kumaran and Karunakaran [8]. To 2.0 ml of          thoroughly and left in the dark at RT for 30 minutes. The
+sample/standard, 2.0 ml of 2% AlCl3 in ethanol and 3.0 ml        absorbance      of    the     mixture        was      measured
+(50 g/L) sodium acetate solutions were added. The                spectrophotometrically at 517 nm. BHT was used as
+absorption at 440 nm was read after 2.5 hours at 20°C.           reference standard. Percentage DPPH radical scavenging
+Extract/standard was evaluated at a final concentration of       activity was calculated by the following equation: S% =
+0.1 mg/ml. Total content of flavonols was expressed in           [(A0– A1)/A0)]×100, where A0 is the absorbance of the
+terms of quercetin equivalent, QUE, mg of QU/g of dry            control without sample, and A1 is the absorbance of the
+extract.                                                         extractives/standard. Then percentage DPPH radical
+                                                                 scavenging activity was plotted against concentration, and
+2.8 Determination of total proanthocyanidins                     from the graph IC50 was calculated.
+Determination of content of proanthocyanidins was based
+on the procedure reported by Sun et al. [9]. A volume of 0.5     2.9.4 ABTS radical scavenging assay
+ml of 0.1 mg/ml of extracts/standard solution was mixed          The antioxidant capacity was estimated in terms of the
+                                                                                                                           38
+International Journal of Biology Research
+
+
+ABTS●+ radical scavenging activity following the                   extractives/standard. Then percentage DPPH radical
+procedure described by Cai et al., 2004 [13]. ABTS●+ was           scavenging activity was plotted against concentration, and
+obtained by reacting 7 mM ABTS stock solution with 2.45            from the graph IC50 was calculated.
+mM potassium persulfate and the mixture was left to stand
+in the dark at room temperature for 12–16 hr before use.           3. Results
+The ABTS●+ solution (stable for 2 days) was diluted with           The preliminary phytochemical screening tests revealed the
+water to obtain an absorbance at 734nm of 0.70±0.02.               presence of polyphenols, terpenoids, steroids, saponins,
+ABTS●+ solution (3ml) was added to 1 mL of test sample             tannin, flavonoids, alkaloids and glycosides in almost each
+with various concentrations and mixed vigorously. The              extract of garlic which were presented in Table 1.
+absorbance was measured at 734nm after standing for 6              The total phenolic, flavonoid, flavonol and proanthocyanidin
+minute. BHT was used as positive control. The ABTS●+               content of the different solvent extract of local variety garlic
+radical scavenging activity of the samples was expressed as        were ranged from 110.76±1.9 to 24.81±1.5 mg of GAE/gm
+S% = [(Acontrol– Asample) /Acontrol)]×100, where Acontrol is the   of dry extract, 43.32±2.7 to 14.39±2.2 mg of CAE/gm of dry
+absorbance of the blank control (ABTS●+ solution without           extract, 15.31±2.3 to 5.81±0.5 mg of QUE/gm of dry extract,
+test sample) and Asample is the absorbance of the test sample.     8.54±0.5 to 3.00±0.3 mg CAE/gm of dry extract, respectively
+                                                                   (Table 2). Acetone extract showed the highest content for
+2.9.5 Hydroxyl radical scavenging activity                         each compound whereas the smallest amount was observed in
+Hydroxyl      radical    scavenging     activity    of    the      petroleum ether extract.
+extractives/standard was determined by the method of Klein         The extracts were found to increase the total antioxidant
+et al. [14] with a slight modification. 0.5 ml of                  capacity and the reducing power with the increasing
+extractives/standard at different concentrations was taken in      concentration of the extracts (Figure 1, Figure 2). Acetone
+different test tubes. 1 ml of Fe-EDTA solution (0.13%              extract showed the highest activity than other extracts and is
+ferrous ammonium sulphate and 0.26% EDTA), 0.5 ml of               significantly higher than that of BHT.
+0.018% EDTA solution, 1 ml of 0.85% DMSO solution and              Results of DPPH, ABTS and Hydroxyl radical scavenging
+0.5 ml of 22% AA were added into each of the test tubes.           assay, and lipid peroxidation assay were expressed as IC 50
+The test tubes were capped tightly and warm at 85°C for 15         (50% inhibitory concentration) which were shown in Table 3.
+minutes into the water bath. After incubation, the test tubes      Each extract strongly scavenged the DPPH free radical with
+were uncapped and 0.5 ml ice cold TCA (17.5%) was added            the IC50 values of 7.2±0.5µg/ml (MEG), 7.8±0.85µg/ml
+to each of test tubes immediately. Three ml of nash reagent        (EEG), 5.1±0.95µg/ml (AEG), 18.5±0.65µg/ml (CEG),
+(7.5 gm of ammonium acetate, 300 μl glacial acetic acid and        19.9±0.85µg/ml (PEG). BHT (standard) showed an IC 50
+200 μl acetyl acetone were mixed and made up to 100 ml)            value of 12.6±0.8 µg/ml which is significantly higher than
+was added into all of the test tubes and incubated at RT for       the values of AEG, MEG and EEG. The lower the IC50 value,
+15 minutes. Absorbance was taken at 412 nm wave length             the higher is the antioxidant activity.
+by UV-spectrophotometer. Percentage hydroxyl radical               In ABTS assay the IC50 values were ranged from 11.3±0.2
+scavenging activity was calculated by the following                µg/ml (AEG) to 47.6±0.665µg/ml (CEG).
+equation:                                                          Garlic extracts were effective in scavenging the hydroxyl
+S% = [(A0– A1)/A0)]×100, where A0 is the absorbance of the         radical with the IC50 values (in µg/ml) of 16.3±0.8 (MEG),
+control without sample, and A1 is the absorbance of the            16.7±0.8 (EEG), 15.7±0.6 (AEG), 38.4±0.8 (CEG) and
+extractives/standard. Then percentage DPPH radical                 50.1±0.7 (PEG) whereas BHT showed an IC50 value of
+scavenging activity was plotted against concentration, and         20.8±0.9 µg/ml.
+from the graph IC50 was calculated.                                In lipid peroxidation inhibition assay the IC50 values of MEG,
+                                                                   EEG, AEG, CEG, PEG and BHT were 22.5±0.9, 21.7±0.8,
+2.9.6 Lipid peroxidation inhibition assay                          19.5±0.3, 77.6±0.7, 91.1±0.9 and 29.1±0.9 µg/ml,
+The lipid peroxidation inhibition assay was determined             respectively.
+according to the method described by Liu et al. [15] with a        Strong positive correlation (r= 0.991) was found between
+slight modification. Excised rat liver was homogenized in          antioxidant activity and phenolic content of each extract.
+buffer and then centrifuged to obtain liposome. 0.5 ml of
+supernatant, 100 μl 10 mM FeSO4, 100 μl 0.1 mM AA and
+0.3 ml of extractive/standard at different concentrations          Table 1: Phytochemical profile of extracts from local variety garlic
+were mixed to make the final volume of 1 ml. The reaction                                   of Bangladesh
+mixture was incubated at 37°C for 20 minutes. One ml of                Extracts      P    T     St     S     Ta     F     Al   Gl
+(28%) TCA and 1.5 ml of (1%) TBA was added                              MEG          +    +      +     +      +     +     +     +
+immediately after heating. Finally, the reaction mixture was             EEG         +    +      +     +      +     +     +     +
+again heated at 100°C for 15 minutes and cooled at RT.                   AEG         +    +      +     +      +     +     +     +
+After cooling, the absorbance was taken at 532 nm.                       CEG         +    +      +     +      -     +     +     -
+Percentage inhibition of lipid peroxidation was calculated               PEG         +    +      -     +      +     +     +     -
+by the following equation:                                         The sign (+) indicates the presence of the compounds and (-) the
+S% = [(A0– A1)/A0)]×100, where A0 is the absorbance of the         absence. P: Polyphenols; T: Terpenoids; St: Steroids; S: Saponins;
+control without sample, and A1 is the absorbance of the            Ta: Tannin; F: Flavonoids; Al: Alkaloids; Gl: Glycosides.
+
+
+
+
+                                                                                                                                    39
+International Journal of Biology Research
+
+
+                            Table 2: Phytochemical content of different extracts from local variety garlic of Bangladesh
+                             Extracts               MEG             EEG             AEG              CEG             PEG
+                              Phenola            29.72±0.9       24.81±1.5      110.76±1.9        41.19±1.3       25.65±1.1
+                            Flavonoidb           20.18±2.2       22.51±1.8       43.32±2.7         25.7±2.2       14.39±2.2
+                             Flavonolc           11.92±1.6       12.92±0.9       15.31±2.3         9.00±1.3        5.81±0.5
+                         Proanthocyanidinb        5.17±0.5        5.13±0.4        8.54±0.5         3.62±0.4        3.00±0.3
+                      Each value is the average of three analyses ± standard deviation. a, b and c expressed in terms of GA,
+                      CA and QU, respectively (mg of GA, CA and QU/g of dry extract, respectively).
+
+Table 3: IC50 values of different extracts from local variety garlic         garlic is rich in polyphenol compounds. In this investigation,
+                          of Bangladesh                                      good amount of total phenolic, flavonoid, flavonol and
+Extracts                       IC50 (µg/ml)                                  proanthocyanidin has been found in local variety garlic
+             DPPH assay ABTS assay           HO•        LPI                  extracts which is significantly higher than the results of the
+  MEG           7.2±0.5      15.9±0.9      16.3±0.8 22.5±0.9                 previous studies conducted on different varieties [17, 18].
+  EEG           7.8±0.8      13.6±0.5      16.7±0.8 21.7±0.8                 Several studies reported that the differences in polyphenol
+  AEG           5.1±0.9      11.3±0.2      15.7±0.6 19.5±0.3                 content could be attributable to biological factors (genotype,
+  CEG          18.5±0.6      47.6±0.6      38.4±0.8 77.6±0.7                 cultivars), as well as environmental (temperature, salinity,
+  PEG          19.9±0.8      27.9±0.8      50.1±0.7 91.1±0.9                 water stress and light intensity) conditions. Moreover, the
+  BHT          12.6±0.8      20.2±0.7      20.8±0.9 29.1±0.9                 extraction of phenolic compounds depends on the type of
+HO•: Hydroxyl radical scavenging assay; LPI: Lipid peroxidation              solvent used, the degree of polymerization of phenolics, and
+inhibition assay                                                             their interaction [19-21]. In this report, it was confirmed that
+                                                                             among all the employed organic solvents, acetone was the
+                                                                             most effective for the extraction of polyphenol from garlic.
+                                                                             Recently, polyphenolic compounds derived from plant
+                                                                             species have attracted particular attention due to their
+                                                                             potentiality to reduce free radical induced tissue injury. A
+                                                                             number of studies have demonstrated that garlic polyphenols
+                                                                             are effective scavengers of free radicals and reactive oxygen
+                                                                             species [17, 18, 22]. The present study has used several in vitro
+                                                                             techniques to evaluate the antioxidant activity of garlic
+                                                                             extracts. The total antioxidant capacity test (TAC) is based on
+                                                                             the reduction of Mo (VI) to Mo (V) by the extract and
+                                                                             subsequent formation of green phosphate/Mo (V) complex at
+                                                                             acidic pH. TAC of the phosphomolybdenum model evaluates
+                                                                             both water-soluble and fat-soluble antioxidant capacity. In
+  Fig 1: Total antioxidant capacity of extracts from local variety
+                                                                             ferric reducing antioxidant power assay (FRAP), ferric-
+                       garlic of Bangladesh
+                                                                             ferricyanide complex is reduced to the ferrous form due to
+                                                                             the presence of antioxidants in the plant extracts. Therefore,
+                                                                             the concentration of Fe2+ was monitored by measuring the
+                                                                             formation of Perl’s Prussian blue at 700nm [23]. In both TAC
+                                                                             and FRAP assay, each extract showed increasing activity
+                                                                             with the increase of concentration where acetone extract
+                                                                             showed higher antioxidant activity than the others.
+                                                                             DPPH• (2, 2-diphenyl-1-picrylhydrazyl), a stable free radical,
+                                                                             is widely used to study radical scavenging activities of
+                                                                             extracts and pure compounds. In the presence of a free
+                                                                             radical scavenger DPPH solution is decolorized from deep
+                                                                             violet to light yellow. The degree of reduction in absorbance
+                                                                             measurement is indicative of the radical scavenging
+  Fig 2: Ferric reducing antioxidant power of extracts from local            (antioxidant) power of the extract [24]. The ABTS radical is
+                    variety garlic of Bangladesh                             also commonly used to measure the radical scavenging
+                                                                             activity of hydrogen donating and chain breaking
+4. Discussion                                                                antioxidants in many plant extracts [25]. Biochemical reaction
+Phytochemicals are the chemical constituents in plants with                  may generate hydroxyl radical which have the ability to
+diverse biological activities such as anti-inflammatory,                     interact with DNA directly and therefore contribute to the
+antioxidant, anticancer, and antimicrobial properties etc.                   cancer development. Therefore, it is essential to scavenge
+Phenolics and flavonoids are the common antioxidants                         hydroxyl radical from our body [2]. In the present study, all of
+found in plant kingdom [16]. Proanthocyanidins play an                       the extracts showed strong radical (DPPH, ABTS and
+important role in the prevention of various diseases, like                   Hydroxyl) scavenging activity in which acetone extract was
+atherosclerosis, gastric ulcer, large bowel cancer, cataracts                proved to be the best one.
+and diabetes. Flavonols also have significant contribution to                Lipid peroxidation is a chain reaction in which reactive
+cardiovascular health [2]. Previous studies have shown that                  oxygen species induce membrane damage by per oxidizing
+                                                                                                                                          40
+International Journal of Biology Research
+
+
+lipid moiety, specially the polyunsaturated fatty acids.            9.  Sun JS, Tsuang YW, Chen IJ, Huang WC, Hang YS, Lu
+Increased level of lipid peroxidation has been reported in              FJ. An ultra-weak chemiluminescence study on oxidative
+cancer [26, 27]. In our present study, all of the extracts              stress in rabbits following acute thermal injury. Burns.
+significantly inhibited the in vitro lipid peroxidation.                1998; 24:225-231.
+Antioxidant activities of the present study were also found         10. Prieto P, Pineda M, Aguilar M. Spectrophotometric
+to be higher than that of previous results obtained from                quantitation of antioxidant capacity through the
+different garlic varieties [17, 18, 22]                                 formation of a phosphomolybdenum complex: specific
+It has been reported that total phenolic and flavonoid                  application to the determination of vitamin E. Anal Bio.
+contents are highly correlated with radical scavenging and              1999; 269:337-341.
+antioxidant activity of plant extract [28]. In the present study,   11. Oyaizu M. Studies on products of browning reactions:
+antioxidant activity was found to increase proportionally               antioxidant activities of products of browning reaction
+with the increase of polyphenolic contents. The acetone                 prepared from glucose amine. Jap J Nut. 1986; 44:307-
+extract contained relatively higher amounts of phenolics and            315.
+flavonoid which may be responsible for higher radical               12. Choi HY, Jhun EJ, Lim BO. Application of flow
+scavenging activity compared to other extracts.                         injection chemiluminescence to the study of radical
+                                                                        scavenging activity in plants. Phytother Res. 2000;
+5. Conclusion                                                           14:250-253.
+The present study suggested that local variety garlic of            13. Cai Y Luo, Sun M, Corke H. Antioxidant and phenolic
+Bangladesh possesses a wide variety of pharmacologically                compounds of 112 traditional Chinese medicinal plants
+important compounds and could have great importance as                  associated with anticancer. Life Sci. 2004; 74:2157-
+therapeutic agent in the protection against oxidative stress.           2184.
+The study also recommended that acetone would be the                14. Klein SM, Cohen G, Cederbaum. Production of
+preferable solvent for extracting polyphenols from garlic.              formaldehyde during metabolism of dimethyl sulphoxide
+Further studies are needed to identify the chemical                     by hydroxyl radical generating system. Biochem. 1981;
+constituents of garlic responsible for antioxidant activity.            20:6002-6012.
+                                                                    15. Liu F, Nagaki TB. Anti-oxidative and free radical
+6. Acknowledgements                                                     scavenging activities of selected medicinal herbs. J Life
+The authors thank all the member of the Laboratory of                   Sci. 2000; 66:725-735.
+Clinical Biochemistry and Nutritional Sciences, Department          16. Sankhalkar S, Vernekar V. Quantitative and Qualitative
+of Biochemistry and Molecular Biology, University of                    Analysis of Phenolic and Flavonoid Content in Moringa
+Rajshahi, Bangladesh for their constant support throughout              oleifera    Lam      and     Ocimum      tenuiflorum     L.
+this research.                                                          Pharmacognosy         Research.      2016;      8(1):16-21.
+                                                                        doi:10.4103/0974-8490.171095.
+7. References                                                       17. Shuxia Chen, Xiaoqing Shen, Siqiong Cheng, Panpan Li,
+1. Moskovitz J, Yim MB, Chock PB. Free radicals and                     Junna Du, Yanxia Chang, Huanwen Meng. Evaluation of
+    disease. Arch Biochem Biophy. 2002; 397:354-9.                      Garlic Cultivars for Polyphenolic Content and
+2. Shafiqul Islam, Samima Nasrin, Muhammad Ali Khan,                    Antioxidant      Properties.    PLOS       ONE.       2013;
+    Sakhawat Hossain ASM, Farhadul Islam, Proma                         8(11):e79730.
+    Khandokhar et al. Evaluation of antioxidant and                 18. Xiaonan Lu, Carolyn F Ross, Joseph R Powers, Eric
+    anticancer properties of the seed extracts of Syzygium              Aston D. Barbara Rasco A. Determination of Total
+    fruticosum Roxb. growing in Rajshahi, Bangladesh.                   Phenolic Content and Antioxidant Activity of Garlic
+    BMC Complementary and Alternative Medicine. 2013;                   (Allium sativum) and Elephant Garlic (Allium
+    13:142.                                                             ampeloprasum) by Attenuated Total ReflectanceFourier
+3. Biljana Bozina, Neda Mimica-Dukicb, Isidora                          Transformed Infrared Spectroscopy. J Agric Food Chem.
+    Samojlikc, Anackov Gorand, Ruzica Igicd. Phenolics as               2011; 59:5215-5221. dx.doi.org/10.1021/jf201254f.
+    antioxidants in garlic (Allium sativum L., Alliaceae).          19. Tingjing Zhang, Xinyuan Wei, Zhuang Miao, Hamada
+    Food Chem. 2008; 111(4):925-929.                                    Hassan, Yunbo Song, Mingtao Fan. Screening for
+4. Onyeoziri UP, Romanus EN, Onyekachukwu UI.                           antioxidant and antibacterial activities of phenolics from
+    Assessment of antioxidant capacities and phenolic                   Golden Delicious apple pomace. Chemistry Central
+    contents of nigerian cultivars of onions (Allium cepa L)            Journal. 2016; 10:47. DOI 10.1186/s13065-016-0195-7.
+    and garlic (Allium sativum L). Pak J Pharm Sci. 2016;           20. Massias A, Boisard S, Baccaunaud M, Calderon FL,
+    29(4):1183-8.                                                       Subra-Paternault P. Recovery of phenolics from apple
+5. Sofowora A. Medicinal plants and traditional medicine                peels using CO2 + ethanol extraction: kinetics and
+    in Africa. Ibadan: Spectrum books Ltd. 1993, 55-71.                 antioxidant activity of extracts. J Supercrit Fluids 2015;
+6. Wolfe K, Wu X, Liu RH. Antioxidant activity of apple                 98:172-182.
+    peels. J Agr Food Chem. 2003; 51:609-614.                       21. Lou SN, Lai YC, Hsu YS, Ho CT. Phenolic content,
+7. Ordonez AAL, Gomez JD, Vattuone MA, Isla MI.                         antioxidant activity and effective compounds of kumquat
+    Antioxidant activities of Sechium edule (Jacq.) Swart               extracted by different solvents. Food Chem. 2016; 197:1-
+    extracts. Food Chem. 2006; 97:452-458.                              6.
+8. Kumaran A, Karunakaran RJ. In vitro antioxidant                  22. Dima Mnayer, Anne-Sylvie Fabiano-Tixier, Emmanuel
+    activities of methanol extracts of Phyllanthus species              Petitcolas, Tayssir Hamieh, Nancy Nehme, Christine
+    from India. LWT- Food Sci Technol. 2007; 40:344-352.                Ferrant et al. Chemical Composition, Antibacterial and
+                                                                                                                               41
+International Journal of Biology Research
+
+
+    Antioxidant Activities of Six Essentials Oils from the
+    Alliaceae Family. Molecules. 2014; 19:20034-20053,
+    doi:10.3390/molecules191220034.
+23. Rajurkar NS et al. Evaluation of phytochemicals,
+    antioxidant activity and elemental content of Adiantum
+    capillus veneris leaves. J Chem Pharm Res. 2012;
+    4(1):365-374.
+24. Pisoschi AM, Negulescu GP. Methods for Total
+    Antioxidant Activity Determination: A Review.
+    Biochem &          Anal    Biochem.     2011;    1:106.
+    doi:10.4172/2161-1009.1000106.
+25. Netzel M, Strass G, Bitsch I, Könitz R, Christmann M,
+    Bitsch R. Effect of grape processing on selected
+    antioxidant phenolics in red wine. Journal of Food
+    Engineering. 2003; 56:223-228.
+26. Scully C. Oral cancer: New insight into pathogenesis.
+    Den Upd. 1993; 4:95-98.
+27. Klauning JE XUY, Isenberg JS, Bachowski S, Kolaja
+    KL, Jianga J, Stevenson DE et al. The role of oxidative
+    stress in chemical carcinogenesis. Envir Heal Persp.
+    1998; 106:289-333.
+28. Muhammad Ali Khan, Md. Mahbubur Rahman, Md.
+    Nazmul Sardar, Md. Saiful Islam Arman, Md. Badrul
+    Islam, Md. Jahangir Alam Khandakar et al.
+    Comparative investigation of the free radical
+    scavenging potential and anticancer property of
+    Diospyros blancoi (Ebenaceae). Asian Pac J Trop
+    Biomed. 2016; 6(5):410-417.
+
+
+
+
+                                                              42
+
