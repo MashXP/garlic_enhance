@@ -1,4 +1,4 @@
-**Modified:** 2026-04-06T20:38:51+07:00
+**Modified:** 2026-04-07T15:11:00+07:00
 
 # 🧄 Project Garlic: Central Command Hub
 
@@ -53,6 +53,7 @@ We have pivoted from expensive de novo sequencing to **Phenotypic Screening**.
 - **[Active Protocol](Research_Protocol.md):** The current functional strategy (Isolation & Factorial Design).
 - **[Task Delegation](Task_Delegation.md):** Specific assignments for each member.
 - **[Backup Plan](Backup_Plan.md):** The "Safety Net" strategy.
+- **[Fertilizer Report](Phong/Fertilizers/Fertilizer.md):** Synthesized NPK-Cl research findings.
 - **Legacy Files:** Located in [_legacy/](file:///home/mashxp/Documents/MyVault/Atlas/Garlic/_legacy/) (Includes IDEAL protocol and Candidate plans).
 
 
