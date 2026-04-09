@@ -21,10 +21,10 @@
     *   **Later:** **Molecular docking simulations** 💀 to prove *why* our garlic is better against specific bacteria (MRSA/E. coli).
 
 ### 🧪 Phát (Microbiology & Genetics)
-*   **Role:** The Manufacturer.
+*   **Role:** The Manufacturer & Biological Lead.
 *   **Immediate Task:**
-    *   **Action:** Locate sources for the specific **PGPR strains** (Plant Growth-Promoting Rhizobacteria) that I will identify in my Target Report.
-    *   **Protocol:** Draft the *Inoculation Protocol*. How do we get the bacteria *into* the clove? (Soaking? Injection? Soil drench?). We need a sterile method.
+    *   **Action:** Locate, isolate, and culture the specific **PGPR strains** (Plant Growth-Promoting Rhizobacteria/Bacillus mix) for Groups T1 and T3.
+    *   **Protocol:** Draft the *Inoculation Protocol* (clove soak vs. soil drench) and ensure culture stability ($10^8$ CFU/mL) before trial start.
 
 ### 🌿 Nghĩa (Eastern Medicine/Product)
 *   **Role:** The Analyst & Quality Control.
