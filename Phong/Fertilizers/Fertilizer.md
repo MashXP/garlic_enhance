@@ -1,6 +1,6 @@
 # 🧄 Fertilizer Research Report: Raw Verbatim Results
 **Lead:** Phong (Agriculture & Information)
-**Modified:** 2026-04-09T17:18:00+07:00
+**Modified:** 2026-04-14
 
 ---
 
@@ -70,23 +70,17 @@ Based on the literal Results above, the **Combined Treatment (T3)** must target 
 ---
 
 ## 🧬 Project Target: 2x2 Factorial Synergy
-Based on the results above, our trial (Phong & Phát) targets a synergistic boost using the following parameters:
-
-Based on the literal Results above, the **Combined Treatment (T3)** must target the following to match the highest performer (SF/D-coder/INM):
-- **Base NPK:** 18-10-14 (18% Nitrogen, 10% $P_2O_5$, 14% $K_2O$).
-- **Micro-synergy:** S, Cl, Fe, Mn, Zn.
-- **Biocomponent:** Microbial Biofertilizer (Azotobacter/PSB) + 25% Organic Supplement (Vermicompost) + 75% NPK-Cl.
-- **Golden Index Target:** All-inclusive synergy (Chemical + Bio + Trace).
-| Component | Specification for "Yes" Groups | Project Assignment |
+| Component | Specification for "Yes" Groups | Research Rationale (Phát Synergy) |
 | :--- | :--- | :--- |
-| **NPK Base** | **18-10-14** (High N, Moderate P, Standard K) | **Phong** |
-| **Micronutrients** | S, Cl, Fe, Mn, Zn (Synergy catalysts) | **Phong** |
-| **Bio-Component** | *Azotobacter* / PSB Mix (Pillar Medium Isolate) | **Phát** |
-| **Synergy Target** | **Group T3** (Both active) to outperform T1+T2. | **Team** |
+| **NPK Base** | **18-10-14** (High N, Moderate P, Standard K) | Supports vigorous photosynthesis & biomass. |
+| **S (Sulfur)** | **Sulfate ($SO_4$) + Elemental S ($S^0$)** | **Direct Feed:** $S^0$ for *Thiobacillus* oxidizers; $SO_4$ for *B. cereus* NR1 metabolism. |
+| **Micro-synergy** | Cl, Fe, Mn, Zn | **Co-factors:** Essential for bacterial `ssu/cys` enzyme activation and Zn-uptake synergy. |
+| **Microbial Catalyst** | *Bacillus cereus NR1* + *P. aeruginosa* | **NUE Boost:** High-affinity desulfurization and ACC Deaminase stress mitigation. |
+| **Synergy Target** | **Group T3** (Both active) | Hypothesis: $T3$ outperforms $T1+T2$ due to microbial bioavailability of the S/P fractions. |
 ---
 
-## 🧐 Areas for Further Clarification
-1.  **Bio-Species Identification (Paper 01):** Specifically prioritize *Azotobacter chroococcum* and *Pseudomonas fluorescens* (PSB) as these are the global standards for INM.
-2.  **Vermicompost Rate:** Determine the mass equivalent for 25% substitution in our specific 1200m² trial scale.
-3.  **Soil Organic Matter (Paper 03):** "When soil organic matter was insufﬁcient, it reduced about one-third garlic yield." We must test our potting soil's OM before starting.
-4.  **Sulfate vs. Elemental Sulfur (Paper 02):** Clarify if the 42kg S in D-coder is sulfate ($SO_4$) or elemental sulfur.
+## 🧐 Resolved Clarifications (Strategic Synergy)
+1.  **Bio-Species Identification:** Prioritize **Bacillus cereus NR1** and **Pseudomonas aeruginosa** for the trial, as they map directly to the sulfur-metabolism and stress-mitigation genes found in the lit review.
+2.  **Vermicompost Rate:** Set at 25% by mass of the final potting mix; mass equivalent calculation assigned to Phong in [Task.md](file:///home/mashxp/Documents/MyVault/Atlas/Garlic/Phong/Task.md).
+3.  **Soil Organic Matter (SOM):** **Professional Lab Test required.** High SOM is needed to buffer the acidification caused by *Thiobacillus* and elemental S oxidation.
+4.  **Sulfate vs. Elemental Sulfur:** Use a **50/50 Blend**. This provides immediate nutrition (Sulfate) while providing a long-term "fuel source" for the isolated sulfur-oxidizing microbes.

@@ -1,4 +1,5 @@
 # Experimental Trial Design Protocol: Garlic (Allium Sativum L.)
+**Version:** 1.2 (ISO: 2026-04-14)
 
 This protocol standardizes the experimental design for garlic trials within the project, ensuring all fertilization and extraction research aligns with established scientific standards and the Project's **2x2 Factorial Synergy** model.
 
