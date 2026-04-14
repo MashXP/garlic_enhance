@@ -1,0 +1,588 @@
+                      Global Journal of Science Frontier Research: D
+                      Agriculture and Veterinary
+                      Volume 17 Issue 1 Version 1.0 Year 2017
+                      Type : Double Blind Peer Reviewed International Research Journal
+                      Publisher: Global Journals Inc. (USA)
+                      Online ISSN: 2249-4626 & Print ISSN: 0975-5896
+
+
+
+
+Comparative Study of Different Compound Fertilizers on
+Garlic (Allium Sativum L.) Productivity under Various Soils
+and Seasons
+                                                                                                   By Diriba-Shiferaw G.
+                                                                                                              Arsi University
+Abstract- Production of good productivity of garlic for both consumption and economic value is
+the goal of most farmers/producers. However, soil fertility depletion and erratic rainfall are among
+the major constraints to sustain production of the crop due to limited fertilizer type/sources
+application and rainfall dependence. Thus, to elucidate this problem a field experiment was
+conducted to study the effect of different types of compound/blended fertilizers on growth, yields
+and economic benefits of garlic under both irrigation and rain-fed conditions at DebreZeit
+Agricultural Research Centre, Ethiopia, on both Andosols and Vertisols in 2013/14. The
+treatments consisted of control (unfertilized), Diammonium phosphate(NP), Azofertil(NS),
+Basic(NPKCaO) and D-coder(NPSZn) compound fertilizers each applied at 200kgha-1. The
+experiment was laidout in randomized complete block design in three replications on both soils.
+Keywords: compound fertilizer, productivity, cropping season, economic benefits, garlic yield,
+soil type.
+GJSFR-D Classification: FOR Code: 070199
+
+
+ComparativeStudyofDifferentCompoundFertilizersonGarlicAlliumSativumLProductivityunderVariousSoilsandSeasons
+                                                       Strictly as per the compliance and regulations of :
+
+
+
+
+© 2017. Diriba-Shiferaw G. This is a research/review paper, distributed under the terms of the Creative Commons Attribution-
+Noncommercial 3.0 Unported License http://creativecommons.org/licenses/by-nc/3.0/), permitting all non commercial use,
+distribution, and reproduction in any medium, provided the original work is properly cited.
+     Comparative Study of Different Compound
+       Fertilizers on Garlic (Allium Sativum L.)
+    Productivity under Various Soils and Seasons
+                                                          Diriba-Shiferaw G
+
+Abstract- Production of good productivity of garlic for both            sulphur containing compounds that are responsible for
+consumption and economic value is the goal of most                      the strong odor, its distinctive flavor and pungency as                     2017
+farmers/producers. However, soil fertility depletion and erratic        well as for its healthful benefits (Salomon, 2002).
+rainfall are among the major constraints to sustain production          Moreover, it contains considerable amounts of different                       Year
+of the crop due to limited fertilizer type/sources application
+                                                                        nutrients and vitamins (Maly et al., 1998). Garlic has
+and rainfall dependence. Thus, to elucidate this problem a                                                                                                                  11
+                                                                        higher nutritive value than other bulb crops: 30–35% dry
+field experiment was conducted to study the effect of different
+types of compound/blended fertilizers on growth, yields and             matter, 6–7% protein, and different minerals. Garlic also
+
+
+
+
+                                                                                                                                                  Global Journal of Science Frontier Research ( D ) Volume XVII Issue I Version I
+economic benefits of garlic under both irrigation and rain-fed          contains antibiotics garlicin and allistatin, a number of
+conditions at DebreZeit Agricultural Research Centre, Ethiopia,         enzymes, amino acids, universal substances, including
+on both Andosols and Vertisols in 2013/14. The treatments               trace elements (Maly et al., 1998). However, these
+consisted        of     control    (unfertilized),    Diammonium        quality attributes are depend on production and
+phosphate(NP), Azofertil(NS), Basic(NPKCaO) and D-                      management practices on both field and after
+coder(NPSZn) compound fertilizers each applied at 200kgha-1.            harvested.
+The experiment was laidout in randomized complete block
+design in three replications on both soils. The morphological
+                                                                                  Despite its importance, garlic yield and quality
+characters like plant height, neck thickness and leaf area              are affected by various biotic and abiotic stresses,
+index; and yield components like bulb weight, diameter and              among which low/excess mineral nutrition, irrigation
+length, and mean clove weight, biological yield, harvest index,         schedule/rainfall are among the major ones (Jaleel et
+bulb yield and economic benefits of garlic were significantly           al., 2007; Cheruth et al., 2008). Garlic crop has a
+increased in response to applied Azofertil, Basic and D-coder           shallow root system and needs optimum and regular
+compound fertilizers on Andosols in both seasons. However,              application of water and nutrients. Cropping season and
+the lowest results were recorded from garlic grown without              soil moisture affect the growth and yield of garlic; low
+fertilizer application and from those fertilized with DAP fertilizer,
+                                                                        moisture conditions in the soil are conducive to poor
+especially on Vertisols. Generally, growth, yields and
+economic benefits of garlic exhibited good results with applied
+                                                                        productivity (Shock et al., 1998), while excessive soil
+D-coder fertilizer (200kgha-1 which supplied 28kg N+18kg                moisture results in wastage of irrigation water and
+P+42kg S+0.2kg Zn) (improving bulb yield by 32% and 13%                 nutrients leaching lead to rots and poor bulb quality. In
+than control and DAP) followed by Azofertil fertilizer (200kgha-1       dry cropping season, water is the most important
+which supplied 60kg N+50kg S) on Andosols in dry-season                 limiting factor in agriculture and economic development
+cultivation using irrigation. Thus, it could be concluded that          issues. Water is an important factor in reducing yield
+Azofertil and D-coder fertilizers can substitute the locally            and one way to increase crop yield is using irrigation
+recommended fertilizer type, DAP, and they could be used as             water; thus, its application must be done efficiently to
+a better alternative fertilizer types to enhance the productivity
+                                                                        ensure profitability through maximizing yield, because
+of garlic on both soil types.
+                                                                        as a natural resource it is either inadequate or irregular
+Keywords: compound fertilizer, productivity, cropping
+                                                                        in most areas where onions production is prevalent
+season, economic benefits, garlic yield, soil type.
+                                                                        (Muhammad et al., 2011). With the adoption of new
+                  I.     Introduction                                   technology in intensive cropping with high yielding
+
+
+
+G
+                                                                        varieties, there is a considerable demand on soil for
+       arlic is one of the main Allium vegetable crops                  supply of nutrients. Fertilizer types also affect the
+       known worldwide with respect to its production                   productivity and quality of crops; poor bulb formation,
+       and economic value. It is used as a seasoning in                 undesirable crop quality and low nutritional quality result
+many foods worldwide and without garlic; many of our                    from inadequate levels of nitrogen, phosphorus and
+popular dishes would lack the flavor and character that                 potassium application (Liu et al., 2010).
+make them favorites. Garlic's volatile oil has many                               Hence, considering garlic as one of the
+                                                                        potential vegetable crop for consumption as well as for
+Author: (PhD), Department of Plant Sciences, College of Agriculture     market, it is imperative to increase its productivity along
+and Environmental Sciences, Arsi University, P.O. Box 193 Asella,
+Ethiopia. e-mails: dsphd2010@gmail.com,                                 with desirable quality and nutrients content through
+senadiriba2012@yahoo.com                                                application of other sources of nutrients beyond Urea
+
+                                                                                                             © 2017   Global Journals Inc. (US)
+                                                                                     Comparative Study of Different Compound Fertilizers on Garlic (Allium Sativum L.) Productivity under
+                                                                                                                         Various Soils and Seasons
+
+
+                                                                                  and Diammonium phosphate(DAP) that are most widely            phosphate/DAP/(18%N+20%P),Azofertil(30%N+25%S),
+                                                                                  used in Ethiopia, in addition to other production and         D-coder(14%N+9%P+21%S+0.1%Zn)              and      Basic
+                                                                                  management practices like soil types and cropping             (9%N+6%P+22%K+ 10%CaO) compound fertilizers
+                                                                                  seasons. The use of compound/blended fertilizers that         per 100 kgha-1. However, the fertilizers were applied at
+                                                                                  contain various nutrients in one fertilizer product to        the rate of 200 kgha-1 on two soils under both irrigation
+                                                                                  obtain high yield and good quality garlic bulb is an          and rain-fed seasons for the experiments. The nitrogen
+                                                                                  important practice in today’s garlic production on            amount in DAP fertilizer was adjusted to 92 kgha-1 using
+                                                                                  available land. Consequently, a study was undertaken          Urea.
+                                                                                  with the objective of differentiating the suitable type and
+                                                                                  effect of comparing different compound fertilizers with       b) Treatments and Experimental Design
+                                                                                  various nutrients for garlic yield attributes and economic             The treatments were consisted of five different
+                                                                                  benefits under irrigation and rain-fed cropping               compound fertilizers which containing various nutrients;
+  2017                                                                                                                                          viz. Control/without fertilizer/, DAP, Azofertil, Basic and
+                                                                                  conditions on both Andosols and Vertisols soil types.
+                                                                                                                                                D-coder. DAP fertilizer, which regularly used by farmers,
+   Year                                                                                      II.        Materials and Methods                   was applied as a check for comparison with the new
+                                                                                                                                                compound fertilizers introduced from abroad.
+                           2                                                      a) Experimental Sites and Materials
+                                                                                                                                                Randomized Complete Block Design was used in three
+                                                                                           The experimental areas were characterized by
+                                                                                                                                                replications on both soil types. The experimental plot
+                                                                                  sub-humid tropical climate type with mean annual
+
+
+
+
+Global Journal of Science Frontier Research ( D ) Volume XVII Issue I Version I
+                                                                                                                                                area was 3.6m2 (1.8mX2m) with spacing of 10cm, 30cm
+                                                                                  maximum and minimum temperatures of 28/26oC and
+                                                                                                                                                and 60cm between plants, single rows, double rows,
+                                                                                  10.2/9.9oC, respectively; mean rainfall of 550/930mm
+                                                                                                                                                respectively; maintaining 1m and 1.5m between plots
+                                                                                  and relative humidity of 52/62% during dry and rainy
+                                                                                                                                                and blocks distances, respectively. The plot size
+                                                                                  seasons, respectively. The experiment was conducted
+                                                                                                                                                consisted of six rows with 20 plants/row. Treatments
+                                                                                  at the experimental farm of DebreZeit Agricultural
+                                                                                                                                                were assigned to each plot randomly. All the fertilizer
+                                                                                  Research Centre/DZARC/ (08044''N latitude, 38058''E
+                                                                                                                                                treatments were applied during planting and all other
+                                                                                  longitude, altitude of 1860 m.a.s.l) in central Ethiopia
+                                                                                                                                                cultural, crop production and management practices
+                                                                                  during both dry season using irrigation and rainy season
+                                                                                                                                                were carriedout uniformly to the plots on both soils
+                                                                                  under rain in the year 2013/14. The experiment was
+                                                                                                                                                under the two seasons following the areas’
+                                                                                  conducted on two major soil types: light grey
+                                                                                                                                                recommendations (Getachew and Asfaw, 2000).
+                                                                                  soil(Andosols) with well-drained and good soil physical
+                                                                                  property; and black soil(Vertisols) with high water           c) Data Collected
+                                                                                  holding capacity, swelling and shrinking properties. The               Ten sample plants on each plot were randomly
+                                                                                  experimental fields were under ‘Tef’[Eragrostis               selected from the middle four rows at 90 days of
+                                                                                  tef(Zucc.)Trotter] cultivation for the two previous           planting and growth parameters like plant height(cm),
+                                                                                  consecutive cropping seasons.                                 leaf number per plant, neck diameter(mm) and leaf area
+                                                                                           The physical and chemical properties of the          index from ten sample plants were recorded. After
+                                                                                  experimental soils were analysed following the                matured, bulb and yield attributes like fresh bulbs
+                                                                                  procedures      of Jackson(1967).       Thus,    Vertisols    weight(g), bulb diameter and length(cm), mean clove
+                                                                                  experimental site showed surface soil texture of sandy-       weight(g) (the ratio of total clove weight to total clove
+                                                                                  clay-loam which contained low organic matter (1.80 and        number per sampled bulbs), biological yield(g) (the
+                                                                                  1.65%); low total N (0.058 and 0.071%), low available P       summation of above and below ground yields), total
+                                                                                  (13.56 and 16.84ppm), medium available S (18.0 and            bulb yield(t/ha), harvest index (the ratio of bulb yield to
+                                                                                  16.9mgkg-1soil), medium K (1.15 and 1.23C.mol(+)/kg)          biological yield) of garlic were recorded. The economic
+                                                                                  and pH value of 7.17 and 7.08 during dry and rainy            benefits of bulb yield of garlic was calculated from the
+                                                                                  seasons, respectively. The Andosols experimental site         cost incurred that vary with each treatment and
+                                                                                  with surface soil texture of sandy-loam was contained         economic yields obtained depending on the average
+                                                                                  medium organic matter (2.56 and 2.34%), medium total          prices prevailed at the time of production was
+                                                                                  N (0.127 and 0.113%), low available P (18.30 and              considered to calculate the gross return. The benefit to
+                                                                                  22.41ppm), low available S (15.8 and 19.7mgkg-1soil),         cost/B:C/ was obtained from the ratio of gross return to
+                                                                                  high K (2.22 and 2.04C.mol(+)/kg); and pH value of            total input variable cost of cultivation to compare the
+                                                                                  7.66 and 7.38 during dry and rainy seasons, respectively      performance of different treatments.
+                                                                                  when compared with that of Vertisols.
+                                                                                           Tseday(G-493) garlic cultivar was used with          d) Data Analysis
+                                                                                  similar diameter and weight for the experiment on both                The obtained data were subjected to statistical
+                                                                                  soils under the two cropping seasons. Different               analysis of variance/ANOVA/ using SAS statistical
+                                                                                  compound fertilizers containing different nutrients were      software version 9.0 and mean separation was done
+                                                                                  applied for the experiment viz., Diammonium                   using the Fisher’s least significant differences at P<0.05
+
+                                                                                  © 2017   Global Journals Inc. (US)
+  Comparative Study of Different Compound Fertilizers on Garlic (Allium Sativum L.) Productivity under
+                                      Various Soils and Seasons
+
+
+level of probability using the method described by             the applied nutrients as indicated by their mean values,
+Snedecor and Cochran (1980).                                   which revealed that the cumulative role of the nutrients
+                                                               available in the compound fertilizers on the plant
+      III.         Results and Discussion                      development and growth. These results are inline with
+a) Effects of Fertilizers and Soils on Growth Attributes       the result of Faten et al. (2010) who reported highest
+   of Garlic                                                   onion plant height and neck diameter due application of
+           Application of different compound fertilizers       Sulphate of potash than Muriate of potash, which
+significantly influenced garlic plant height under both        revealed that the positive cumulative effects of more
+irrigation and rain-fed production systems; but neck           than two nutrients available in the compound fertilizers
+diameter and leaf area index/LAI/ were significantly           than the fertilizer containing single/two elements on the
+affected only under rain-fed production. However,              growth of the crop.
+application of different types of fertilizers did not                    Soil types also significantly influenced the
+                                                                                                                                            2017
+significantly influence leaf number(Table1). Plant height      growth parameters of garlic plant during both dry and
+of garlic treated by different types of compound               rainy seasons except LAI under dry season using
+                                                                                                                                              Year
+fertilizers was not showed significant variation from each     irrigation(Table1). Plant heights under both dry and rainy
+other, except from the untreated/control/ plot using           seasons; and leaf number, neck diameter and LAI under
+                                                               rain-fed season were increased on Andosols grown                                                     31
+irrigation. However, highest plant height was recorded
+from garlic plants treated with D-coder fertilizer (200        garlic plants; but leaf number and neck diameter of
+
+
+
+
+                                                                                                                                          Global Journal of Science Frontier Research ( D ) Volume XVII Issue I Version I
+kgha-1) followed by those fertilized with Azofertil under      garlic plant grown on Vertisols were higher than those
+rain-fed season, and lowest height was recorded from           grown on Andosols in dry season. These might be due
+garlic produced on the control plot(Table1). Garlic neck       to the soil characteristics to influence bulbs growth and
+diameter was significantly increased by Azofertil and D-       nutrients mobility in addition to their availability as they
+coder fertilizers application than the others under rain-      influenced the growth of the whole plants. However,
+fed, and highest LAI was produced by D-coder                   soils did not significantly influence the LAI produced
+application under rain-fed(Table1). These might be due         during dry season using irrigation(Table1).
+to the response of the plants to the cumulative effect of
+   Table 1: Effects of different types of fertilizers and soils on growth indices of garlic under both dry season using
+                                     irrigation and rainy cropping seasons of 2013/14
+                                  Dry season(Irrigation)                            Rainy season(Rain)
+    Treatments          Plant        Leaf         Neck         LAI       Plant       Leaf        Neck                     LAI
+                     height/cm/    number diameter/cm/                height/cm/    number diameter/cm/
+      Fertilizer
+      Control          50.22b       12.00         7.02        0.970     47.65d        11.75         9.12d               1.945d
+        DAP            53.98a       11.67         7.03        1.063     51.33c        11.78         10.48c              2.107c
+      Azofertil        54.47a       11.67         7.22        0.993     55.65ab       11.82         12.05a              2.733b
+       Basic           55.38a       11.48         7.03        1.048     53.60bc       11.35         11.12b              2.237c
+      D-coder          55.38a       11.35         7.15        1.020     57.53a        12.00         12.05a              3.017a
+         SE             1.46         0.41        0.211        0.07       0.58         0.187         0.259               0.051
+     LSD(0.05)            *           ns           ns           ns         *            ns           ***                 ***
+        Soil
+     Andosols          57.44a       10.95b       6.80b        1.056      59.55a      12.17a         12.01a              2.531a
+      Vertisols        50.33b       12.32a       7.38a        0.982      46.76b      11.31b         9.92b               2.284b
+         SE             0.93         0.26        0.134        0.044       0.37       0.119          0.164               0.032
+     LSD(0.05)          ***            *           **           ns        ***          **            ***                  **
+       CV(%)            4.34         9.94         7.33        16.80       3.29        3.93           5.80                5.21
+ SE-Standard error; LSD-Least Significant Differences; CV-Coefficient of Variation; DAP-Diammonium phosphate; LAI-
+ Leaf Area Index; No–Number; ns-nonsignificant
+b) Effect of Fertilizers and Soils on Yield and Yield          Azofertil (60kg N+50kg S ha-1), Basic (18kg N+12kg
+   Attributes of Garlic                                        P+44kg K+20kg CaO ha-1) and D-coder (28kg N+18kg
+        The values of bulb attributes like fresh bulb          P+42kg S+0.2kg Zn ha-1) compound fertilizers
+weight, mean clove weight, bulb diameter and length            produced significantly higher bulbs as compared to
+were significantly(P ≤ 0.01) influenced by the fertilizer      DAP and control in both seasons. This indicated that
+types applied during both dry- and rainy- seasons on           availability of optimum nutrients with optimum moisture
+both Andosols and Vertisols(Table2). Garlic cultivated         increased the growth of garlic height, number, length
+without fertilizer application resulted in lowest bulb         and width of leaves, in response to higher levels of
+components under both seasons. Application of                  fertilization(Diriba-Shiferaw et al., 2013). All of which
+
+                                                                                                     © 2017   Global Journals Inc. (US)
+                                                                                     Comparative Study of Different Compound Fertilizers on Garlic (Allium Sativum L.) Productivity under
+                                                                                                                         Various Soils and Seasons
+
+
+                                                                                  might have increased dry matter production and                         characteristics only during dry season production using
+                                                                                  allocation of assimilate to bulbs; resulting in an                     irrigation; higher fresh bulb weight, mean clove weight,
+                                                                                  increased garlic weight of bulbs and cloves which are in               bulb diameter and length were produced on Andosols
+                                                                                  agreement with the finding of Amin et al. (2007) who                   as compared to those produced on Vertisols(Table2).
+                                                                                  reported that application of 107kg N+72kg P+90kg                       This might be due to moisture managements and better
+                                                                                  K+33kg S ha-1 resulted in the highest growth and yield                 nutrients availability in Andosols before planting crop in
+                                                                                  of onion over three consecutive cropping years.                        addition to the externally applied as compared to
+                                                                                  However, soil types significantly influenced bulb                      Vertisols.
+                                                                                       Table 2: Effects of different types of fertilizers and soils on bulb components of garlic under both dry and rainy
+                                                                                                                                          cropping seasons of 2013/14
+                                                                                                                            Dry season(Irrigation)                             Rainy season(Rain)
+  2017
+                                                                                    Treatments               Fresh bulb       Bulb        Bulb        Mean        Fresh        Bulb         Bulb        Mean
+   Year                                                                                                       weight(g)     diameter   length(cm)     clove        bulb      diameter    length(cm)     clove
+                                                                                                                              (cm)                   weight(g)   weight(g)     (cm)                    weight(g)
+                                                                                       Fertilizer
+                        4
+                                                                                           Control               23.30c       3.34d        2.44d       1.54b      19.05b       14.51c       2.37b        0.94c
+                                                                                                                        a         a            a           a            a           b           a
+                                                                                         DAP                     32.32       4.29         3.60        1.70        25.46       19.32         2.61         1.14b
+
+
+
+
+Global Journal of Science Frontier Research ( D ) Volume XVII Issue I Version I
+                                                                                       Azofertil                 31.85a      4.10ab       3.32b       1.63ab      28.20a      21.99ab       2.62a        1.28a
+                                                                                        Basic                    25.73b      3.70c        3.01c       1.36c       29.94a      19.80b        2.66a        1.29a
+                                                                                       D-coder                   31.39a      4.04b        3.20bc      1.69a       29.23a      24.87a        2.63a        1.40a
+                                                                                          SE                      0.64       0.075        0.084       0.042        1.58        0.086        0.065        0.043
+                                                                                      LSD(0.05)                   ***         ***          ***          **          **           **           *            **
+                                                                                         Soil
+                                                                                      Andosols                   33.16a       4.19a       3.26a        1.79a       26.33        3.37         2.60         1.24
+                                                                                       Vertisols                 24.67b       3.59b       2.96b        1.38b       26.42        3.47         2.56         1.18
+                                                                                          SE                      0.40        0.048       0.053        0.026        1.00       0.054        0.041        0.027
+                                                                                      LSD(0.05)                   ***          ***          **          ***          ns          ns           ns           ns
+                                                                                        CV(%)                     4.65         4.74        6.57         5.07       15.42       6.57         5.27         8.08
+                                                                                  SE-Standard error; LSD-Least Significant Differences; CV-Coefficient of Variation; DAP-Diammonium phosphate; LAI-Leaf Area
+                                                                                  Index; ns-nonsignificant
+                                                                                             Yield components and total bulb yield of garlic             over those produced on the control plot during dry and
+                                                                                  were also significantly(P≤0.01) influenced by the                      rainy seasons, respectively. Application of D-coder also
+                                                                                  applied fertilizers under the cropping seasons except                  increased bulb yield by 15% and 32% as compared to
+                                                                                  harvest index/HI/ under rainy season (Table3). The                     those fertilized by DAP during dry and rainy seasons,
+                                                                                  highest biological yields were produced by application                 respectively(Table3). These results emphasized that the
+                                                                                  of DAP and D-coder fertilizer types at 200 kgha-1 during               adequate soil moisture content along the growing
+                                                                                  dry-season using irrigation. However, under the rainy-                 period and applied nutrients encouraged vegetative
+                                                                                  season the highest biological yield was produced from                  growth of the plant, which cumulatively enhanced the
+                                                                                  garlic plants treated with D-coder without significant                 development of large bulbs and yields. The results of
+                                                                                  differences from those fertilized with Azofertil and Basic             this study are in agreement with the finding of AL-
+                                                                                  fertilizers. Lowest biological yields of garlic were                   Abdulsalam and Hamaiel(2004) who reported
+                                                                                  obtained from those produced on the control plots in                   significantly higher onion bulb weight with application of
+                                                                                  both seasons and from those fertilized with Basic and                  compound fertilizer containing 14%N:38%P:10%K
+                                                                                  DAP fertilizers during dry and rainy seasons,                          nutrients. Morsy et al. (2012) also reported greatest
+                                                                                  respectively(Table3). Highest HI was produced in dry-                  values of onion bulb weight with 120 kgN+30 kgP+48
+                                                                                  season by D-coder application and lowest HI from garlic                kgK ha-1 fertilization over two seasons. Halim and Ener
+                                                                                  produced without fertilizer application(Table3); which                 (2001), Kumar et al. (2007) and Enciso et al. (2009) also
+                                                                                  was increased by 50% as compared to the lowest HI                      found that irrigation highly affected the total bulb yield
+                                                                                  from control, and by 27% as compared to those                          and yield components of onion. Similarly, Pejic et al.
+                                                                                  produced with DAP application(standard check).                         (2011) revealed that the highest yield and yield
+                                                                                             The highest bulb yield was produced in                      components of onion were produced by irrigation as
+                                                                                  response to D-coder application in both dry and rainy                  compared to rain-fed cultivation.
+                                                                                  seasons as compared to other fertilizer types, and                              Application of D-coder fertilizer improved bulb
+                                                                                  lowest yield was produced from control plot in both                    yields of garlic more than other fertilizer types. The
+                                                                                  seasons(Table3). The highest economic bulb yield                       increment in vegetative growth and dry weight of plant
+                                                                                  produced by D-coder was increased by 47% and 61%                       organs by combined N,P,S,Zn application may be
+                                                                                  © 2017    Global Journals Inc. (US)
+  Comparative Study of Different Compound Fertilizers on Garlic (Allium Sativum L.) Productivity under
+                                      Various Soils and Seasons
+
+
+attributed to the direct effect of nutrients in improving        Andosols as compared to those produced on Vertisols
+plant metabolism, increasing photosynthetic rate and             during dry season using irrigation; improving by 36.6%
+free amino acids, which led to an increase in yield and          and 20%, respectively. The economic bulb yield was
+quality characters (El-Kader et al., 2007). The interaction      significantly increased on Andosols compared to on
+of N with P and K application also increased production          Vertisols during both dry and rainy seasons. Bulb yield
+of large dry matter and bulb weights of the crop that            produced on Andosols was improved by 31.75% during
+increased the total bulb yield. Similarly, Morsy et al.          dry season and by 9.52% in rain-fed as compared to
+(2012) obtained higher yield and quality attributes of           yield produced on Vertisols(Table3). These might have
+onion by applying 120kg N+24kg P+48kg K ha-1                     been due to the controlled watering of the crop through
+combination in two seasons; and Coolong and Randle               irrigation which improved the economic bulb yield
+(2008) revealed that, application of Ammonium sulphate           through improving uptake of nutrients from the
+improved bulb yield and mineral uptake of onion than             Andosols. This revealed that application of optimum
+                                                                                                                                             2017
+other fertilizer types.                                          amounts of nutrients along with the nutrients available in
+         Soil types also showed significant variation on         the soils increased the production of dry matter as well
+                                                                                                                                               Year
+economic bulb yield during both dry and rainy seasons;           as the total bulb yield of garlic which increased crop
+however, biological yield and HI was showed significant          nutrients uptake in both seasons on the soils (Diriba-
+variations only during dry season due to soil                    Shiferaw et al., 2013).                                                                             51
+type(Table3). Both biological yield and HI was higher on
+
+
+
+
+                                                                                                                                           Global Journal of Science Frontier Research ( D ) Volume XVII Issue I Version I
+    Table 3: Effects of different types of fertilizers and soils on yield and yield indices of garlic under dry and rainy
+                                              cropping seasons of 2013/14
+                                      Dry season(Irrigation)                          Rainy season(Rain)
+          Treatments          Biological      HI             Bulb           Biological      HI    Bulb yield(t/ha)
+                               yield(g)                   yield(t/ha)        yield(g)
+            Fertilizer
+             Control            32.68c         0.56d           8.16d          22.10c        0.88          5.33d
+               DAP              50.06a         0.66c          10.45bc         28.76b        0.91          6.48c
+             Azofertil          41.88b         0.77b          10.89b          33.40ab       0.86          7.40b
+              Basic             34.62c         0.74b           9.61c          32.12ab       0.95          7.42b
+             D-coder            49.26a         0.84a          12.00a          34.53a        0.85          8.59a
+                SE               1.15          0.021           0.298           1.620       0.051          0.301
+            LSD(0.05)             **            ***              **              **          ns             **
+               Soil
+            Andosols            48.15a         0.78a          11.62a          31.17         0.85          7.36a
+             Vertisols          35.25b         0.65b          8.82b           29.20         0.93          6.72b
+                SE               0.72          0.013          0.189           1.025        0.033          0.191
+            LSD(0.05)             **            ***            ***              ns           ns             *
+              CV(%)              8.10           6.64           7.55           14.82        15.28          10.50
+       SE-Standard error; LSD-Least Significant Differences; CV-Coefficient of Variation; DAP-Diammonium phosphate;
+       HI-Harvest Index; ns-nonsignificant
+c) Economic Benefits of Compound Fertilizers                      Fertilizers, seasons and soils showed significant
+          The different types of fertilizers applied on differences with respect to benefit to cost (B:C) ratio. D-
+different soils both during dry and rainy seasons were coder fertilizer applied on Andosols in both seasons and
+found significant with respect to gross and net returns. on Vertisols during rainy season showed significant
+The higher gross and net returns were found with benefit than other fertilizers types on both soils because
+application of D-coder, Azofertil and Basic fertilizers of its higher yield produced in terms of cost incurred
+respectively on Andosols during dry season using during production. Whereas, among the fertilizer types
+irrigation and on Vertisols under rainy season than DAP applied on Vertisols during dry season, highest B:C ratio
+and control. However, the significantly highest gross was recorded with application of DAP followed by D-
+and net returns were obtained from Andosols treated coder and Azofertil, and lowest B:C due to Basic
+with D-coder, Basic and Azofertil fertilizers respectively fertilizer. Lowest B:C ratio was observed when garlic
+during the rainy season; but highest gross and net was grown without any fertilizer on both soils during the
+returns were due to DAP which followed by D-coder and two seasons except on Vertisols during dry season,
+Azofertil fertilizers on Vertisols during dry season. The because of Basic treated produced low yield interms of
+highest net return was found in plot fertilized with D- higher                 cost     incurred  during   the    production
+coder on Andosols during dry season and lowest from season(Figure2). This might be also due to the higher
+control plot on Vertisols during rainy season(Figure 1). yield as a result of nutrients uptake and dry matter
+
+                                                                                                      © 2017   Global Journals Inc. (US)
+                                                                                     Comparative Study of Different Compound Fertilizers on Garlic (Allium Sativum L.) Productivity under
+                                                                                                                         Various Soils and Seasons
+
+
+                                                                                  production using elements available in compound                                          nutrients available in the soil before the external
+                                                                                  fertilizers plus the nutrients in Andosols soil and                                      fertilizers applied. Kale (2010) also found higher gross
+                                                                                  availability of optimum moisture during rainy season.                                    and net returns with higher yields of onion with the
+                                                                                  However, application of fertilizers to Vertisols did not                                 application of Sulphate of potash and Ammonium
+                                                                                  produce significant benefit to cost ratio during both                                    sulphate but lower B:C than the other N and K fertilizer
+                                                                                  seasons, which might be due to lower amount of                                           sources, single nutrient containing fertilizer type.
+
+                                                                                                                                       400
+
+
+
+
+                                                                                             Gross & net returns (ETH Birr/ha x1000)
+                                                                                                                                       350
+
+                                                                                                                                       300
+  2017
+                                                                                                                                       250
+   Year
+                                                                                                                                       200                                                                        GR-Andosol
+                      6
+                                                                                                                                       150                                                                        GR-Vertisol
+
+
+
+
+Global Journal of Science Frontier Research ( D ) Volume XVII Issue I Version I
+                                                                                                                                                                                                                  NR-Andosol
+                                                                                                                                       100
+                                                                                                                                                                                                                  NR-Vertisol
+                                                                                                                                        50
+
+                                                                                                                                         0
+
+
+
+
+                                                                                                                                             Dry season                           Rainy season
+
+                                                                                    Figure 1: Gross return(GR) and Net return(NR) of garlic as influenced by fertilizer types on Andosols and Vertisols
+                                                                                                                                                  during dry and rainy cropping seasons of 2013/14
+
+                                                                                                                                       4.5
+                                                                                                                                       4.0
+                                                                                                                                       3.5
+                                                                                                                                       3.0
+
+                                                                                              B:C ratio
+                                                                                                                                       2.5
+                                                                                                                                       2.0
+                                                                                                                                                                                                                    Andosol
+                                                                                                                                       1.5
+                                                                                                                                                                                                                    Vertisol
+                                                                                                                                       1.0
+                                                                                                                                       0.5
+                                                                                                                                       0.0
+
+
+
+
+                                                                                                                                              Dry season                              Rainy season
+
+                                                                                   Figure 2: Effect of fertilizer types on B:C of garlic on Andosols and Vertisols during dry and rainy cropping seasons
+                                                                                                                                                                    of 2013/14
+
+                                                                                  Note: At the time of dispatch 1kg of garlic costs Birr 25-35 and average taken was 30Birr/kg during both seasons; consequently,
+                                                                                  production yields were adjusted by 10% reduction to compensate with those produced by farmers.
+
+                                                                                  © 2017   Global Journals Inc. (US)
+     Comparative Study of Different Compound Fertilizers on Garlic (Allium Sativum L.) Productivity under
+                                         Various Soils and Seasons
+
+
+IV.     Conclusions and Recommendations                                bulb   quality   at harvest   and during storage.
+                                                                       HortScience,43(2):465-471.
+           Garlic plant showed differential responses to          5.  Diriba-Shiferaw,G., R. Nigussie-Dechassa, W.
+the different types of compound fertilizers on both                   Kebede, T. Getachew and J.J. Sharma. 2013.
+Andosols and Vertisols under both dry and rainy                       Growth, and Nutrients Content and Uptake of Garlic
+seasons. The morphological characters like plant height,              (Allium sativum L.) as Influenced by Different Types
+neck diameter and leaf area index were significantly                  of Fertilizers and Soils. Sci. Technol. Arts
+influenced by the application of different compound                   Res.J.,2(3):35-50.
+fertilizers and soil types under different production             6. El-Kader, A.A.A., A.A.M. Mohamedin and K.A. Al-
+seasons. Yield and yield components and economic                      Kady.2007.Effect of nitrogen and micronutrients on
+returns of the crop were also significantly increased by              growth, yield, nutrients uptake and some
+the application of different compound fertilizers in dry-             biochemical properties of onion (Allium cepa L.)
+season cultivation using irrigation than under rainy                                                                                         2017
+                                                                      plants under sandy soil. Egypt. J.Appl.Sci.,
+season on both soils. But, significantly superior                     22(2B):767-778.
+response of garlic, as observed by vegetative growth,                                                                                          Year
+                                                                  7. Enciso, J., B. Wiedenfeld, J. Jifon and S.
+yields and economic benefits of the crop, was obtained                Nelson.2009.Onion yield and quality response to
+when garlic was planted in the dry-season using                       two irrigation scheduling strategies. Sci.Horti.,                                              71
+irrigation on Andosols with the fertilization of D-coder              120:301-305.
+
+
+
+
+                                                                                                                                           Global Journal of Science Frontier Research ( D ) Volume XVII Issue I Version I
+fertilizer at 200 kgha-1 which supplied 28kg N+18kg               8. Faten, S., A. El-Al. Shaheen, A.M. Fatma, A. Rizk
+P+42kg S+0.2kg Zn ha-1 followed by Azofertil fertilizer               and M.M. Hafez.2010.Influence of irrigation intervals
+at 200 kgha-1 which supplied 60kg N+50kg S ha-1. Thus,                and potassium fertilization on productivity and
+it could be concluded that application of D-coder                     quality of onion plant. Int.J.Acad. Res.,2:110-116.
+fertilizer containing 28kg N+18kg P+42kg S+0.2kg Zn               9. Getachew, T. and Z. Asfaw.2000.Achievements in
+ha-1 nutrients and Azofertil fertilizer containing 60kg               shallot and garlic research report. No.36. Ethiopian
+N+50kg S ha-1 nutrients are better to substitute the                  Agricultural Research Organization, Addis Ababa.
+locally recommended DAP fertilizer (92kg N+40kg P ha-                 Ethiopia. Pp43.
+1
+  ) for better productivity of garlic over the other fertilizer   10. Halim, O.A. and M. Ener.2001.A study on irrigation
+types under both dry season using irrigation and rainy                scheduling of onion (Allium cepa L.) in
+season on both Andosols and Vertisols soil types of the               Turkey.J.Biol.Sci.,1(8):735-736.
+area and the like.                                                11. Jackson, M.L.1967.Soil Chemical Analysis. Prentice
+                                                                      Hall, NewYork,USA.
+             V.    Acknowledgments                                12. Jaleel, C.A., P. Manivannan, B. Sankar, A.
+         The author thanks the Education and                          Kishorekumar, R. Gopi, R. Somasundaram and R.
+Agriculture Ministries of Ethiopia for providing fund and             Panneerselvam.2007.Water deficit stress mitigation
+compound fertilizers for the research work. Thanks also               by calcium chloride in Catharanthus roseus; effects
+go to the staff and field assistants of DZARC, for their              on oxidative stress, proline metabolism and indole
+logistic supports and technical help during conducting                alkaloid accumulation. Colloids Surf. B:Biointerfa -
+the activities for the study.                                         ces,60:110–116.
+                                                                  13. Kale, L.2010.Studies on Effect of Different Sources
+       References Références Referencias                              of Nitrogen and Potassium on Productivity and Shelf
+                                                                      Life of Onion (Allium cepa L.) var. Arka Kalyan.
+1.    AL-Abdulsalam, M.A. and A.F. Hamaiel.2004.Effect                MSc.Thesis Submitted to the University of
+      of planting dates and compound fertilizers on                   Agricultural Sciences, Dharwad.Pp28-69.
+      growth, yield and quality of hassawi onion under Al-        14. Kumar, S., M. Imtiyaz, A. Kumar and S.
+      Hassa Oasis conditions. Sci.J.King Faisal University            Rajbir.2007.Response of onion (Allium cepa L.) to
+      (Basic and Applied Sciences),5(1):65-79.                        different levels of irrigation water. Agric.Water
+2.    Amin, M.R., M.K. Hasan, Q. Naher, M.A. Hossain                  Manage.,89:161-166.
+      and Z.U. Noor.2007.Response of Onion to NPKS                15. Liu, W., D. Zhu, D. Liu, M. Geng, W. Zhou, W. Mi, T.
+      Fertilizers in Low Ganges River Flood Plain Soil.               Yang and D. Hamilton.2010.Influence of nitrogen on
+      Int.J.Sust. Crop Prod.,2(1):11-14.                              the primary and secondary metabolism and
+3.    Cheruth, A.J., R. Gopi, B. Sankar, M.                           synthesis of flavonoids in chrysanthemum
+      Gomathinayagam and R. Panneerselvam. 2008.                      morifolium ramat. J.Plant Nutr.,33(2):240-254.
+      Differential responses in water use efficiency in two       16. Maly, I., J. Bartos, J. Hlusek, K. Kopec, K.
+      varieties of Catharanthus roseus under drought                  Peteikova, J. Rod and P. Spitz.1998.Polni
+      stress. Comptes rendus, Biologies,331(1):42-47.                 zelina_stvi. Agrospoj Praha,175–185.
+4.    Coolong, T.W. and W.M. Randle.2008.The effect of            17. Morsy, M.G., R.A. Marey, S.S. Karam and A.M.A.
+      calcium chloride and ammonium sulphate on onion                 Abo-Dahab.2012.Productivity and storability of
+                                                                                                      © 2017   Global Journals Inc. (US)
+                                                                                     Comparative Study of Different Compound Fertilizers on Garlic (Allium Sativum L.) Productivity under
+                                                                                                                         Various Soils and Seasons
+
+
+                                                                                      onion as influenced by the different levels of NPK
+                                                                                      fertilization. J. Agric. Res. Kafer El-Sheikh University,
+                                                                                      38(1):171-187.
+                                                                                  18. Muhammad, A., B.A. Gambo and N.D. Ibrahim
+                                                                                      .2011.Response of Onion (Allium cepa L.) to
+                                                                                      Irrigation Intervals and Plant Density in Zuru,
+                                                                                      Northern Guinea Savanna of Nigeria. Nigerian J.
+                                                                                      Basic Appl.Sci.,19(2):241-247.
+                                                                                  19. Pejic, B., J. Gvozdanovic-Varga, S. Milic, A.
+                                                                                      Ignjatovic-Cupina, D. Krstic and B. Cupina.
+                                                                                      2011.Effect of irrigation schedules on yield and
+                                                                                      water use of onion (Allium cepa L.). Afri.J.Biot.,
+  2017
+                                                                                      10(14):2644-2652.
+                                                                                  20. Salomon, R.2002.Virus diseases in garlic and the
+   Year                                                                               propagation of virus free planting. Pp.311-327. In:
+                                                                                      Rabinowitch, H.D. and L. Currah (Eds.). Allium Crop
+                           8                                                          Sciences: Recent Advances. CAB International,
+                                                                                      Wallingford, UK.
+
+
+
+
+Global Journal of Science Frontier Research ( D ) Volume XVII Issue I Version I
+                                                                                  21. Snedecor, G.W. and W.G. Cochran.1980.Statistical
+                                                                                      Methods. 12th ed., Iowa State Univ. Press, Ames,
+                                                                                      Iowa, USA.
+                                                                                  22. Shock, C. C., E.B.G. Feibert and L.D.
+                                                                                      Saunders.1998.Onion yield and quality affected by
+                                                                                      soil water potential as irrigation threshold. Hort
+                                                                                      Science, 33:1188-1191.
+
+
+
+
+                                                                                  © 2017   Global Journals Inc. (US)
+

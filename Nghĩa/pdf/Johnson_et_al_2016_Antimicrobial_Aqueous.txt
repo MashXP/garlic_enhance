@@ -1,0 +1,671 @@
+                              British Microbiology Research Journal
+                                 14(1): 1-11, 2016, Article no.BMRJ.24095
+                                        ISSN: 2231-0886, NLM ID: 101608140
+
+                                         SCIENCEDOMAIN international
+                                            www.sciencedomain.org
+
+
+
+                   Antimicrobial and Antioxidant Properties of
+                      Aqueous Garlic (Allium sativum) Extract
+                          against Staphylococcus aureus and
+                                    Pseudomonas aeruginosa
+                                               Momoh Johnson1*, Oluremi Nurudeen Olaleye2
+                                                         and Odetunde Simeon Kolawole2
+      1
+       Department of Science Laboratory Technology (Biochemistry Unit), School of Pure and Applied
+                                        Sciences, Lagos State Polytechnic, Ikorodu, Lagos, Nigeria.
+      2
+       Department of Science Laboratory Technology (Microbiology Unit), School of Pure and Applied
+                                        Sciences, Lagos State Polytechnic, Ikorodu, Lagos, Nigeria.
+
+                                                                                           Authors’ contributions
+
+  This work was carried out between all authors. Author MJ designed the study, collected the samples
+          and the microorganisms used, executed laboratory experiments, literature review, performed
+       statistical analysis and prepared the manuscript. Authors ONO and OSK were involved with the
+   microbial analysis. Authors ONO and OSK read and corrected the manuscript. All authors read and
+                                                                      approved the final manuscript.
+
+                                                                                                Article Information
+
+                                                                                         DOI: 10.9734/BMRJ/2016/24095
+                                                                                                                Editor(s):
+                                                 (1) Raúl Rodríguez-Herrera, Autonomous University of Coahuila, México.
+                                                                                                              Reviewers:
+                            (1) Anthony Cemaluk C. Egbuonu, Michael Okpara University of Agriculture Umudike, Nigeria.
+                                                                            (2) Charu Gupta, Amity University, UP, India.
+                                 (3) Zahrat El-Ola Mahmoud Mohamed, Food Technology Research Institute, Giza, Egypt.
+                                             Complete Peer review History: http://sciencedomain.org/review-history/13907
+
+
+
+
+                                                                                     Received 4th January 2016
+                                                                                              nd
+  Original Research Article                                                         Accepted 2 February 2016
+                                                                                                  th
+                                                                                     Published 29 March 2016
+
+
+ABSTRACT
+
+ Aim: To investigate the antimicrobial and antioxidant properties of aqueous garlic (Allium sativum)
+ extract against Staphylococcus aureus and Pseudomonas aeruginosa.
+ Methods: Determination of Proximate Composition, DPPH radical-scavenging activities, qualitative
+ and quantitative analysis of the aqueous garlic extract (AGE) were carried out using standard
+ methods. The antimicrobial activity was evaluated by agar well diffusion method. MIC, MBC and
+
+_____________________________________________________________________________________________________
+
+*Corresponding author: E-mail: mjohnson_2008@yahoo.com, momohjohnson2008@gmail.com;
+                                                        Momoh et al.; BMRJ, 14(1): 1-11, 2016; Article no.BMRJ.24095
+
+
+ other microbial analyses were also determined using standard methods.
+ Results: The proximate composition of the garlic indicate that they contain carbohydrate (66.8%),
+ oil (2.6%), moisture (14.5%), total ash (1.3%) and protein (14.8%). The Phytochemical analysis of
+ aqueous extract of Allium sativum shows the presence of secondary metabolites like tannins,
+ terpenoids, steroids, saponins, phenol, protein and reducing sugar. The amount of total phenol
+ content present was 0.285±0.0226 mg/ml while that of flavonoid content was 28.74±8.23 mg
+ QUE/ml. The DPPH scavenging activity of the extract range from 4.47% to 92.44% for the garlic
+ extract with corresponding to concentration range from 3 to 40 mg/ml while the IC50 value was 25.3
+ mg/ml. Agar well diffusion method was used to determine the antimicrobial activity of the garlic
+ extract. It was characterized by inhibition zones of 25.6±2.4 mm for S. aureus and 28.1±1.8 mm for
+ P. aeruginosa. Pseudomonas aeruginosa was tested against 10 standard antimicrobial agents, of
+ these; chloramphenicol, ciprofloxacin, septrin, pefloxacin, streptomycin, gentamicin, amoxacillin,
+ and sparfloxacin were sensitive while augmentin and tarivid were resistant to the tested organism.
+ Staphylococcus aureus were susceptible to pefloxacin, amoxacillin, ciprofloxacin, streptomycin,
+ and septrin. Resistance to gentamicin, ampiclox, zinnacef, rocephin and erythromycin were also
+ observed with the same organism. The minimum inhibitory concentration (MIC) for P. aeruginosa
+ was 40 mg/ml while S. aureus has a value of 80 mg/ml. The extract has a minimum bacteriocidal
+ concentration (MBC) of 88 mg/ml for P. aeruginosa and 104 mg/ml for S. aureus. The extract has
+ strong potency against these microorganisms with P. aeruginosa being the most susceptible.
+
+
+Keywords: Antimicrobial activity; antioxidant; aqueous garlic extract (AGE); minimum inhibitory
+          concentration; minimum bactericidal concentration; Pseudomonas aeruginosa and
+          Staphylococcus aureus.
+
+1. INTRODUCTION                                             cancer, (iii) stimulation of immune function, (iv)
+                                                            enhanced detoxification of foreign compound, (v)
+Medicinal plants continue to provide valuable               hepatoprotection and (vi) antioxidant effect [6].
+therapeutic agents, in both modern medicine and
+in traditional system, Allium sativum have been             Staphylococcus aureus is a gram positive
+documented and valued for their spicy and                   bacteria, an important pathogen of humans and
+medicinal qualities by many cultures around the             animals and is implicated in a wide variety of
+globe for many years [1]. Garlic (Allium sativum            infections. It is a pathogen of greater concern
+L.) is the edible bulb of the lily (liliaceae) family       because of its virulence [7], its ability to cause a
+which is widely used as a spice in flavouring, as           diverse array of life threatening infections and its
+foodstuff, condiment and is used by the                     ability to adapt to different environmental
+traditional medicine practitioners in the treatment         conditions. Pseudomonas aeruginosa is a gram
+of bacterial related diseases such as pile, cough           negative, rod shaped, a sporogenous, and
+and rheumatism. Allium sativum for many years               monoflagellated bacterium that has incredible
+have been medicinally used to alleviate tumor,              nutritional versatility. Antibiotics are naturally
+cardiovascular diseases and ageing [1]. It                  occurring or synthetic organic compounds which
+contains aromatic sulphur based compounds                   inhibit or destroy selective bacteria generally at
+which contributes to its odour and taste. Allicin is        low concentrations. The increasing resistance of
+the key component to which the antimicrobial                bacteria and fungi to currently marketed
+activity of garlic is attributed; it is a volatile          antimicrobial agents is becoming a world-wide
+molecule that gives it its characteristic odour.            medical problem [8]. This has lead to the
+Allicin has also been found to be effective as an           exploration for alternative, safe and efficient
+anti fungal, antibacterial, antiviral and anti              antimicrobial compounds from natural resources
+parasitic agent [1,2]. The health properties of             like plants. In recent years, many bacteria have
+garlic depend on its bioactive compounds and                developed antimicrobial drug resistance, these
+especially on phenolic compounds [3,4], which               include but not limited to Staphylococcus aureus
+have interesting pharmacological properties and             and most of the Enterobacteriaceae, such as
+are present in relatively high amounts [5]. The             Klebsiella pneumonia [8]. Statistics indicate that
+biological responses of garlic have been largely            more than 70% of the bacteria causing infections
+attributed to (i) antimicrobial effect (ii) reduction       are resistant to at least one of the drugs most
+of risk factors for cardiovascular diseases and             commonly used to treat them [8].
+
+
+
+                                                        2
+                                                       Momoh et al.; BMRJ, 14(1): 1-11, 2016; Article no.BMRJ.24095
+
+
+Antioxidants are substances that are capable of            any adhering soil on their surfaces. 100 g of
+neutralizing the harmful effects of the reactive           garlic were taken after removal of their outer skin
+oxygen species (ROS) through the endogenous                surfaces and cut into small pieces by sterile
+enzymatic defense system. The antioxidant                  scalpel. The small pieces were blended with 200
+effect of plant is mainly due to phenolic                  ml sterile distilled water using sterile blender for 5
+components like flavonoids, phenolic acids and             min at medium speed. The macerates were
+phenolic diterpenes [9]. The antioxidants                  filtered using sterile funnel and Whatman filter
+capacity of phenolic compounds is mainly due to            paper. The filtered extract was used for studies
+their redox properties, which play an important            within 4 hours of extract preparation. Two-fold
+role in absorbing and neutralizing free radicals,          serial dilutions were prepared from the extract
+quenching singlet and triplet oxygen and                   previously prepared.
+decomposing peroxides [10]. Garlic possesses
+potential health-promoting effects due to its high         2.4 Qualitative Phytochemical Analysis of
+phenolic secondary metabolite content and is a                 Allium sativum
+source of natural antioxidants [11]. Kim et al. [12]
+show that, the total phenolic acid content of a            Phytochemical analysis for phytochemical
+local garlic cultivar grown near Namhae-gun,               constituents were carried out on the aqueous
+Korea was 17.86 mg/kg of dry matter (dm) and               peeled     garlic  extract   using   standard
+the total flavonoid content was 29.95 mg/kg dm.            phytochemical procedures [17,18].
+The total phenolic content varied from 3.4 mg
+gallic acid equivalents (GAE)/g dm to 10.8 mg              2.5 Quantitative Phytochemical Analysis
+GAE/g dm in different garlic cultivars grown at                of the Aqueous Garlic Extract (AGE)
+four locations in Andalusia, Spain [5]. The
+content of phenolic compounds in garlic thus               2.5.1 Determination of total phenol
+varies greatly with agronomic, genetic and
+environmental factors. It is well known that               Total phenol of sample was determined using the
+cultivar is the primary factor that determines this        modified method of Singleton et al. [19]. The
+variation [13]. The present study demonstrated             calibration curves of aqueous gallic acid
+the in-vitro evaluation of antioxidant and                 solutions of known concentrations were
+antimicrobial properties of aqueous garlic extract         prepared. Folin– Ciocalteu’s phenol reagent
+(AGE) against Staphylococcus aureus and                    (5 ml) and 20% sodium carbonate solution
+Pseudomonas aeruginosa.                                    (15 ml) were added to each 1 ml of gallic acid
+                                                           standard solution. The solutions were kept at
+2. METHODOLOGY                                             room temperature for 90 min before measuring
+                                                           their absorbance at 760 nm by UV
+                                                           spectrophotometer. About 0.1 ml aliquot of the
+2.1 Collection and Identification of Plant
+                                                           extract was prepared and mixed with Folin–
+    Extract                                                Ciocalteu’s phenol reagent and 20% sodium
+                                                           carbonate. The mixtures were kept at room
+The garlic was purchased from Ikorodu market               temperature for 90 min before measuring their
+and was authenticated by Momoh Johnson from                absorbance at 760 nm. For blank, the distilled
+Department of Science Laboratory Technology                water was added to replace the standard
+(Biochemistry unit), Lagos State Polytechnic.              solution. The total phenolic content in the
+                                                           extracts were calculated from the calibration
+2.2 Determination       of   Proximate       Com-          curve and determined as gallic acid equivalent
+    position                                               (micromol gallic acid equivalent per milligram
+                                                           dried weight of crude extract).
+Garlic peel was analyzed for moisture, protein,
+carbohydrate, and ash in triplicate using                  2.5.2 Determination of total flavonoid
+standard methods [14].
+                                                           Flavonoid content of the garlic was determined
+2.3 Preparation of Garlic Extract                          based on the aluminium chloride calorimetric
+                                                           assay method as described by Edeoga et al.
+Garlic extract was prepared according to the               [20]. Approximately 1 ml of extract was mixed
+methods described by Zahira and Al-Delaimy,                with 1 ml of 2% AlCl3 in methanol. The mixture
+[15] and Kumar and Berwal, [16], as follows, the           was then diluted with methanol to 25 ml. The
+garlic bulbs were cleaned with water to remove             absorbance was then read at 415 nm. Blank
+
+
+                                                       3
+                                                       Momoh et al.; BMRJ, 14(1): 1-11, 2016; Article no.BMRJ.24095
+
+
+samples were prepared from 1 ml of peel extract            was then adjusted with peptone water so as to
+and one drop of acetic acid and diluted to 25 ml.          obtain a turbidity visually comparable to that of
+The absorbance of rutin solutions was prepared             0.5 McFarland standard prepared by mixing 0.5
+from 50 mg. The amount of flavonoids in peel               ml of 1.75% (w/v) barium chloride dehydrate
+extract in rutin equivalents was calculated by the         (BaCl2. 2H2O) with 99.5 ml of 1% (v/v)
+following formula;                                         tetraoxosulphate (vi) acid (H2SO4). This turbidity
+                                                                                                   8
+                                                           is equivalent to approximately 1 x 10 colony
+    Antioxidant capacity = (Afinal / slope)(Vf / Vs)       forming units per ml (CFU/ml).
+    × r × (Vcup / m)
+                                                           2.6.2 Antibiotic susceptibility testing
+    Where r = dilution factor, Vcup = Volume
+    used for the extraction, m = Mass of initial           Susceptibility of organisms to different antibiotics
+    sample                                                 were tested using disk diffusion method as
+    Vf = Final reaction volume, Vs = Sample                described by Kirby-Bauer diffusion technique [22]
+    volume, Afinal = Final absorbance of sample            on freshly prepared Mueller Hinton agar and
+2.5.3 DPPH radical-scavenging activity                     standardized by the method of National
+                                                           Committee for Clinical Laboratory Standard
+DPPH radical-scavenging activities of aqueous              (NCCLS) 2000 [23] using some selected
+extracts were determined by the method of                  antibiotics namely: Erythromycin (10 ug),
+Jeong et al. [21]. Different concentrations (0.1–          Amoxicillin (30 ug), Ciprofloxacin (5 ug),
+40.0 mg/ml) of samples, ascorbic acid and α-               Gentamicin (10 ug), Ampicillin (25 ug),
+tocopherol (as positive control) were prepared.            Streptomycin (25 ug) etc. For each combination
+Each sample or standard solution (80 µL) was               of the antibiotics and the bacterial strains, the
+mixed with DPPH solution (0.3 mM in methanol,              experiment was performed in triplicate. The
+80 µL). Then, the mixture was shaken vigorously            bacteria with a clear zone of inhibition of more
+and left to stand for 30 min in the dark.                  than 17 mm were considered to be sensitive.
+Absorbance of the solution was read at 517 nm
+against the blank. Controls were prepared in a             2.6.3 Determination of diameter of zone of
+similar way as for the test group except for the                 inhibition (mm) using agar well
+replacement of the test sample with the                          diffusion method
+corresponding extraction solvent. DPPH radical-
+scavenging activity was calculated by using the            Agar well-diffusion method was employed to
+following equation:                                        determine the antimicrobial activity. Eighteen
+                                                           hour broth culture of the test microorganisms
+    Scavenging activity (%) = (1 − Absorbance of           were suspended into sterile Nutrient broth. It was
+    sample/Absorbance of control) × 100                    standardized according to National Committee
+                                                           for Clinical Laboratory Standard 2000 [23] by
+2.6 Test Organisms                                         gradually adding 9% normal saline to compare
+                                                           its turbidity to McFarland standard of 0.5 which is
+The two bacterial strains used in this                     approximately 1x108 colony forming units per ml
+investigation were obtained from Microbiology              (CFU/ml). Nutrient agar plates were swabbed
+Department, University of Lagos, Nigeria. The              with the 18 hours old-broth culture of respective
+organisms are Staphylococcus aureus, a Gram-               bacteria. Wells (6mm in diameter and about 4cm
+positive bacteria and Pseudomonas aeruginosa               apart) were made in each of these plates using
+a Gram-negative bacteria. The microorganisms               sterile borer. The aqueous extracts of the Allium
+were maintained at 4°C on Nutrient Agar slant in           sativum was tested as follows; Stock solution
+the    Department    of   Science    Laboratory            from the extract was prepared. About 100 µl of
+Technology (Microbiology Unit), School of Pure             extracts were added into the wells using
+and Applied Science, Lagos State Polytechnic,              micropipette and allowed to diffuse at room
+Ikorodu, Lagos, Nigeria and fresh subcultures              temperature for 2 hours. The plates were
+were made before use.                                      incubated at 37ºC for 18-24 hours for bacterial
+                                                           pathogens. The diameter of the inhibition zone
+2.6.1 Inoculum preparation                                 (mm) and diffusion rates were measured. The
+                                                           experiment was repeated thrice, for each
+A loopful of isolated colonies was inoculated into         replicate the readings were taken in three
+4 ml of peptone water, incubated at 37°C for 4             different fixed directions and the average values
+hours. This actively growing bacterial suspension          recorded.
+
+
+                                                       4
+                                                      Momoh et al.; BMRJ, 14(1): 1-11, 2016; Article no.BMRJ.24095
+
+
+2.6.4 Minimum Inhibitory Concentration (MIC)              foods have been shown to reduce risks and
+                                                          modulate metabolism to favor the prevention of
+The minimum inhibition concentration (MIC) is             diseases. Bianchini and Vainio [26] reported in
+defined as the lowest extract concentration that          their research work that the biological response
+inhibited the growth of the test organisms as             of garlic have been largely attributed to
+indicated by absence of visible turbidity in the          stimulation of immune function, antimicrobial
+tube compared with the control tubes. MIC of              effect, enhanced detoxification of foreign
+plant extracts were determined according to the           compounds, hepatoprotection, and antioxidant
+method previously described by Chung et al.               effect.
+[24]. MIC of the garlic peel extract was
+assayed using the tube serial dilution method.            The results of the proximate composition of garlic
+100 mg/ml was dissolved in water and diluted              peel are shown on Table 1 below. The result
+with Nutrient broth in two fold serial dilutions in       showed that the Allium sativum is very high in
+test tubes. An overnight broth culture of the test        carbohydrate (66.8%) with oil content of 2.6%.
+organism was adjusted to McFarland turbidity              The moisture content was 14.5% while the total
+standard and 50 µl (0.05 ml) of the cell                  ash content and the protein content were 1.3%
+suspension was added to each of the tubes. The            and 14.8% respectively. The values of the
+tubes were incubated aerobically at 37°C for 18           different parameters analyzed from peel garlic
+hours.                                                    were very similar to the values obtained by
+                                                          Gulfraz et al. 2014. In their result, the
+2.6.5 Minimum      Bactericidal    Concentration
+                                                          concentration of carbohydrate was between 67.5
+      (MBC)
+                                                          to 68.5%, total protein (17.5 – 17.6%), moisture
+                                                          (9.6 – 10.2%), ash content (0.81 – 0.9%) and oil
+The MBC of the aqueous peeled extract of Allium
+                                                          content (3.6 – 3.8%) were similar to the result
+sativum was prepared by modification of the
+                                                          obtained in our result [27].
+method of Spencer and Spencer 2004 [25].
+0.1 ml aliquots of Samples taken from the non-
+                                                           Table 1. Proximate composition of aqueous
+turbid tubes of the MIC assay tubes were sub-
+                                                                  garlic (Allium sativum) extract
+cultured onto Nutrient agar plates. The resulting
+plates were then incubated aerobically at 37°C
+                                                           Test                                       Result
+for 24 hours. The lowest concentration of the
+extract at which no colonies of Staphylococcus             Oil content                                2.6%
+aureus and Pseudomonas aeruginosa were seen                Carbohydrate                               66.8%
+was taken as the MBC. The results were                     Protein                                    14.8%
+compared with that of control using sterilized             Total ash content                          1.3%
+distilled water. The experiment was performed in           %Moisture                                  14.5%
+triplicate. The MBC was taken as the
+concentration of the extract that did not show any        Phytochemical analysis of plant material is an
+growth on a new set of agar plates.                       important aspect, especially if there are some
+                                                          ethnopharmacological claims on the use of the
+                                                          particular plant to cure some illness.
+2.7 Data Analysis
+                                                          Phytochemical screening of aqueous extract of
+All analyses were carried out in triplicate and           Allium sativum shows the presence of secondary
+results expressed as mean ± SEM. The data                 metabolites like tannins, terpenoids, steroids,
+analysis was done using the Graph Pad prism               saponins, phenol, protein and reducing sugar
+computer software version 6. Student s -test and          (Table 2). The presence of these secondary
+one-way analysis of variance (ANOVA) were                 metabolites in Allium sativum may be responsible
+used for comparison. A P-value < 0.05 was                 for the antimicrobial activity of the extract. The
+considered significant.                                   result is in agreement with the work of Lawal
+                                                          et al. [28] who reported that aqueous garlic
+3. RESULTS AND DISCUSSION                                 extract revealed the presence of alkaloids,
+                                                          saponins, tannins, flavonoids, glycosides,
+In the present study, aqueous extract of garlic           cardiac glycosides, volatile oils and steroids. It
+were evaluated for exploration of their                   has been reported that tannins are responsible
+antimicrobial properties against Gram positive            for anti-diarrheal activity. Alkaloids are known to
+(Staphylococcus aureus) and Gram negative                 possess a lot of pharmacological properties
+bacteria (Pseudomonas aeruginosa). Allium                 used as antidepressant (morphine), stimulants
+
+
+                                                      5
+                                                                                 Momoh et al.; BMRJ, 14(1): 1-11, 2016; Article no.BMRJ.24095
+
+
+(caffine), anaesthetic (cocaine), antitumor                                          reported that garlic extract has two main classes
+(vinblastine), antimalaria    (quinine) and                                          of antioxidant components, namely, flavonoids
+amoebicide (emetine) [29,30].                                                        and sulfur-containing compounds diallyl sulfide,
+                                                                                     disulfide, and allyl–cysteine. Allicin (allyl-2-
+Table 3 shows the total phenolic (0.285±0.02                                         propenethiosulfinate or diallyl thiosulfinate) is
+mg/ml GAE) and flavonoid content (28.74±8.23                                         thought to be one of the principal bioactive
+g/ml QUE) of aqueous garlic extracts. Phenolic                                       compounds present in aqueous garlic extract or
+compounds with strong antioxidant properties                                         raw garlic homogenate [32]. When garlic is
+are prominent components of many food plants,                                        chopped or crushed, allinase enzyme is
+including allium species like onion and garlic                                       activated and acts on alliin (S-allylcysteine
+which are used to enhance the sensory quality of                                     sulfoxide) to produce allicin [36]. Allicin has
+foods [31]. Researchers have shown that                                              antioxidants properties, which provide the garlic
+flavonoid is one of the most diverse widely                                          protective role against compound toxicity, by
+spread group of natural products and probably                                        scavenging OH and inhibiting lipid peroxidation
+the most important natural phenolic compound in                                      [37].
+spices. Amagase et al. [32] findings have shown
+that garlic bulb contained flavonoids (allixin),                                     Table 2. Phytochemical screening of aqueous
+essential     micronutrients    (selenium)    and                                              extract of Allium sativum
+macronutrients such as lectins, that has been
+shown to exhibit antiperoxide properties in the                                       Phytoconstituent         Qualitative abundance
+liver, kidney and heart of rats. Phenolic                                             Tannins                  ++
+compounds are considered to be bacteriostatic                                         Terpenoids               ++
+against such bacteria like E. coli and S. aureus                                      Steroids                 +++
+and also fungistatic [33,34]. These compounds                                         Reducing sugar           +
+caused swelling of hyphal tips, plasma seeping                                        Protein                  +++
+around hyphae, leaking of plasma, cell wall                                           Anthraquinones           -
+distortions, abnormal branching or fusion of                                          Saponin                  ++
+hyphae surface [34,35]. The biological function of                                    Anthocyanin               -
+flavonoids includes protection against allergies,                                     Phenol                   +
+inflammatory, free radical scavenging, platelets                                       (+) present at low levels, (++) present at moderate
+aggregation and microbes. The presence of                                                 levels, (+++) present at high level, (-) absent
+saponins and flavonoids explain the reasons why
+garlic is used traditionally for the treatment of                                    Fig. 1 shows, the % DPPH radical scavenging
+bacterial and related diseases. It has been                                          activities of Garlic extract.
+                       % DPPH free radical scavenging activity
+
+
+
+
+                                                                 0.5
+                                                                                                                  AS
+                                                                 0.4                                              TO
+                                                                                                                  GA
+                                                                 0.3
+
+                                                                 0.2
+
+                                                                 0.1
+
+                                                                 0.0
+                                                                         10     20        30       40
+                                                                       Concentration (mg/ml)
+
+    Fig. 1.I. DPPH radicals scavenging activities of the aqueous garlic extract(AGE), Ascorbic
+  Figure
+      acid (AS) and Tocopherol (TO) at different concentrations. Each value represents
+                                       mean ± SD (n=3).
+
+
+
+
+                                                                                6
+                                                     Momoh et al.; BMRJ, 14(1): 1-11, 2016; Article no.BMRJ.24095
+
+
+DPPH is a stable free radical that accepts               Allium sativum against Staphylococcus aureus
+hydrogen radical or an electron to become a              and Pseudomonas aeruginosa as described in
+stable diamagnetic molecule. It is employed as a         Table 6.The extract exhibited strong potency
+substrate to evaluate antioxidant activity. The          against the micro-organisms used with P.
+dark colour of the DPPH radical solution                 aeruginosa being the most susceptible. The
+becomes lighter when it is mixed with an                 result of this analysis is similar to the result
+antioxidant. The degree of discoloration indicated       reported by Iwalokun et al. 2004 [38]. They
+the scavenging potential of the antioxidant garlic       reported the antibacterial activity of aqueous
+extracts in the term of hydrogen or electron             garlic extract (AGE) by well-diffusion and
+donating ability. AGE showed DPPH radical                macrobroth dilution method characterized with
+scavenging activities in a dose-dependent                inhibition zones of 20.2 to 22.7 mm for gram-
+manner. The scavenging activity of the extract           positives and 19.8 to 24.5 mm for gram-
+ranged from 4.47% to 92.44% for the garlic               negatives bacteria against 133 multidrug-
+extract with concentrations from 3 to 40 mg/ml.          resistant gram-positive and gram-negative
+The concentration of sample at which the                 bacteria isolates. Studies have reported
+inhibition percentage reaches 50% is defined as          antimicrobial effect of garlic against some
+the IC50 value. Basically, a higher DPPH radical         enteropathogens [39].
+scavenging activity is associated with a lower
+IC50 value. IC50 value was determined from
+plotted graph of scavenging activity against the
+different concentrations of aqueous garlic
+extracts, ascorbic acid (AS) and α-tocopherol
+(TO). The IC50 value obtained was 25.3 mg/ml
+(Fig. 1).
+
+
+Table 3. Total phenol and flavonoid content of
+            aqueous garlic extract
+
+ Antioxidant assay                Garlic extract
+                                  (0.5 mg/ml)
+ Total phenolic content (gallic   0.285±0.02
+ acid equivalent in mg/ml)
+ Total flavonoid content (mg      28.74±8.23                 Fig. 2. Zone of inhibition at 500 mg/ml
+ QUE/ml)                                                    concentration of the aqueous extract of
+                                                            Allium sativum against Staphylococcus
+Table    4    shows   the susceptibility of                                   aureus
+Staphylococcus aureus to some selected
+standard antibiotics.
+
+Staphylococcus aureus were susceptible to
+pefloxacin (PEF), amoxacillin (AM), ciprofloxacin
+(CPX), streptomycin (S), and septrin (SXT), since
+they have zone of inhibition greater than 17 mm.
+The organism shows high resistance to
+gentamicin (CN), ampiclox (APX), zinnacef (Z),
+rocephin     (R)    and      erythromycin     (E).
+Pseudomonas aeruginosa were susceptible to
+Chloramphenicol (CH), Ciprofloxacin (CPX),
+Septrin (SXT), Pefloxacin (PEF), Streptomycin
+(S), Gentamicin (CN), Amoxacillin (AM) and
+Sparfloxacin (SP), but were resistant to
+Augmentin (AU) and Tarivid (OFX) as shown in
+Table 5. The zones of inhibition for the aqueous
+garlic extract were 25.6±2.4 mm for S. aureus                Fig. 3. Zone of inhibition at 500 mg/ml
+and 28.1±1.8 mm for P. aeruginosa (Table 6).                concentration of the aqueous extract of
+Fig. 2 and 3 show the zone of inhibition at 500              Allium sativum against Pseudomonas
+mg/ml concentration of the aqueous extract of                              aeruginosa
+
+
+                                                     7
+                                                       Momoh et al.; BMRJ, 14(1): 1-11, 2016; Article no.BMRJ.24095
+
+
+Minimum inhibitory concentration (MIC) refers to          37.2 mg/ml for AGE against 133 multidrug -
+the lowest concentration of an antimicrobial that         resistant gram-positive and gram negative
+will inhibit the visible growth of a microorganism        bacteria respectively. Saravanan et al. [41]
+after overnight incubation [40]. MICs are                 reported the antimicrobial effect of garlic against
+important in diagnostic laboratories to confirm           pathogenic bacterial strains. Due to geographical
+resistance of microorganisms to an antimicrobial          variation, the MICs of AGE for the organisms
+agent and also used to monitor the activity of            tested are relatively lower than values obtained
+new antimicrobial agents [40]. MIC of 80 mg/ml            by Ross et al. [42]. This antimicrobial potency
+was obtained by the aqueous garlic extract on             disparity of garlic has been attributed to the
+S. aureus while 40 mg/ml was observed for                 different concentrations of individually and
+P. aeruginosa. The extract has a minimum                  synergistically active bio- substances in garlic
+bacteriocidal concentration (MBC) of 88 mg/ml             preparations. In 1996, Lawanson reported that
+for P. aeruginosa and 104 mg/ml for S. aureus.            allicin and other diallylsulfide compounds have
+The extract has strong potency against these              been found at different concentrations in AGE
+microorganisms with P. aeruginosa being the               determined by age and method of extract
+most susceptible. Iwalokun et al. [38] reported           preparation [43].
+MIC ranges of 15.6 to 48.3 mg/mL and 22.9 to
+
+           Table 4. Antimicrobial susceptibility pattern of standard antibiotics against
+                                     Staphylococcus aureus
+ Antibiotic                       Concentration (µg)        Diameter of zone of                Interpretation
+ sensitive disc                                             inhibition (mm)
+ Pefloxacin (PEF)                 10                        18.2±1.2                           S
+ Gentamicin (CN)                  10                        13.5±2.1                           R
+ Ampiclox (APX)                   30                        14.4±2.9                           R
+ Zinnacef (Z)                     20                        16.0±1.5                           R
+ Amoxacillin (AM)                 30                        18.9±1.4                           S
+ Rocephin (R)                     30                        12.7±2.4                           R
+ Ciprofloxacin (CPX)              10                        24.6±2.6                           S
+ Streptomycin (S)                 30                        23.4±3.2                           S
+ Septrin (SXT)                    30                        20.5±2.4                           S
+ Erythromycin (E)                 10                        12.2±2.3                           R
+                        Key: S = Sensitive (zone diameter of bacterial inhibition ≥ 18mm)
+                            R = Resistant (zone diameter of bacterial inhibition < 18mm).
+
+      Table 5. The susceptibility test result of some selected standard antibiotics against
+                                    Pseudomonas aeruginosa
+
+ Antibiotic                  Concentration (µg)        Diameter of zone of                     Interpretation
+ sensitive disc                                        inhibition (mm)
+ Septrin (SXT)               30                        19.5±2.1                                S
+ Chloramphenicol (CH)        30                        21.4±1.4                                S
+ Sparfloxacin (SP)           10                        21.2±1.2                                S
+ Ciprofloxacin (CPX)         10                        23.5±2.3                                S
+ Amoxacillin (AM)            30                        18.5±1.7                                S
+ Augmentin (AU)              30                        13.3±1.6                                R
+ Gentamicin (CN)             10                        20.3±2.1                                S
+ Pefloxacin (PEF)            30                        21.4±1.5                                S
+ Tarivid (OFX)               10                        11.5±2.4                                R
+ Streptomycin (S)            30                        19.8±2.3                                S
+                       Key: S = Sensitive (zone diameter of bacterial inhibition of ≥ 18mm)
+                            R = Resistant (zone diameter of bacterial inhibition < 18mm)
+
+   Table 6. Zone of inhibition of aqueous garlic extract against S. aureus and P. aeruginosa
+
+ Test organisms                   Concentration (mg/ml)        Zone of inhibition (mm)          Interpretation
+ Staphylococcus aureus            500                          25.6±2.4                         Sensitive
+ Pseudomonas aeruginosa           500                          28.1±1.8                         Sensitive
+
+                                                      8
+                                                       Momoh et al.; BMRJ, 14(1): 1-11, 2016; Article no.BMRJ.24095
+
+
+  Table 7. Minimum inhibitory concentration                      Trends Food Sci Tech. 2007;18(12):
+       (MIC) and minimum bactericidal                            609–625.
+  concentration (MBC) of aqueous extract of                5.    Beato VM, Orgaz F, Mansilla F, Montan˜
+   Allium sativum against Staphylococcus                         OA. Changes in phenolic compounds in
+    aureus and Pseudomonas aeruginosa                            garlic (Allium sativum L.) owing to the
+                                                                 cultivar and location of growth. Plant Food
+Organism            MIC (mg/ml)      MBC (mg/ml)                 Hum Nutr. 2011;66(3):218–223.
+Pseudomonas         40               88                    6.    Banerjee SK, Maulik SK. Effect of garlic on
+aeruginosa                                                       cardiovascular disorders: A review.
+Staphylococcus          80           104                         Nutrition Journal. 2002;1(4):1–14.
+aureus                                                     7.    Chambers HF. Community associated
+                                                                 MRSA-resistance and virulence converge.
+4. CONCLUSION                                                    New Engl. J. Med. 2005;352:1485-1487.
+                                                                 Chanda S, Dave R, Kaneria.
+This study revealed that aqueous garlic extract            8.    WHO. World Health Organization, author.
+exerted    significant   (P<0.05)    antimicrobial               The World Health Report: The problem of
+properties against Pseudomonas aeruginosa and                    antibiotic resistance. Geneva; 2004.
+Staphylococcus aureus and might be source of               9.    Shahidi F, Janitha PK, Wanasundara PD.
+active antimicrobial agent for the development of                Phenolic antioxidants. Critical Rev. Food
+drugs for the treatment of these infectious                      Sci Nutr. 1992;32(1):67-103.
+microorganisms.                                            10.   Osawa T. Novel natural antioxidants for
+                                                                 utilization in food and biological systems.
+CONSENT                                                          In Uritani I, Garcia VV, Mendoza EM,
+                                                                 (Eds.), Postharvest Biochemistry of Plant
+It is not applicable.                                            Food-Materials in the Tropics. Tokyo,
+                                                                 Japan: Japan Scientific Societies Press.
+ETHICAL APPROVAL                                                 1994;241-251.
+                                                           11.   Nuutila AM, Puupponen-Pimia¨ R, Aarni M,
+It is not applicable.                                            Oksman-Caldentey K. Comparison of
+                                                                 antioxidant activities of onion and garlic
+ACKNOWLEDGEMENTS                                                 extracts by inhibition of lipid peroxidation
+                                                                 and radical scavenging activity. Food
+The authors are grateful to Afolabi Dolapo                       Chem. 2003;81(4):485–493.
+Olanshile, Amisu Akeem Deinde, Afolabi Mulikat             12.   Kim JS, Kang OJ, Gweon OC.
+Jumoke for their assistance when carrying out                    Comparison of phenolic acids and
+this research work.                                              flavonoids in black garlic at different
+                                                                 thermal processing steps. J Funct Foods.
+COMPETING INTERESTS                                              2013;5(1):80–86.
+                                                           13.   Waterer D, Schmitz D. Influence of variety
+Authors have       declared   that   no    competing             and cultural practices on garlic yields in
+interests exist.                                                 Saskatchewan. Can J Plant Sci. 1994;
+                                                                 74(3):611–614.
+                                                                                                            th
+REFERENCES                                                 14.   AOAC. Official Methods of Analysis, 15
+                                                                 Ed., Association of Official Analytical
+1.    Lawal A, Dangoggo SM, Umar KJ.                             Chemists. Gaithersburg, Washington D.C.
+      Phytochemical and antibacterial screening                  A.O.A.C. Press, U.S.A. 2000;1298.
+      of garlic (Allium sativum). Katsina J. Pure          15.   Zahira M, Al-Delaimy. Inhibition of Bacillus
+      Appl. Sci. 2010;2(2):101-104.                              cereus by garlic extracts. J. Food Prot.
+2.    Jabar MA, Al-Mossawi A. Susceptibility of                  1982;45(11):1007-1009.
+      some multiple resistant bacteria to garlic           16.   Kumar M, Berwal JS. Sensitivity of food
+      extract. Afr. J. Biotechnol. 2007;6:771-776.               pathogens to garlic (Allium sativum).
+3.    Lanzotti V. The analysis of onion and                      Journal of Applied Microbiology. 1998;84:
+      garlic. J Chromatogr A. 2006;1112(1):                      213–215.
+      3–22.                                                17.   Sofowora A. Medicinal plants and
+4.    Corzo-Martı´nez M, Corzo N, Villamiel M.                   traditional medicines in Africa Spectrum
+      Biological properties of onions and garlic.                Book Ltd. Ibadan, Nigeria.1993;289.
+
+                                                       9
+                                                       Momoh et al.; BMRJ, 14(1): 1-11, 2016; Article no.BMRJ.24095
+
+
+18.   Trease GE, Evans WC. Pharmacognsy.                   29.   Akiyama H, Kazuyasu F, Yamasaki O,
+         th
+      11 edition. London: Brailliar Tiridel Can                  Oono T, Iwatsuki K. Antibacterial action of
+      Macmillian Publishers. 1986;60-75.                         several tannins against Staphylococcus
+19.   Singleton VL, Orthofer R, Lamuela-                         aureus. J Antimicrob Chemother. 2001;
+      Raventos RM. Analysis of total phenols                     48:487-491.
+      and other oxidation substrates and                   30.   Tanaka JCA, da Silva CC, de Oliveira AJB,
+      antioxidants by means of Folin–Ciocalteu                   Nakamura CV, Dias Filho BP. Antibacterial
+      reagent. Methods Enzymol. 1999;299:                        activity    of     indole   alkaloids    from
+      152–78.                                                    Aspidosperma ramiflorum. Braz J Med Biol
+20.   Edeoga HO, Okwu DE, Mbaebie BO.                            Res. 2006;39:387-391.
+      Phytochemical constituents of some                   31.   Tang X, Cronin DA. The effects of brined
+      Nigerian medicinal plants. Afr. J.                         onion extracts on lipid oxidation and
+      Biotechnol. 2005;4:685-688.                                sensory quality in refrigerated cooked
+21.   Jeong DH, Lee GP, Jeong WI, Do SH,                         turkey breast rolls during storage. Food
+      Yang HJ, Yuan DW, et al. Alterations of                    Chem. 2007;100:712-18.
+      mast cells and TGF-beta1 on the silymarin            32.   Amagase H, Petesch BL, Matsuura H,
+      treatment for CCl4- induced hepatic                        Kasuga S, Itakura Y. Intake of garlic and
+      fibrosis. World J Gastroenterol. 2005;11:                  its bioactive components. J Nutrition.
+      1141–1148.                                                 2001;131:955-62.
+22.   Cheesbrough M. District Laboratory                   33.   Madziga HA, Sanni S, Sandabe UK.
+      practice in Tropical Countries Part 2:                     Phytochemical and elemental analysis of
+      Cambridge University Press. UK. 2002;                      Acalypha wilkesiana Leaf. J Amer Sci.
+      136-142.                                                   2010;6:510-514
+23.   National Committee for Clinical Laboratory           34.   Ali H, Dixit S. In vitro antimicrobial activity
+      Standards       (NCCLS).       Performance                 of flavonoids of Ocimum sanctum with
+      standard for antimicrobial susceptibility                  synergistic effect of their combined form.
+      testing, 10th information supplement                       Asian Pac J Trop Dis. 2012;396-398.
+      approved        standard. 2000;M100-S10.             35.   Okwu DE, Morah FNI. Isolation and
+      Wayne P.A.                                                 characterization of flavanone glycoside
+24.   Chung PY, Navaratnam, Chung LY.                            4,5,7 trihydroxide flavanone rhmnoglucose
+      Synergistic antimicrobial activity between                 from Garcina kola seed. J Appl Sci.
+      pentacyclic triterpenoids and antibiotics                  2007;7(2):155-164.
+      against Staphylococcus aureus strains.               36.   Lawson JD, Wang ZJ. Allicin and allicin-
+      Ann Clin Microbiol Antimicrob. 2011;                       derived     garlic    compounds      increase
+      10(25).                                                    breath acetone through allyl methyl sulfide:
+25.   Spencer ALR, Spencer JFT. Public health                    Use in measuring allicin bioavailability.
+      microbiology: Methods and protocols.                       Journal     of    Agricultural   and     Food
+      Human Press Inc. New Jersey. 2004;325-                     Chemistry. 2005;53:74–83.
+      327.                                                 37.   Pedraza-Chaverri J, Medina-Campos ON,
+26.   Bianchini F, Vainio H. Allium vegetables                   Avila-Lombardo R, Zuniga-Bstos AB,
+      and organosulfur compounds: Do they                        Orozco-Ibrra M. Reactive oxygen species
+      help prevent cancer? Environmental                         scavenging capacity of different cooked
+      Health Perspectives. 2001;109:893–902.                     garlic preparations. Life Sciences. 2005;
+27.   Gulfraz M, Muanmad I, Sobia K, Dawood                      78:761–70.
+      A,     Muhammad       JA,     Kashis     SA,         38.   Iwalokun BA, Ogunledun A, Ogbolu DO,
+      Muhammad I, Sajid M. A comparative                         Bamiro SB, Jimi-Omojola J. In vitro
+      study of antimicrobial and antioxidant                     antimicrobial properties of aqueous garlic
+      activities of garlic (Allium sativum L)                    extract against multidrug-resistant bacteria
+      extracts in various localities of Pakistan.                and Candida species from Nigeria. J Med
+      African Journal of Plant Science.                          Food. 2004;7(3):327-333.
+      2014;8(6):298-306.                                   39.   Rees LP, Minney SF, Plumer NT, Slater
+28.   Okwu      DE,     Igara    EC.     Isolation,              JH, Skyme DA. A quantitative assessment
+      characterization and antibacterial activity                of antimicrobial activity of garlic (Allium
+      of alkaloid from Datura metel Linn leaves.                 sativum). World J Microbiol Biotechnol.
+      Afr J Pharm Pharmacol. 2009;3:277-281.                     1993;9:303-307.
+
+
+
+                                                      10
+                                                             Momoh et al.; BMRJ, 14(1): 1-11, 2016; Article no.BMRJ.24095
+
+
+40.  Andrews JM. Determination of minimum        enteric bacteria: Evaluation of method-
+     inhibitory concentrations. J Antimicrob     logies and comparison with garlic sulfides
+     Chemo. 2001;48(suppl1):5–16.                and garlic powder. Appl Environ Microbiol.
+41. Saravanan P, Ramya V, Sridhar H,             2001;67:475-480.
+     Balamurugan V, Umamaheswari S. 43. Lawson DL. The composition and
+     Antibacterial activity of Allium sativum L. chemistry of garlic cloves and processed
+     on pathogenic bacterial strains. Global     garlic. In: Garlic: The Science and
+     Veter. 2010;4(5):519-522.                   Therapeutic Applications of Allium sativum
+42. Ross ZM, OÕGara EA, Hill DJ,                 L and Related Species, 2nd ed. (Koch HP,
+     Sleightholme HV, Maslin DJ. Antimicrobial   Lawson DL, eds.), Williams and Wilkins,
+     properties of garlic oil against human      Baltimore. 1996;37-107.
+_________________________________________________________________________________
+© 2016 Momoh et al.; This is an Open Access article distributed under the terms of the Creative Commons Attribution License
+(http://creativecommons.org/licenses/by/4.0), which permits unrestricted use, distribution, and reproduction in any medium,
+provided the original work is properly cited.
+
+
+
+                                             Peer-review history:
+                         The peer review history for this paper can be accessed here:
+                               http://sciencedomain.org/review-history/13907
+
+
+
+
+                                                           11
+

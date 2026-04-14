@@ -1,0 +1,500 @@
+Print ISSN: 2287-9358 Online ISSN: 2287-9366
+Plant Breed. Biotech. 2026 (March) 14.32~41
+https://doi.org/10.9787/PBB.2026.14.32                                     Plant Breeding and Biotechnology
+
+Research Article
+
+  Alliin and Total Phenolic Content of Garlic (Allium sativum L.) Accessions Collected
+  from Ilocos Norte, Philippines
+
+  Marvin Jericho Espinosa Cava1*, Mae Rose Miguel Maoirat-Abad2, Noralyn Bacnat Legaspi1, Clarita Ortal Palacio1,
+  and Christian Mark Baga Aganus1
+
+
+  1
+    Garlic Research Center, Research          Abstract Garlic (Allium sativum L.) is an important Philippine crop, valued both as culinary
+   Directorate, Mariano Marcos State          ingredient and as alternative medicine. Its bioactivity is mainly attributed to organosulfur
+   University, City of Batac, Ilocos Norte,
+   2906, Philippines
+                                              compounds such as alliin and allicin, with other metabolites such as phenolic compounds
+  2
+    Department of Biology, College of
+                                              also playing a role. Despite this, limited biochemical data exist on Philippine garlic varieties.
+   Arts and Sciences, Mariano Marcos          This study aimed to characterize 12 garlic accessions collected from Ilocos Norte by de-
+   State University, City of Batac, Ilocos    termining their alliin content and total phenolic content (TPC). Alliin was quantified through
+   Norte, 2906, Philippines                   high-performance thin-layer chromatography (HPTLC) densitometry, while TPC was meas-
+                                              ured using the Folin-Ciocalteu assay. Results revealed differences in both alliin content
+                                              and TPC, with “Ilocos Pink” consistently exhibiting the highest values (32.84 mg/g FW of
+                                              alliin; 0.4985 mg GAE/g FW of TPC), suggesting strong potential for bioactivity. In contrast,
+                                              “Miracle” (19.78 mg/g FW of alliin; 0.1806 mg GAE/g of TPC) and Tan Bolters (20.07 mg/g
+                                              FW of alliin; 0.1658 mg GAE/g of TPC) had the lowest values for both alliin content and TPC.
+                                              These findings highlight the varietal differences among accessions, providing a baseline
+                                              for further studies on their bioactivity, breeding, and post-harvest utilization. This research
+   *Corresponding to                          underscores the importance of characterizing local garlic varieties to strengthen their
+    Marvin Jericho Espinosa Cava              competitive value and to promote their utilization in specialized applications.
+    TEL. +63-77-677-2994
+    E-mail. mecava@mmsu.edu.ph                Key words Alliin, Allium, Garlic, Organosulfur, Phenolic Content, Polyphenols
+
+
+
+
+Introduction
+
+  Garlic is an important crop in the Philippines. It has played a crucial role to the common Filipino, not only
+due to its culinary value but also its use as traditional medicinal plant. Garlic has also been widely considered
+around the world as both flavoring and medicine since the ancient times. It has been recognized to have the
+ability to prevent and heal a wide range of diseases (Londhe et al. 2011). This is all owing to its biochemical
+composition.
+  Organosulfur compounds which contribute ~2.3% of the total bulb weight of garlic have been widely accepted
+to cause its pungency and aroma (Oosthuizen et al. 2018). The most studied of these organosulfur compounds
+is allicin. Allicin has been found in various studies to have antimicrobial, antiparasitic, antioxidant, anticancer,
+antihypertensive, antidiabetic, and immunomodulatory activites (Salehi et al. 2019). On the other hand, there
+is scarcity in studies on the main precursor for organosulfur compounds in garlic, alliin. An in vivo study by
+Tanyeli et al. (2019) showed that alliin administration combats oxidative lung injury. An in vitro study by Salman
+et al. (1999) also demonstrated the immunomodulatory effect of alliin. Alliin derivatives other than allicin have
+
+
+
+   Received: November 3, 2025. Revised: January 28, 2026. Accepted: February 9, 2026. Published: March 6, 2026
+Copyright ⓒ 2026 by the Korean Society of Breeding Science
+This is an Open-Access article distributed under the terms of the Creative Commons Attribution Non-Commercial License
+(http://creativecommons.org/licenses/by-nc/3.0) which permits unrestricted non-commercial use, distribution, and reproduction in any medium,
+provided the original work is properly cited.
+         Alliin and Total Phenolic Content of Garlic (Allium sativum L.) Accessions Collected from Ilocos Norte, Philippines   33
+
+
+
+also been shown to exhibit health/medical potentials. For instance, Liu et al. (2015) showed in an in vitro
+study that S-allylmercapto-L-cysteine inhibits the growth of cancer cells by induction of apoptosis and inhibition
+of telomerase activity. Ajoene has also been shown in studies to exhibit anti-inflammatory, anti-leukemia, anti-
+microbial, and anti-tumor potentials (Hassan 2004; Hitchcock et al. 2021; Li et al. 2002; Naganawa et al. 1996).
+Souza et al. (2011) demonstrated in an in vivo study the potential of N-acetylcysteine for controlling obesity,
+diabetes, and dyslipidemia. N-acetylcysteine also exhibited antioxidant activity (Souza et al. 2011). Phan et al.
+(2019) also attribute the antioxidant and antimicrobial activity in garlic extracts to organosulfur compounds.
+  Along with organosulfur compounds, garlic also has many phenolic compounds which also have health benefits.
+Various literature across plant species report that phenolics exhibit antioxidant activity, cardiovascular protective
+effects, antimicrobial, and anti-cancer (Bozin et al. 2008; Cocom et al. 2025; El-Saadony et al. 2024; Kallel et
+al. 2014; Shang et al. 2019; Szychowski et al. 2018).
+  It is a common experience among Filipinos that local garlic, mostly produced in Ilocos Norte has stronger
+taste, pungency, and aroma than the commonly imported cultivars from Taiwan or China. This is a reason
+to speculate that local garlic has more of the abovementioned beneficial compounds. Despite this, very limited
+data on the biochemical properties of Philippine garlic is available. Previously, a study by Rubio et al. (2024)
+demonstrated that Ilocos garlic varieties Mexican, Miracle, Tan Bolters, and Ilocos Pink has more alliin than
+store-bought samples presumably imported from Taiwan, explaining the perceived stronger taste, pungency, and
+aroma. Molino et al. (2021) have also attempted to explain the unique flavor of Philippine garlic and demonstrated
+that the composition of γ-Glu dipeptides in Philippine cultivars is distinct to the imported cultivar. Artes et
+al. (2022) also studied the changes during storage on the physico-chemical characteristics of bulbs of local garlic
+cultivars collected from different Philippine provinces. It must be noted, however, that Molino (Molino et al.)
+et al.’s and Artes et al.’s papers lacked proper nomenclature of the varieties of the sampled cultivars. The present
+study builds on the abovementioned studies by comparing more accessions and properly documenting variety
+names, as they are known to local farmers and/or recorded in the Philippines‘ crop registry managed by the
+National Seed Industry Council (NSIC). (Some acccessions‘ variety names have not yet been registered to the
+NSIC.) Further, this will expand on the potential of Philippine Garlic for nutraceutical and pharmaceutical uses.
+  The present study aimed to determine the alliin and total phenolic content (TPC) of Philippine garlic accessions
+collected in Ilocos Norte via High-Performance Thin-Layer Chromatography (HPTLC) densitometry and
+Folin-Ciocalteu assay, respectively. Twelve (12) accessions collected from Ilocos Norte, Philippines, of cultivars
+originating from various provinces in the Philippines were studied, namely, Batanes White, Cabuyao, Ilocos
+Pink (NSIC 2017 Gr 03), Ilocos White (NSIC 2017 Gr 01), Mexican (NSIC 2017 Gr 04), Mindoro, Miracle (NSIC
+2017 Gr 07; also MMSU Gem), Nueva Ecija Pink, Romblon, Sarang, Tan Bolters (NSIC 2017 Gr 06; also Ilocos
+Tan Bolters), and VFTA M6. The results of the study could pave the way for the development and breeding
+of superior Philippine garlic, i.e. with maintained strength of pungency, aroma, and taste, but with larger bulbs.
+
+
+
+
+                                                                                        Plant Breeding and Biotechnology (PBB)
+34 PBB 2026, Vol. 14, https://doi.org/10.9787/PBB.2026.14.32                          https://www.plantbreedbio.org
+
+
+
+
+Materials and Methods
+
+Garlic Bulb Samples
+
+  Bulb samples of 12 garlic accessions were obtained from the genebank of the Garlic Research Center, Mariano
+Marcos State University. All samples were grown in the same field (GCS: 18.05°N, 120.55°E; clay loam soil
+type) under uniform cultural management practices and harvested simultaneously.
+  Garlic plants were spaced at 20 × 15 cm (row × plant). Prior to planting, the field was irrigated to facilitate
+planting and prevent damage to the cloves used as planting material. From 15 days after planting (DAP) onward,
+irrigation was applied weekly or as needed during the morning to maintain damp soil. A total of 120-60-60
+kg ha-1 N-P2O5-K2O was applied in two splits: 60-60-60 kg ha-1 basally, and the remaining nitrogen at 35 DAP.
+Carrageenan plant growth regulator was applied as a foliar spray at 15, 30, and 45 DAP.
+  There was very minimal rainfall throughout the cropping season (< 20 mm). The mean daily minimum and
+maximum air temperatures were 21.8℃ and 32.1℃, respectively.
+  The garlic was harvested at 92 DAP, and was sun-dried for two weeks before storing under ambient conditions.
+All analyses were performed within two months after harvest.
+
+
+Alliin Extraction
+
+  One-gram (1 g) of fresh garlic clove was homogenized for 5 minutes in 20 mL of 80% ethanol (ACS grade
+ethanol with distilled water) using a homogenizing probe. The resulting solution was then probe-sonicated (5
+seconds run, 2 seconds pulse on a TUE-500 ultrasonic homogenizer [China]) for 10 minutes. The solution was
+then centrifuged for 3 minutes. The supernatant was collected. Another 20 mL of distilled water was then used
+to resuspend the pellet to extract any residual amount left of the target compound, alliin. The suspension was
+then centrifuged for another 3 minutes. The supernatant was pooled together with the first extract.
+
+
+Alliin Quantification
+
+  The following are the apparatus used for the HPTLC densitometric analysis: CAMAG TLC Plate Heater III
+(Switzerland), CAMAG Linomat5 Spotter (Switzerland), and CAMAG TLC Visualizer 2 (Switzerland).
+  Firstly, the thin-layer chromatography (TLC) plate (Supelco® HPTLC aluminum sheets, Silica gel 60 F254; Layer
+thickness: 150-200 μm) was heated at 105℃ for 30 minutes using the plate heater. Samples and standards were
+then spotted automatically upon loading on a Hamilton syringe. For each sample, three lanes were loaded with
+10 µL each to form three technical replicates. Alliin 1000 ppm standard solution was loaded in consecutive
+lanes to form the calibration curve (2 µL, 4 µL, 6 µL, 8 µL, and 10 µL). After spotting, the plate was heated
+at 63-65℃ for 5 minutes to evaporate the solvent from the sample spots.
+  The TLC plate was then developed under mobile phase of 6:2:2 solution of n-Butanol (ACS grade), acetic
+acid (ACS grade), and distilled water. After development, the plate was then heated at 71℃ for 3 minutes to
+
+
+
+The Korean Society of Breeding Science
+          Alliin and Total Phenolic Content of Garlic (Allium sativum L.) Accessions Collected from Ilocos Norte, Philippines   35
+
+
+
+evaporate the mobile phase. The plate was then derivatized by spraying ninhydrin: n-butanol: acetic acid solution
+(0.3:100:3; w/v/v; all ACS grade). The TLC plate was then dried at 80-100℃ for 5 minutes.
+  Once the TLC plate was ready, quantification of alliin was done through the visualizer module and the CAMAG
+visionCATS software.
+
+
+Total Phenolic Content Determination
+
+  The TPC was determined through Folin-Ciocalteu Assay. Five (5) grams of fresh garlic cloves was homogenized
+in 15 mL of 80% ethanol. Afterwards, the samples were centrifuged for 3 minutes at 3000 rpm. The supernatant
+was used for analysis. The assay was done on six technical replicates for each sample.
+  A volume of 170 µL of the samples and gallic acid standards was dispensed on a deep-well plate. Afterwards,
+850 µL Folin-Ciocalteu reagent was added to all the wells and the resulting solution was incubated for 6 minutes.
+Next, 680 µL of 7.5% sodium carbonate was added to the solution and was incubated for 1 hour. The resulting
+solutions were subjected to spectrophotometric analysis at 765 nm wavelength, and TPC was calculated in terms
+of gallic acid equivalents (GAE).
+
+
+
+
+Results
+
+Alliin Content
+
+  Alliin content in the garlic samples was measured using HPTLC densitometry. The measured values are summar-
+ized in Table 1. Across the 12 accessions, the alliin content ranged from 19.78 mg/g FW to 32.84 mg/g FW.
+  Among the accessions analyzed, Ilocos Pink exhibited the highest alliin content (32.84 mg/g FW), followed
+by Nueva Ecija Pink, Mindoro, and Ilocos White, which showed similarly elevated levels. In contrast, Miracle
+showed the lowest alliin content (19.78 mg/g FW), closely followed by Tan Bolters (20.07 mg/g FW). The remaining
+
+
+Table 1. Alliin content and TPC of samples from the 12 garlic accessions. Data are presented as mean ± standard deviation.
+             Garlic Accession                       Alliin (mg/g FW)                    Phenolic Content (mg GAE/g FW)
+              Batanes White                            28.91 ± 1.28                              0.2511 ± 0.0115
+                Cabuyao                                30.68 ± 0.27                              0.2780 ± 0.0177
+               Ilocos Pink                             32.84 ± 0.53                              0.4985 ± 0.0245
+              Ilocos White                             31.00 ± 1.41                              0.2203 ± 0.0196
+                 Mexican                               28.11 ± 0.93                              0.2851 ± 0.0257
+                Mindoro                                31.23 ± 0.40                              0.4113 ± 0.0311
+                 Miracle                               19.78 ± 0.39                              0.1806 ± 0.0123
+            Nueva Ecija Pink                           31.76 ± 0.38                              0.4178 ± 0.0272
+                Romblon                                26.87 ± 0.33                              0.3113 ± 0.0299
+                 Sarang                                25.62 ± 0.93                              0.2120 ± 0.0196
+               Tan Bolters                             20.07 ± 0.29                              0.1658 ± 0.0081
+                VFTA M6                                27.97 ± 0.89                              0.2684 ± 0.0227
+
+
+
+                                                                                         Plant Breeding and Biotechnology (PBB)
+36 PBB 2026, Vol. 14, https://doi.org/10.9787/PBB.2026.14.32                                 https://www.plantbreedbio.org
+
+
+
+
+accessions displayed intermediate alliin concentrations.
+
+
+Total Phenolic Content (TPC)
+
+  TPC was quantified through the Folin-Ciocalteu Assay. The measured values are summarized in Table 1.
+TPC values across the garlic accessions ranged from 0.1658 mg GAE/g FW to 0.4985 mg GAE/g FW. Ilocos
+Pink had the highest TPC (0.4985 mg GAE/g FW), followed by Nueva Ecija Pink and Mindoro, which also
+showed comparatively elevated phenolic levels. Conversely, Tan Bolters recorded the lowest TPC (0.1658 mg
+GAE/g FW), with Miracle, Sarang, and Ilocos White likewise exhibiting relatively low phenolic contents.
+
+
+Relationship between Alliin and TPC
+
+  An exploratory comparison of alliin and TPC values across accessions via regression analysis suggested a
+weak positive trend between sulfur-containing compounds and phenolic content (R2 = 0.57). However, this relation-
+ship was not subjected to inferential statistical testing and should therefore be interpreted descriptively, indicating
+that variation in alliin and phenolic content may occur independently among garlic accessions.
+
+
+
+
+Discussion
+
+  Ilocos Pink and Ilocos White exhibiting higher alliin content than Batanes White partly aligns with Molino
+et al. (2021), who reported that alliin was “upregulated” in an “authenticated local cultivar” from Ilocos Norte
+(tagged as ILAU) compared with an authenticated local cultivar from the Department of Agriculture Regional
+Office 2—Batanes Experimental Station in Basco, Batanes (tagged as BAU) as well as other unauthenticated
+samples collected nationwide. It is important to note, however, that Molino et al. did not specify the particular
+varieties represented by the ILAU and BAU accessions. Moreover, in contrast to their samples, which were
+sourced from multiple locations, the garlic accessions in this study were planted in the same field under uniform
+cultural management practices and harvested simultaneously. Artes et al. (2022) reported that garlic collected
+from Ilocos Norte was more pungent during the early stages of storage compared with those from Batanes
+and Occidental Mindoro. They studied physico-chemical changes during ambient storage, with pungency quantified
+through pyruvate content, a measure positively correlated with total thiosulfinate levels. Similar to Molino et
+al., the samples in Artes et al.’s study were also collected from different locations and were not thoroughly documented.
+  Alliin, an odorless compound, is the major organosulfur component in garlic (intact) by weight (Salehi et
+al. 2019). As earlier mentioned, alliin serves as the main precursor for organosulfur compounds contained in
+garlic such as thiosulfinates. Intact garlic bulbs are not pungent but when cut, crushed, or grated for food
+preparation, a sulfuric odor is produced. This is associated with a defense mechanism of the garlic plant. When
+garlic cells are damaged, alliinase from the vacuoles of vascular bundle sheath cells (located around the veins
+or phloem) catalyzes the conversion of alliin from the cytoplasm or cytoplasmic vesicle of the damaged cells.
+
+
+The Korean Society of Breeding Science
+           Alliin and Total Phenolic Content of Garlic (Allium sativum L.) Accessions Collected from Ilocos Norte, Philippines   37
+
+
+
+The resulting compound is allylsulfenic acid, which is then converted to allicin, which is further converted
+to other volatile odor compounds such as diallyl disulfide, and diallyl trisulfide (Yamaguchi et al. 2020). Depending
+on the food processing done on garlic, a variety of alliin derivatives are produced, further developing odor,
+aroma, flavor, and even bioactivity (Bi et al. 2023; Kubec et al. 1997; Liu et al. 2022; Shang et al. 2019). Thus,
+the higher alliin content observed in Ilocos Pink, Nueva Ecija Pink, Mindoro, and Ilocos White suggests that
+these accessions may offer a richer flavor profile in culinary applications and potentially stronger bioactivity.
+  As earlier mentioned, Rubio et al. (2024) also demonstrated that Ilocos garlic varieties have more alliin than
+store-bought samples presumably imported from Taiwan. Rubio et al. (2024) reported the store-bought samples
+contained 13.96 mg/g FW alliin. Traditionally, it is believed that local Philippine garlic varieties are tastier,
+more pungent, and more aromatic than imports from Taiwan and China. The results of the current study also
+support this when compared with Rubio et al.’s (2024) data. In comparison, Zhang et al. (2015) reported that
+unprocessed garlic from Chinese local market had 11.28 ± 0.22 mg/g FW of alliin content. Liu et al. (2022)
+also reported ~10 mg/g FW in unprocessed Chinese garlic. As for data for alliin content in garlic from another
+region, Iberl et al. (1990) reported that the alliin content of garlic from German local markets were in the
+range of ~9 mg/g FW. It must be noted, however, that alliin extraction and quantification methodologies vary
+among abovementioned studies. Thus, to further supplement Rubio et al.’s (2024) results, future research would
+be beneficial in distinguishing Philippine garlic varieties against more foreign varieties in terms of alliin content.
+  In addition to the alliin quantified in the fresh garlic samples, the developed TLC plate (Fig. 1) reveals a
+variety of other compounds, presumably cysteine sulfoxides (Lanzotti 2006). Ninhydrin reacts with the amino
+functional group present in cysteine sulfoxides, resulting in the formation of the colored bands on the TLC
+
+
+
+
+Fig. 1. Image of the developed TLC plates visualized under 366 nm light (2 of 2 plates). Color variation on the various compounds’
+presentation in the TLC plates is due to the variation in the amount of ninhydrin solution sprayed on the plates for derivatization.
+
+
+                                                                                           Plant Breeding and Biotechnology (PBB)
+38 PBB 2026, Vol. 14, https://doi.org/10.9787/PBB.2026.14.32                              https://www.plantbreedbio.org
+
+
+
+
+plate. Although ethanolic extraction is supposed to deactivate alliinase and prevent conversion of alliin, other
+organosulfur compounds being extracted are expected as fresh garlic also contains such. Moreover, the alliin
+extraction method employed did not include a purification step.
+  It can be observed in Fig. 1 that some bands are noticeably more intense in color among certain accessions.
+For instance, in the first TLC plate (top), the bands at 0.15 Rf and 0.20 Rf are noticeably darker in the Mindoro
+accession. In the second TLC plate (bottom), the bands at 0.22 Rf and 0.28 Rf are also noticeably darker in
+the Ilocos Pink accession. This suggests a higher concentration of the compounds represented by such bands.
+These differences in the biochemical profile of the garlic varieties can be further elicited to understand the
+differences of these garlic varieties in terms of pungency and even bioactivity. It is worth noting, however,
+that the derivatized TLC plate shown in Fig. 1 does not visualize all organosulfur compounds in garlic, as
+some do not react with ninhydrin to form derivatives visualizable at 366 nm.
+  As for the TPC, no other publicly available literature describes the comparison of Philippine cultivars or varieties
+in terms of phenolic content. Reported data from literature for TPC in garlic from other countries are comparable
+to the data of the present study. Rababah et al. (2025) reported garlic from Jordan to contain 0.2910 mg GAE/g
+FW. Čeryová et al. (2023) characterized seven Slovak garlic cultivars and reported TPC ranging 0.36711 to 0.47211
+mg GAE/g FW. Popa et al. (2024) characterized 16 Romanian garlic varieties and reported 0.65607-1.31732 mg
+GAE/g FW. Hirata et al. (2016) also characterized 103 clones of garlic collected in various regions of the world
+and reported a range of 0.5229-1.3752 mg GAE/g FW. While some of these studies have reported values that
+may be significantly higher than reported in the present study, it must be noted, that the extraction procedure
+prior to TPC analysis vary across the studies. Thus, future research would also be beneficial in distinguishing
+Philippine garlic varieties against foreign varieties in terms of TPC.
+  Phenolics in garlic have been highlighted together with organosulfur compounds to contribute to the to the
+diverse health benefits of garlic. From literature, the main phenolic compounds in garlic are β-resorcylic acid,
+pyrogallol, gallic acid, rutin, protocatechuic acid, and quercetin. (Liu et al. 2018; Nagella et al. 2014). Among
+studies and reviews, phenolic compounds in garlic are reported to have antioxidant, cardiovascular protective,
+antimicrobial, and anti-cancer activity (Bozin et al. 2008; Cocom et al. 2025; El-Saadony et al. 2024; Kallel et
+al. 2014; Shang et al. 2019; Szychowski et al. 2018).
+  Bozin et al. (2008) suggested that the amount of phenolics in three different methanolic extracts of garlic
+(from air-dried immature garlic plants, from air-dried mature garlic plants, and from fresh mature garlic plants)
+correlated with their antioxidant activities. Szychowski et al. (2018) also attributed the antioxidant activity of
+aqueous garlic extracts to phenolics as well as plant-derived proteins. Their in vitro study also demonstrated
+the anti-cancer potential of aqueous garlic extract, owing to its phenolic content (Szychowski et al. 2018). Kallel
+et al. (2014) characterized “garlic husk waste” as potential source of phenolic compounds. Garlic husk extracts
+were reported to exhibit antimicrobial and antioxidant properties.
+
+
+Implications
+
+  It is widely documented in literature, both for garlic and many other plant species, that cultural management,
+
+
+The Korean Society of Breeding Science
+          Alliin and Total Phenolic Content of Garlic (Allium sativum L.) Accessions Collected from Ilocos Norte, Philippines   39
+
+
+
+soil parameters, and climatic conditions affect both the agronomic characteristics and metabolome profile (Atif
+et al. 2020; de Almeida et al. 2025; Hanif et al. 2022). For instance, Atif et al. (2020) reported that garlic plant
+and bulb morphology, as well as the composition of endogenous phytohormones (such as gibberellic acid, jasmonic
+acid, indole-3-acetic acid, and p-coumaric acid) significantly varied with different photoperiods and temperatures.
+They also reported significant differences in allicin content in the pseudostem across different photoperiods
+and temperatures (Atif et al. 2020). Considering this, comparison of the biochemical composition of garlic samples
+grown in the same field under uniform cultural management practices and harvested simultaneously proves
+important for investigating varietal differences. Uniform conditions eliminate varying physiological responses
+of accessions to varied cultural management, soil parameters, and climatic conditions, thereby improving scientific
+clarity of the comparison (Hanif et al. 2022).
+  This study provides the first systematic biochemical characterizations of Philippine garlic accessions grown
+under such uniform conditions. By linking varietal differences in alliin and phenolic content to potential culinary
+and functional advantages, it establishes a baseline for germplasm conservation, varietal improvement, and the
+promotion of Philippine garlic as a premium crop in both local and international markets.
+  The gathered data on alliin and total phenolic content indicate genetic and varietal differences among the
+sampled garlic accessions. The results confirm that biochemical composition—and thus food value, food function-
+ality, and possible medicinal value—differs across garlic accessions, underscoring the importance of varietal selection
+in breeding and utilization. Accessions such as Ilocos Pink, Nueva Ecija Pink, Mindoro, and Ilocos White exhibited
+higher alliin content, suggesting stronger taste, pungency, and aroma, which translates to greater culinary value.
+Moreover, accessions with both high alliin and phenolic levels, particularly Ilocos Pink, Nueva Ecija Pink, and
+Mindoro, may offer enhanced antioxidant activity and greater health-promoting potential compared with low-
+er-content varieties.
+  These findings support the positioning of select Philippine garlic varieties as premium products in domestic
+and export markets. Beyond fresh consumption, their biochemical profile also makes them suitable for value-added
+applications such as nutraceuticals, and even alternative medicine. Such initiatives could capture niche markets,
+strengthen consumer preference for local garlic, and ultimately benefit farmers through improved livelihood
+opportunities.
+  Finally, the observed variation highlights the importance of conserving local germplasm and identifying high-value
+cultivars for future crop improvement and/or breeding programs, and industry development.
+
+
+Recommendations
+
+  The current study was limited to the quantification of alliin content and TPC among 12 garlic accessions
+collected from Ilocos Norte, of cultivars originating from various provinces in the Philippines. While results
+from this study contribute to explaining the perceived stronger taste, pungency, and aroma of Philippine garlic
+than imported cultivars, a dedicated study comparing local cultivars to foreign ones would more adequately
+substantiate this. Future work should also focus on the quantification of other bioactive compounds in Philippine
+garlic to provide a more comprehensive biochemical profile. Furthermore, value-adding and quantification of
+
+
+                                                                                         Plant Breeding and Biotechnology (PBB)
+40 PBB 2026, Vol. 14, https://doi.org/10.9787/PBB.2026.14.32                                 https://www.plantbreedbio.org
+
+
+
+
+bioactive compounds in value-added products will elevate the functional food and even potential medicinal value
+of Philippine garlic.
+
+
+
+
+Acknowledgements
+
+  This study connected with a four-year project on garlic and other agri-food condiments genetic resources
+at Mariano Marcos State University funded by the Philippine government through the Department of Science
+and Technology-Philippine Council for Agriculture, Aquatic and Natural Resources Research and Development
+(DOST-PCAARRD) under the Niche Centers in the Regions for Research and Development (NICER) national
+program. Alliin and total phenolic content quantification was assisted by Herbanext Laboratories, Inc.
+
+
+
+
+References
+
+Artes LA, Maunahan MV, Resorez JM, Nuevo PA. 2022. Physico-chemical changes in garlic (Allium sativum L.) after
+     prolonged storage at ambient conditions in the Philippines. J. Int. Soc. Southeast Asian Agric. Sci. 28(2): 81-90.
+Atif MJ, Amin B, Ghani MI, Ali M, Zhang S, Cheng Z. 2020. Effect of photoperiod and temperature on garlic (Allium
+     sativum L.) bulbing and selected endogenous chemical factors. Environ. Exp. Bot. 180: 104250.
+Bi J, Yang Z, Li Y, Li B, Gao Y, Ping C, et al. 2023. Effects of different cooking methods on volatile flavor compounds
+     in garlic. Int. J. Gastron. Food Sci. 31: 100642.
+Bozin B, Mimica-Dukic N, Samojlik I, Goran A, Igic R. 2008. Phenolics as antioxidants in garlic (Allium sativum L.,
+     Alliaceae). Food Chem. 111(4): 925-929.
+Čeryová N, Lidiková J, Pintér E, Šnirc M, Franková H, Ňorbová M, et al. 2023. Total polyphenol content, total flavonoid
+     content, and antioxidant activity of garlic (Allium sativum L.) Cultivars. J. Microbiol. Biotechnol. Food Sci. 13(1):
+     e9668.
+Cocom LM, Wang H-C, Tseng K-C, Chu Y-L. 2025. The antimicrobial and antioxidant properties of raw, aged, and fermented
+     garlic: Influence of processing methods. Food Sci. Nutr. 13(8): e70743.
+de Almeida NR, Ikehara BRM, Calácio CC, Oliveira TF, Pinto FG. 2025. Metabolomic analysis to study the effect of
+     foliar copper supplementation on sulfur-containing compounds of garlic bulb by LC-MS. Metabolomics. 21(2): 36.
+El-Saadony MT, Saad AM, Korma SA, Salem HM, Abd El-Mageed TA, Alkafaas SS, et al. 2024. Garlic bioactive substances
+     and their therapeutic applications for improving human health: A comprehensive review. Fimmu. 15: 1277074.
+Hanif M, Khan R, Kiran J, Haq IU, Ali S, Niaz Y, et al. 2022. Interactive effect of organic and mineral phosphorus
+     on volatile compounds, morphology, and physiology of garlic (Allium sativum L.). J. King Saud Univ. Sci. 34(8):
+     102351.
+Hassan HT. 2004. Ajoene (natural garlic compound): A new anti-leukaemia agent for AML therapy. Leuk. Res. 28(7):
+     667-671.
+Hirata S, Abdelrahman M, Yamauchi N, Shigyo M. 2016. Characteristics of chemical components in genetic resources
+     of garlic Allium sativum collected from all over the world. Genet. Resour. Crop. Evol. 63(1): 35-45.
+Hitchcock JK, Mkwanazi N, Barnett C, Graham LM, Katz AA, Hunter R, et al. 2021. The garlic compound Z-Ajoene,
+     S-Thiolates COX2 and STAT3 and dampens the inflammatory response in RAW264.7 macrophages. Mol. Nutr. Food
+     Res. 65(3): 2000854.
+Iberl B, Winkler G, Müller B, Knobloch K. 1990. Quantitative determination of allicin and alliin from garlic by HPLC*.
+     Planta Med. 56(03): 320-326.
+Kallel F, Driss D, Chaari F, Belghith L, Bouaziz F, Ghorbel R, et al. 2014. Garlic (Allium sativum L.) husk waste as
+
+
+The Korean Society of Breeding Science
+          Alliin and Total Phenolic Content of Garlic (Allium sativum L.) Accessions Collected from Ilocos Norte, Philippines   41
+
+
+
+     a potential source of phenolic compounds: Influence of extracting solvents on its antimicrobial and antioxidant properties.
+     Ind. Crops Prod. 62: 34-41.
+Kubec R, Velíšek J, Doležal M, Kubelka V. 1997. Sulfur-containing volatiles arising by thermal degradation of alliin
+     and deoxyalliin. J. Agric. Food Chem. 45(9): 3580-3585.
+Lanzotti V. 2006. The analysis of onion and garlic. J. Chromatogr. A. 1112(1): 3-22.
+Li M, Ciu J-R, Ye Y, Min J-M, Zhang L-H, Wang K, et al. 2002. Antitumor activity of Z -ajoene, a natural compound
+     purified from garlic: Antimitotic and microtubule-interaction properties. Carcinogenesis. 23(4): 573-579.
+Liu C, Lu L, Yang C, Niu C, Wang J, Zheng F, et al. 2022. Effects of thermal treatment on alliin and its related sulfides
+     during black garlic processing. LWT. 159: 113158.
+Liu J, Ji F, Chen F, Guo W, Yang M, Huang S, et al. 2018. Determination of garlic phenolic compounds using supercritical
+     fluid extraction coupled to supercritical fluid chromatography/tandem mass spectrometry. J. Pharm. Biomed. Anal.
+     159: 513-523.
+Liu Y, Yan J, Han X, Hu W. 2015. Garlic-derived compound S-allylmercaptocysteine (SAMC) is active against anaplastic
+     thyroid cancer cell line 8305C (HPACC). Technol. Health Care. 23(1_suppl): S89-S93.
+Londhe VP, Gavasane AT, Nipate SS, Bandawane DD, Chaudhari PD. 2011. Role of garlic (Allium sativum) in various
+     diseases: An overview. Journal of Pharmaceutical Research and Opinion. 1(4): 129-134.
+Molino RJEJ, Rellin KFB, Nellas RB, Junio HA. 2021. Small in size, big on taste: Metabolomics analysis of flavor compounds
+     from Philippine garlic. PLoS One. 16(5): e0247289.
+Naganawa R, Iwata N, Ishikawa K, Fukuda H, Fujino T, Suzuki A. 1996. Inhibition of microbial growth by ajoene,
+     a sulfur-containing compound derived from garlic. Appl. Environ. Microbiol. 62(11): 4238-4242.
+Nagella P, Thiruvengadam M, Ahmad A, Yoon JY, Chung IM. 2014. Composition of polyphenols and antioxidant activity
+     of garlic bulbs collected from different locations of Korea. Asian J. Chem. 26(3): 897-902.
+Oosthuizen CB, Reid A-M, Lall N. 2018. Garlic (Allium sativum) and its associated molecules, as medicine. In Medicinal
+     plants for holistic health and well-being (pp. 277-295). Academic Press.
+Phan AD, Netzel G, Chhim P, Netzel ME, Sultanbawa Y. 2019. Phytochemical characteristics and antimicrobial activity
+     of australian grown garlic (Allium sativum L.) cultivars. Foods. 8(9): 358.
+Popa P-M, Băbeanu C, Cosmulescu S-N. 2024. Evaluation of chemical compounds in local garlic genotypes from southwestern
+     romania. Appl. Sci. 14(16): 6899.
+Rababah T, Al-U'datt M, Angor M, Alsaad A, Akkam Y, Gammoh S, et al. 2025. Fresh crushed garlic exhibits superior
+     allicin and pyruvic acid stability, while fresh sliced garlic leads in phenolic and antioxidant content. Appl. Food
+     Res. 5(1): 100850.
+Rubio JJ, Cava MJ, Asuncion J, Halabaso E, Maoirat-Abad MR. 2024. Healthy garlic options: Alliin and total phenolic
+     content of ilocos garlic (Allium sativum L.). Mariano Marcos State University, City of Batac, Ilocos Norte Philippines.
+Salehi B, Zucca P, Orhan IE, Azzini E, Adetunji CO, Mohammed SA, et al. 2019. Allicin and health: A comprehensive
+     review. Trends Food Sci. Technol. 86: 502-516.
+Salman H, Bergman M, Bessler H, Punsky I, Djaldetti M. 1999. Effect of a garlic derivative (alliin) on peripheral blood
+     cell immune responses. Int. J. Immunopharmacol. 21(9): 589-597.
+Shang A, Cao S-Y, Xu X-Y, Gan R-Y, Tang G-Y, Corke H, et al. 2019. Bioactive compounds and biological functions
+     of garlic (Allium sativum L.). Foods. 8(7): 246.
+Souza GA, Ebaid GX, Seiva FRF, Rocha KHR, Galhardi CM, Mani F, et al. 2011. N-acetylcysteine an allium plant compound
+     improves high-sucrose diet-induced obesity and related effects. Evid. Based Complement. Alternat. Med. 2011(1):
+     643269.
+Szychowski KA, Rybczynska-Tkaczyk K, Gawel-Beben K, Swieca M, Karas M, Jakuczyk A, et al. 2018. Characterization
+     of active compounds of different garlic (Allium sativum L.) cultivars. Pol. J. Food Nutr. Sci. 68(1): 73-81.
+Tanyeli A, Güzel D. 2019. Alliin mitigates cecal ligation puncture (CLP)-induced lung injury through antioxidant and
+     antiinflammatory effects. Turk. J. Sci. 4(2): 46-59.
+Yamaguchi Y, Kumagai H. 2020. Characteristics, biosynthesis, decomposition, metabolism and functions of the garlic
+     odour precursor, S-allyl-l-cysteine sulfoxide (Review). Exp. Ther. Med. 19(2): 1528-1535.
+Zhang Z, Lei M, Liu R, Gao Y, Xu M, Zhang M. 2015. Evaluation of alliin, saccharide contents and antioxidant activities
+     of black garlic during thermal processing. J. Food Biochem. 39(1): 39-47.
+
+
+
+
+                                                                                         Plant Breeding and Biotechnology (PBB)
+

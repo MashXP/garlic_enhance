@@ -1,3 +1,5 @@
+**Modified:** 2026-04-07T15:11:00+07:00
+
 # 🧄 Project Garlic: Central Command Hub
 
 **Status:** 🟡 Active | **Phase:** 1 (Target Selection)
@@ -5,55 +7,54 @@
 
 ---
 
-## 1. Core Strategy: The Hybrid Model
-We have shifted away from direct GMO/Allicin extraction due to cytotoxicity risks.
-**The New Approach:** "In Silico Guided, In Vivo Validated."
-1.  **Bioinformatics (The Brain):** We use transcriptomic data mining to *select* specific sulfur-processing bacteria (SSB).
-2.  **Agriculture (The Body):** We inoculate these specific strains to enhance the "Total Quality" of fresh garlic.
-3.  **Validation:** We measure "Golden Indices" (TPC, TSS, Dry Matter) rather than just unstable Allicin.
+## 1. Core Strategy: The Functional Optimization Model
+We have pivoted from expensive de novo sequencing to **Phenotypic Screening**. 
+**The "Pillar" Strategy:**
+1.  **Functional Isolation (Bioinfo Salvage):** We use **Differential Media** to isolate bacteria that physically thrive in high-sulfur environments—proving their metabolic efficacy phenotypic-first.
+2.  **Agriculture (The 2x2 Design):** We validate these strains across a 4-group model (Control, Bio-Only, Fert-Only, Combined) to identify synergistic enhancement.
+3.  **Quality Metrics:** We prioritize "Golden Indices" (TPC, Brix, Allicin) over unstable raw biomass alone.
 
 ---
 
 ## 2. The Master Plan (Phases)
 
-### 🟡 Phase 1: Target Identification (Current)
-*   **Goal:** Identify the exact bacterial strain to use.
-*   **Action:** Phong performs data mining on NCBI to find bacteria with high *Sulfate Transporter* and *cys* gene activity.
-*   **Novelty:** We are not guessing; we are *targeting* the metabolic pathway.
+### 🟡 Phase 1: Differential Isolation (Current)
+*   **Goal:** Physically isolate the most effective sulfur-solubilizing bacteria (SSB).
+*   **Action:** Phát (Microbiology) prepares selective "Pillar" media to identify robust, acidifying colonies.
+*   **Validation:** Use CFU counts and acidification zones as success proxies.
 
 ### 🔴 Phase 2: Experimental Setup (Next)
-*   **Goal:** Inoculation and Cultivation.
-*   **Design:** 3 Groups (Control, NPK, Bio-Target).
-*   **Key:** Sterile soil to isolate our specific bacteria's effect.
+*   **Goal:** Execute the full 4-group 2x2 Factorial Design.
+*   **Design:** Control (-/-), Bio-Only (+/-), Fert-Only (-/+), Combined (+/+).
+*   **Key:** Scaled Nitrogen (N) rates and standardized basal/top-dressing timing.
 
-### 🔴 Phase 3: Validation & Measurement
-*   **Goal:** Prove "Quality" increase.
+### 🔴 Phase 3: Analytical Measurement
+*   **Goal:** Quantify the "Synergy Index."
 *   **Metrics:**
-    *   **Total Phenolic Content (TPC):** Antioxidant proxy.
-    *   **Brix (TSS):** Sugar/Quality proxy.
-    *   **Biomass:** Yield proxy.
+    *   **TPC:** Total Phenolic Content (Antioxidant power).
+    *   **Brix:** Bulb quality and density.
+    *   **Synergy Calculation:** $T3 > (T1 + T2 - C-)$.
 
 ---
 
 ## 3. Team & Roles (The "Squad")
 
-| Member        | Role               | Key Responsibility                                           |
-| :------------ | :----------------- | :----------------------------------------------------------- |
-| **Phong**     | **Lead / Bioinfo** | Data Mining, Target Selection, "Defensive" Simulation.       |
-| **Phát**      | **Microbiology**   | Sourcing the specific strain, Inoculation protocol.          |
-| **Lập**       | **Agriculture**    | Pot trial setup, Soil sourcing, Plant care.                  |
-| **Nghĩa**     | **Product/QC**     | Designing the Extraction & Measurement protocols (TPC/Brix). |
-| *(Candidate)* | *Chem Eng*         | [[Candidate_Evaluation_Plan]]                                |
+| Member        | Role                   | Key Responsibility                                                |
+| :------------ | :--------------------- | :---------------------------------------------------------------- |
+| **Phong**     | **Lead / Agri / Info** | Data Mining, Isolation, Agriculture lead, "Pillar" strategy.      |
+| **Phát**      | **Microbiology**       | Sourcing/Culture, Protocol drafting (Inoculation/Media).          |
+| **Nghĩa**     | **Product/QC**         | Extraction & Measurement protocols (TPC/Brix).                    |
 
 ---
 
 ## 4. Key Documentation Links
-- [[Old_approach|Brainstorming]]: Initial Ideas and challenges.
-- [[New_approach|Pivoting]]: Addressing the challenges and directions for a newer approach 
-- **[Research Protocol (IDEAL)](Research_Protocol_IDEAL.md):** The detailed step-by-step science (Methodology).
+- [[_legacy/Old_approach|Project Evolution (Legacy)]]: Brainstorming & the Allicin Pivot.
+- **[Active Approach](Current_Approach.md):** The current "Total Quality" framework.
+- **[Active Protocol](Research_Protocol.md):** The current functional strategy (Isolation & Factorial Design).
 - **[Task Delegation](Task_Delegation.md):** Specific assignments for each member.
-- **[Mental Protocol](Research_Mental_Protocol.md):** The "Safety Net" strategy (What to do if garlic dies).
-- **[HR Plan](Candidate_Evaluation_Plan.md):** The "Litmus Test" for the new candidate.
+- **[Backup Plan](Backup_Plan.md):** The "Safety Net" strategy.
+- **[Fertilizer Report](Phong/Fertilizers/Fertilizer.md):** Synthesized NPK-Cl research findings.
+- **Legacy Files:** Located in [_legacy/](file:///home/mashxp/Documents/MyVault/Atlas/Garlic/_legacy/) (Includes IDEAL protocol and Candidate plans).
 
 
 ---

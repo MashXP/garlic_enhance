@@ -1,0 +1,704 @@
+Study on the influence of different fertilization
+regimes on the yield and bulb quality of garlic
+(Allium Sativum L.)
+Yongtao Zhang
+ Jiangsu Noni Huinong Agricultural Technology Co., Ltd.
+Jiabin Song
+ Nanjing Agricultural University College of Resources and Environmental Sciences
+Xiaoping Zeng
+ Jiangsu Agricultural Technology Extension Station
+Haimei Zhu
+ Pizhou Municipal Bureau of Agriculture and Rural Affairs
+Lingdi Zhou
+ Pizhou Municipal Bureau of Agriculture and Rural Affairs
+Zhen Li
+ Nanjing Agricultural University College of Resources and Environmental Sciences
+Xiaorong Fan (  xiaorongfan@njau.edu.cn )
+ Nanjing Agricultural University College of Resources and Environmental Sciences
+
+
+
+Research Article
+
+Keywords: Allium sativum, Nitrogen, Nitrate, Microbial biofertilizer, Nanofertilizer
+
+Posted Date: March 16th, 2023
+
+DOI: https://doi.org/10.21203/rs.3.rs-2063527/v1
+
+License:   This work is licensed under a Creative Commons Attribution 4.0 International License.
+Read Full License
+
+
+
+
+                                                   Page 1/21
+Abstract
+Purpose: The purpose of this study was to assess the effect of microbial biofertilizer and nanofertilizer
+on the growth, allicin content and elemental content of garlic in China.
+
+Method: We conducted field trial of microbial biofertilizer and germanium-containing controlled release
+nanofertilizer along two consecutive winter periods of 2020/2021 and 2021/2022 in a major garlic
+production area at Pizhou city to determine the effect of treatment in comparison to the local fertilization
+practice.
+
+Result: The results revealed that the application of microbial biofertilizer and germanium-containing
+controlled release nanofertilizer increased the bulb yield by approximately 6-28% and 14%, respectively,
+compared with local fertilization practice. Meanwhile, the application of microbial biofertilizer
+consistently increased the allicin content of garlic in year 2021 and 2022. Furthermore, we also observed
+a strong positive correlation between shoot nitrate concentration at spring garlic stage and the final garlic
+bulb yield, implying that the accumulation of nitrate content in garlic at spring garlic stage maybe
+beneficial to biomass accumulation through either nutritional effect and increased chilling tolerance.
+
+Conclusion: Taken together, our results revealed that the application of microbial biofertilizer and
+germanium-containing controlled release nanofertilizer can increase growth and nitrogen use efficiency
+of garlic in our experiment.
+
+
+1 Introduction
+Garlic (Allium sativum L.) is one of the oldest known and popular bulb vegetable crops that is growing
+globally in temperate and tropical regions. Garlic belongs to the family Alliaceae, which also includes
+onion, chive and shallot (Takhtajan 1997). Garlic has often been used worldwide as flavoring for dishes
+attributed to its unique aroma. In addition, garlic has been proven to be the excellent nutritional source of
+manganese, vitamin C and vitamin B6 (Petropoulus et al. 2018). In traditional medicine, garlic is used to
+treat various illnesses such as hypertension, cancer, cold and coughing (Gebreyohannes et al. 2013).
+Besides that, garlic has been found to have been reported to have high antibacterial, antifungal, anti-
+protozoal and antiviral activities, indicating its potential in treating different diseases (Batiha et al. 2020).
+According to a latest population-based cohort study, anti-aging protective effect of garlic might be
+associated with a lower risk of all-cause mortality (Shi et al. 2019).
+
+According to the FAO database, the total global production of garlic reached 30.7 million tons with a land
+area of 1.6 million hectares in 2019 (FAO 2019). Among garlic-producing countries, China is the world
+largest garlic producer with an annual output of 23.3 million tons and the production is in increasing
+trend to meet the demand of growing population. The total cultivated area for garlic in China has reached
+0.83 million hectares (FAO 2019).
+
+
+
+                                                    Page 2/21
+The growth, yield and quality attributes of garlic are strongly affected by environmental factors such as
+genotypes and environmental factors such as climatic conditions, soil properties and agronomic
+practices (Atif et al. 2019). Among the agronomic practices, the type and the rate of fertilizer application
+have a profound effect on the yield of garlic and on the sustainability of soil productivity (González et al.
+2009). As a shallow rooted vegetable, garlic have relatively higher demand for fertilizer for optimal growth
+and development due to its lower nutrient extraction capacity. Lower nutrient extraction capacity and
+higher nutrient requirement of garlic will often lead to overapplication of fertilizer by farmers that
+subsequently caused environmental problems (Jiku et al. 2020). Hence, a better fertilizer practices that
+can reduce the application rate of fertilizer without compromising the yield of garlic is very much needed.
+
+Conventional agricultural practices are highly dependent on chemical fertilizers and pesticides. While the
+chemical fertilizer can quickly increase crop yields, pro-longed use of chemical fertilizer can lead to
+harmful effect on the soil quality and environment (Savci 2012). Furthermore, the recent global energy
+crisis has also led to a tight supply of chemical fertilizer, and the price of chemical fertilizers has risen
+sharply, triggering food security concerns. Therefore, there is an urgent need for environmentally friendly
+agricultural practices that can improve fertilizer use efficiency. Microbial biofertilizer is one of the specific
+groups of fertilizer that has been shown to increase crop productivity through enhancing the availability
+and uptake of mineral nutrients for plants (Okur 2018). The underlying mechanisms by which microbial
+biofertilizer enhance plant growth are diverse, including biological nitrogen fixation, production of plant
+growth hormones, promoting solubilization of potassium and phosphorus (Kour et al. 2020). In garlic
+cultivation, studies reported that the combination of NPK fertilizer and microbial biofertilizer application
+can reduce fertilizer use without compromising the crop yield (Chanchan et al. 2018). Chanchan et al.
+(2018) showed that the production of garlic increased by about 15% after adding microbial biofertilizer,
+although the NPK doses was reduced by 25%. Hence, microbial biofertilizers have superior importance in
+nutrient management system to ensure agricultural sustainability, particularly for garlic cultivation.
+
+Nanofertilizer is a new type of smart fertilizer developed by using nano-technology. Due to its controlled
+release properties and increased nutrient bioavailability, it has been well regarded as a novel technique
+towards attaining sustainable agriculture (Raliya et al. 2018). Nanofertilizer can be categorized into three
+different classes i.e., nanoscale supplements, nanoscale additives and fertilizers with nanoparticles
+coating (Dhir 2021). Among which, nutrient encapsulated/coated with nanomaterial coatings has been
+shown to have the effect of slowing down the release of nutrient and increase nutrient use efficiency of
+crops by minimizing nutrient leaching (Kottegoda et al. 2017). Besides that, the applica-tion of
+nanofertilizer can increase the bioavailability of nutrient due to its high specific surface area and high
+reactivity (Zulfiqar et al. 2019). Previous study showed that the application of “nano-urea” was beneficial
+to the growth of many crops including rice, radish, celery, cabbage, eggplant, pepper, tomato and so on. It
+was observed that the grain yield and N uptake of rice was significantly increased under “nano-urea”
+treatment (Sahu et al. 2022). However, the application of nanofertilizer in garlic cultivation is rarely
+reported. Therefore, in this study, we investigated the effect of microbial biofertilizer and nanofertilizer
+towards the yield, nutrient status and nutrient use efficiency of garlic
+
+                                                    Page 3/21
+2. Materials And Method
+2.1 Description of study site and experimental design
+The garlic cultivar used in this study was Daqingke, a Jiangsu local guideline cultivar, which originated
+from Shandong province, China. The experiment was conducted in the experimental site located at
+Pizhou city (34º17’N, 117º41’E), Jiangsu province, China (Figure S1). The physicochemical properties of
+the soil in the first-year study were as follows: pH 7.63, 36.95 ± 11.06 g·kg− 1 organic matter, 1.60 ± 0.22
+g·kg-1 N, 96.57 ± 15.60 g·kg-1 P2O5 and 231.11 ± 48.50 mg·kg− 1 K2O. The size of each plot was 1000 m2.
+The garlic was planted at 22 cm apart rows with 15 cm of individual spacing. The garlic was sown on 10
+Oct 2020 and harvested on 14 May 2021. The variation in the ambient temperature throughout the
+growth period of garlic in this study was shown in Figure S2. In the second-year study, the
+physicochemical properties of the soil were as follows: pH 7.89, 16.82 ± 2.16 g·kg− 1 organic matter, 0.85
+± 0.12 g·kg− 1 N, 32.30 ± 6.98 g·kg− 1 P2O5 and 274.03 ± 18.21 mg·kg− 1 K2O. The garlic was sown on 22
+Oct 2021 and harvested on 20 May 2022. Table 1 showed the fertilization treatments used in the study.
+The first fertilizer used in this study was microbial biofertilizer (the product number in the market,
+Sunongfei2021lianzhuzhi003). The second fertilizer used in this study was germanium-containing
+controlled release nanofertilizer (the product number in the market, Sunongfei2021lianzhuzhi006). The
+preparation of germanium-containing controlled release nanofertilizer has been described in China (CN)
+Chinese patent documents with the publication number of CN108794114A.
+
+                                                   Table 1
+                              Treatment carried out on garlic (Allium sativum L.)
+ Treatment             Rate        N           P2O5         K2O       Other
+
+                       (kg·ha−     (kg·ha−     (kg·ha−      (kg·ha−
+                       1           1
+                         )           )         1
+                                                 )          1
+                                                              )
+
+ 40% 10-14-16          1200        120         168          192       -
+ (Control)
+
+ 30% 8-10-12           1500        120         150          180       Microbial Biofertilizer
+
+ (T1)
+
+ 30% 8-10-12           1500        120         150          180       Germanium-containing Control
+                                                                      Release Nanofertilizer
+ (T2)
+
+2.2 Biomass, total nitrogen (N) measurement and
+calculation of NUE
+The garlic plant samples were divided into shoots and roots, and weighed to determine the fresh weight.
+The plant sample was then heated at 105°C for 30 min to inactivate cellular enzymatic activities. The
+total N concentration in garlic plant samples were determined using Kjeldahl method (Kjeldahl 1883).
+                                                     Page 4/21
+Briefly, the finely ground garlic plant sample (3 g) were moistened with small amount of deionized water,
+then mixed with 5 ml of concentrated sulfuric acid and stirred overnight. The tubes containing sample
+solution were heated at 230°C for 30 minutes. The temperature was adjusted to 280°C and maintained
+for 30 minutes once smoke appeared in the tube. After that, H2O2 solution was added into the sample
+solution and shake gently until the solution become clear. The sample solution was then heated for
+another 10 minutes and the nitrogen concentration in the sample were analyzed using continuous Flow
+AutoAnalyzer III (AA3).
+
+The total N accumulated in different parts of garlic plant samples were calculated by multiplying the N
+concentration with the corresponding biomass weight. The nitrogen use efficiency (kg·kg− 1 N) was
+calculated as: NUE = Y/N, where Y is the yield of garlic (kg.ha− 1) and N is the total amount of N fertilizer
+applied (kg·ha− 1); nitrogen absorption efficiency (NAE, kg.kg− 1) was calculated by total N content in
+whole plant (kg.ha− 1)/total amount of N fertilizer applied (kg.ha− 1); physiological N use efficiency (PNUE,
+kg.kg− 1) was calculated as bulb yield/total N accumulation at maturity, and nitrogen harvest index (NHI,
+%) was calculated as total N accumulation in garlic bulb at maturity/total N accumulation at maturity
+(Chen et al. 2016).
+
+2.3 Plant nitrate content analysis
+For the determination of nitrate content, plant samples (0.5 g) were homogenized in 5 mL distilled water
+and transferred to 10 mL centrifuge tubes. The samples were boiled for 30 minutes in 100°C water and
+allowed to cool down to room temperature. The sample solution was then centrifuged at 5000 ×g for 10
+min, and the supernatant was transferred to a clean tube. The supernatant (0.1 mL) was then added with
+0.4 mL of 5% sulfuric acid-salicylic acid solution, mixed thoroughly on a vortex mixer and kept at room
+temperature for 20 minutes. After that, 9.5 mL of sodium hydroxide solution (8%) was slowly added into
+the solution. Nitrate concentration was then measured using absorbance at 410 nm via
+spectrophotometer.
+
+2.4 Elemental analysis of garlic
+For the determination of other elements, plant samples were first ground into powder in liquid nitrogen.
+The finely ground plant sample (0.5 g) was then placed in the digestion tube and mixed overnight with 5
+mL concentrated nitric acid. The tubes were placed on a digestion block and heated at 120°C until
+frothing stopped. Then, the temperature was raised to 180°C and an appropriate amount of HClO4 was
+added until the solution become clear (Chen et al. 2016). The concentration of phosphorus, potassium,
+magnesium, calcium, zinc, boron, iron and sulfur in the garlic sample was then analyzed via ICP-OES
+(ScientificTM iCAP6300).
+
+2.5 Allicin content analysis
+For the determination of allicin, peeled fresh garlic (10 g) was mixed with 30 mL of methanol solution
+(methanol: water = 85:15) and mashed with tissue masher. Then, the sample solution was topped up with
+methanol solution to 50 ml. Then, the sample solution was centrifuged at 12,000 rpm at 4°C for 20 min. A
+                                                   Page 5/21
+total of 1 mL of supernatant was added with 1.5 ml of methanol solution. Later, the solution was filtered
+using 0.45 µm pore size filter. The filtered solution (20 µL) was then subjected to HPLC analysis using
+YMC-Pack ODS-AC18 (25 cm x 4.6 mm) with a gradient program at a flow rate of 0.8 mL/min.
+2.6 Statistical analysis
+The research data were analyzed by one-way ANOVA using Duncan’s multiple range tests (P < 0.05) to
+compare the means. Different letters indicated statistically significant differences at p < 0.05 among
+treatments. All statistical evaluations were performed by applying the IBM SPSS Statistics version 20
+software (SPSS Inc., Chicago, IL).
+
+
+3. Results
+3.1 Effect of different fertilizer treatments on growth and
+yield of garlic
+In this study, the fresh weight of garlic plants, garlic bulb and bulb yield per m2 was determined to
+evaluate the effects of different fertilizer treatments on the growth of garlic under field condition (Fig. 1
+and Table 2). In 2021, the average fresh weight of garlic plants under T1 treatment was the highest
+(200.7 ± 0.67 g), followed by T2 treatment (164.3 ± 2.73 g) and control treatment (136 ± 4.73 g). This
+corresponded well with the average fresh bulbs weight per plant. Garlic plants under T1 treatment
+recorded the highest average fresh bulbs weight per plant (74.3 ± 0.33 g), whereas the garlic plants under
+control treatment have the lowest average fresh bulbs weight per plant (58 ± 1.16 g). At harvest, the bulb
+yield per m2 was the highest under T1 treatment (2.23 ± 0.01 kg), followed by T2 and control treatment
+(Table 2). A similar finding was observed in year 2022. For the average fresh weight of garlic plant, the
+highest was recorded under T2 treatment (182.0 ± 7.02 g), followed by T1 treatment (168.5 ± 4.19 g) and
+control treatment (146.3 ± 11.06 g). Meanwhile, the average fresh weight of garlic bulb was the highest
+under T1 treatment (97.3 ± 9.88 g), followed by T2 treatment (91.2 ± 5.66 g) and control treatment (69.2 ±
+8.41 g). Similarly, the bulb yield per m2 of the garlic grown under T2 and T1 treatment were approximately
+14% and 6% higher than that of control, respectively (Table 2). These findings indicated that the addition
+of microbial biofertilizer and germanium-containing controlled release nanofertilizer had positive effects
+on the growth and yield of garlic even under the conditions of reduced P and K supply.
+
+Furthermore, we showed that the allicin concentration in garlic increased significantly with the application
+of microbial biofertilizer. In 2021, the allicin concentration in the garlic under T1 treatment was the
+highest (0.355 g/kg), however there was no significant difference between control (0.243 g/kg) and T2
+treatment (0.283 g/kg) (Fig. 2a). On the other hand, in 2022, both treatments significantly increased the
+allicin content with T1 treatment recorded the highest allicin concentration (0.65 g/kg) followed by T2
+treatment (0.53 g/kg) (Fig. 2b).
+
+
+
+
+                                                   Page 6/21
+Table 2 Fresh weight (FW) of garlic plant, garlic bulb and bulb yield per m2 of garlic harvested in 2021
+and 2022. Values are means ± SE (n≥6). Significant difference (P<0.05) is indicated by different lower
+case letters above bars as determined by Duncan’s multiple range test.
+
+
+
+
+3.2 The nitrate concentration and content in garlic under
+different fertilization treatments
+In this study, we observed that the fluctuation patterns of nitrate concentration in the shoot and root of
+garlic plants at different growth stages are consistent, regardless of the types of fertilizer treatment
+(Fig. 3). The concentration of nitrate in garlic leaf peaked at the spring garlic stage and began to decline
+sharply during the bulb development stage. However, we found that the shoot nitrate concentration at
+spring garlic stage increased significantly under T1 and T2 treatment. In 2021, T1 and T2 treatment
+increased the shoot nitrate concentration by 44% and 37%, respectively (Fig. 3a). Meanwhile, in 2022, the
+shoot nitrate concentration of garlic at spring garlic stage increased by 51–52% under the treatment of
+both biofertilizers (Fig. 3b).
+
+In 2021, the garlic under T2 treatment had the highest root nitrate concentration, which was
+approximately 39% and 53% higher than that of control and T1 treatment, respectively (Fig. 3c). In 2022,
+T1 treatment recorded the highest root nitrate concentration at spring garlic stage, which was about
+36.6% and 33.6% higher than that of T2 treatment and control treatment, respectively (Fig. 3d). However,
+there was no significant difference in nitrate concentration in the shoot and root of garlic plants under
+different treatments at harvest stage.
+
+3.3 The nitrogen concentration and content of garlic under
+different fertilization treatments
+In 2021, the shoot concentration of nitrogen in garlic peaked at the spring garlic stage and declined
+gradually from the bulb developmental stage to the harvesting stage (Fig. 4). The highest shoot
+concentration of nitrogen was recorded by control treatment (25.24 ± 0.75 g/kg) at spring garlic stage,
+                                                  Page 7/21
+followed by T2 (15.54 ± 1.9 g/kg) and T1 treatment (11.41 ± 0.33 g/kg) (Fig. 4a). In 2022, the shoot
+concentration of nitrogen peaked at the seedling stage and reached its lowest value at harvest stage,
+irrespective of the treatments. The highest shoot concentration of nitrogen was recorded by the control
+treatment which was 23.55 ± 1.41 g/kg (Fig. 4a). Meanwhile, the maximum nitrogen content in the shoot
+was recorded at bulb developmental stage, irrespective of treatments and location (Fig. 4b). In 2021, we
+observed that the shoot nitrogen content in garlic plant under control treatment was the highest
+throughout different growth stages, except for harvest stage. At bulb developmental stage, the shoot
+nitrogen content of control garlic plant was 59% and 38% higher than that of T1 and T2 treatments,
+respectively. However, in 2022, the garlic under T1 treatment had the highest shoot nitrogen content
+(192.93 ± 0.99 mg) during bulb development stage (Fig. 4b).
+
+For the root concentration of nitrogen, the garlic grown in 2021 had the highest root concentration of
+nitrogen in spring garlic stage. Among which, T2 treatment recorded the highest root concentration of
+nitrogen (27.29 ± 2.55 g/kg), followed by control (24.35 ± 2.48 g/kg) and T1 treatment (16.12 ± 2.24 g/kg)
+(Fig. 4c). Similarly, the garlic grown in 2022 had the highest concentration of nitrogen during the spring
+garlic stage. Among the treatment, the garlic grown under control treatment recorded the highest root
+concentration, which was 23.05 ± 0.33 g/kg (Fig. 4c). In 2021, the root nitrogen content of garlic under
+most treatments peaked at the bulb development stage. Among which, the highest root nitrogen content
+was recorded by the garlic under T2 treatment. In contrast, the root nitrogen contents of garlic planted in
+2022 reached its peak at spring garlic stage and the highest root nitrogen content was recorded by
+control treatment (Fig. 4d).
+In this study, the potassium content in the shoot and root of garlic plants was also quantitatively
+determined to explore the effect of different treatments on the potassium accumulation in garlic plants
+(Fig. 5). From the results, we observed that there is no significant difference between treatments except
+for the root potassium concentration. For the two-years study, the root potassium concentration of garlic
+under treatment T1 and T2 consistently higher than that of control treatment. In 2021, the root potassium
+concentration of garlic under treatment T1 and T2 was approximately 41% and 32% higher than those of
+control treatment, respectively (Fig. 5c). Similarly, in 2022, the root potassium concentration of garlic
+under treatment T1 and T2 was approximately 30% and 19% higher than those of control treatment,
+respectively (Fig. 5c).
+3.5 Elemental analysis of garlic bulb
+Plant Mg, Ca, Fe, B and Zn content were measured to investigate the effect of different fertilization
+treatments on these nutrients in garlic bulb at harvest stage (Table 3). In 2021, it was observed that the Fe
+content in garlic bulb under T1 and T2 treatment was significantly higher than that in the control. The
+accumulation of Fe in garlic bulb under T1 and T2 treatment was approximately 63% and 64% higher
+than that of control treatment, respectively. Meanwhile, there was no significant difference in Mg, Ca, B
+and Zn content among different treatments.
+
+In 2022, the Ca content in garlic bulbs under T1 treatment was significantly higher than that in the control
+and T2 treatment. Contrary to the data from year 2021, the Fe content in the garlic bulb under T1 and T2
+                                                  Page 8/21
+treatment was significantly lower than that in the control. The accumulation of Fe in garlic under T1 and
+T2 treatment was approximately 17% and 23% lower than that in the control, respectively.
+
+                                                  Table 3
+     Elemental analysis of garlic bulb cultivated under different fertilization treatments. Values are
+    means ± SE (n ≥ 3). Significant difference (P < 0.05) is indicated by different lower-case letters as
+                               determined by Duncan’s multiple range test.
+     Year     Element (mg.kg− 1)     Control                    T1                  T2
+
+     2021     Mg                     3698.90 ± 227.83a          4111.22 ± 152.45a   4248.40 ± 322.40a
+
+              Ca                     2422.80 ± 114.36b          2573.72 ± 57.07ab   2630.87 ± 131.75ab
+
+              Fe                     190.12 ± 3.41b             310.94 ± 16.83a     312.00 ± 7.41a
+
+              B                      11.61 ± 0.49a              12.62 ± 0.69a       13.57 ± 1.36a
+
+              Zn                     11.94 ± 0.58a              11.14 ± 1.36a       10.92 ± 1.65a
+
+     2022     Mg                     4130.73 ± 120.81a          3865.33 ± 139.59a   3887.10 ± 125.94a
+
+              Ca                     2382.15 ± 110.72b          2737.28 ± 203.61a   2448.31 ± 86.43ab
+
+              Fe                     196.14 ± 4.50a             161.93 ± 3.92b      150.22 ± 2.95c
+
+              B                      12.82 ± 0.63a              13.64 ± 1.13a       12.89 ± 1.27a
+
+              Zn                     9.90 ± 1.32a               8.89 ± 0.71a        9.26 ± 0.45a
+
+     Note: Mg: Magnesium; Ca: Calcium; Fe: Ferum; B: Boron; Zn: Zinc.
+
+
+3.6 Nitrogen use efficiency (NUE) in garlic under different
+fertilization treatments
+In view of the increase in biomass and bulb fresh weight of garlic grown under T1 and T2 treatment, we
+calculated the nitrogen use efficiency (NUE), nitrogen absorption efficiency (NAE), physiological N use
+efficiency (PNUE) and nitrogen harvest index (NHI) of garlic at the harvesting stage (Table 4). In 2021, the
+NUE of garlic under T1 and T2 treatments increased by about 28% and 14%, respectively. Likewise, the
+PNUE of garlic grown under T1 and T2 treatment increased by 46% and 112%, respectively. For NHI, the
+garlic under T2 treatment increased by about 60%. In contrast, the NAE of the garlic under T1 and T2
+treatment decreased by approximately 12% and 46%. However, the NAE and NHI of T2 treatment
+decreased by about 46% and 15%, respectively compared to those of control. Similarly, in 2022, the NUE
+of the garlic under T2 treatment increased by about 5% relative to that of control treatment. Meanwhile,
+the NAE of the garlic under T1 and T2 treatment increased by 46% and 92%, respectively. In contrast, the
+PNUE of garlic under T1 and T2 treatment decreased by about 21% and 22%, respectively. There was no
+significant difference in NHI among different treatment.
+
+
+                                                    Page 9/21
+                                                    Table 4
+Comparison of nitrogen use efficiency, nitrogen absorption efficiency, physiological N-use efficiency and
+nitrogen harvest index between garlic grown under different fertilization treatments. Values are means ±
+ SE (n ≥ 3). Significant difference (P < 0.05) is indicated by different lower-case letters as determined by
+                                        Duncan’s multiple range test.
+             Parameter                Control                  T1                     T2
+
+ 2021        NUE (kg.kg− 1)           145.0 ± 2.89c            185.8 ± 0.83b          165.8 ± 2.20a
+
+             NAE (kg.kg− 1)           1.17 ± 0.05a             1.03 ± 0.02b           0.63 ± 0.01b
+
+             PNUE (kg.kg− 1)          124.39 ± 5.10c           181.24 ± 3.97b         263.75 ± 1.70a
+
+             NHI (%)                  48.0 ± 0.10a             47.0 ± 0.10b           76.8 ± 0.4c
+
+ 2022        NUE (kg.kg− 1)           201.8 ± 19.56a           203.5 ± 21.17a         210.94 ± 12.81a
+
+             NAE (kg.kg− 1)           1.06 ± 0.53a             1.55 ± 0.21a           2.04 ± 0.15b
+
+             PNUE (kg.kg− 1)          134.39 ± 4.65a           132.40 ± 5.34a         105.23 ± 13.87a
+
+             NHI (%)                  46.0 ± 0.40b             46.0 ± 0.10b           47.0 ± 0.20a
+
+ Note: NUE: Nitrogen Use Efficiency; NAE: Nitrogen Absorption Efficiency; PNUE: Physiological N-use
+ efficiency; NHI: Nitrogen Harvest Index.
+
+3.7 Correlation between nitrate concentration at spring
+garlic stage and garlic biomass
+In this study, Pearson correlation analysis was conducted to investigate the relationship between nitrate
+concentration at spring garlic stage and the biomass of garlic at harvesting stage (Fig. 6). We observed
+that nitrate concentration in the shoot of garlic at spring garlic stage was positively correlated with to the
+biomass of garlic at harvest stage (R2 = 0.797; p ≤ 0.01). Meanwhile, there was no correlation observed
+between nitrate concentration in the root of garlic and biomass of garlic at harvesting stage. The finding
+indicated that the shoot nitrate concentration at spring garlic stage was somewhat related to the final
+biomass of garlic.
+
+
+4. Discussion
+4.1 Nanofertilizer improve the biomass accumulation and
+quality parameter of garlic
+In this two-years study, we showed that the application of microbial biofertilizer and germanium
+containing controlled release nanofertilizer significantly increased garlic plant biomass accumulation and
+bulb yield in a major garlic production area (Pizhou city) in China (Fig. 1; Table 2). In addition, the NUE
+and NAE of the garlic under the treatment of both fertilizers was also higher than those of control
+                                                  Page 10/21
+treatment. The yield increasing effect of beneficial microorganisms on garlic has also been reported in
+several previous study. For example, the introduction of genetically engineered strain of the nitrogen-
+fixing bacterium Pseudomonas protegens CHA0 has been found to increase the bulb yield of garlic by
+12.03% (Wang et al. 2020). Besides that, the study also revealed that the introduction of Pseudomonas
+protegens can lower disease index and increased the allicin content in garlic (Wang et al. 2020). This was
+consistent with our result that the allicin content in garlic was significantly increased under treatment of
+microbial biofertilizer. For nanofertilizer, a similar observation was also made by many previous studies
+that the application of CuO nanoparticle and Ag nanoparticle can significantly improve the agronomic
+traits of onion such as biomass accumulation, nutrient elements and yield (Fouda et al. 2020; Wang et al.
+2020).
+
+4.2 Pattern of nitrate accumulation throughout growth stage
+In aerobic agricultural soil, nitrate is arguably the main source of mineral nitrogen for plants (Dechorgnat
+et al. 2011). Since garlic performed well when planted in well-drained soil, hence it is reasonable to
+assume that nitrate is essential for its growth and development. In plant, nitrate is actively taken up by
+root cells and mobilized to other plant organs through the help of nitrate transporters (Fan et al. 2017).
+Within plant cells, some of the absorbed nitrate is metabolized directly into nitrogen-containing
+compounds and the excessive nitrate is translocated into vacuole for storage (Wang et al. 2014). It was
+shown that cold temperature can have multiple negative effects on plant morphology and physiology,
+especially on root metabolic activity, leaf water potential and nitrate uptake (Laine et al. 1994; Burchett et
+al. 2006; Sun et al. 2017). In this study, we observed that the nitrate accumulation in the whole plant of
+garlic increased drastically during spring garlic stage. This nitrate accumulation in plants may be
+associated to the low temperature and then low photosynthesis and C accumulation during winter
+season. However, high nitrate from N accumulation at the later stage would result into a faster conversion
+rate of nitrate into N-containing compounds (such as protein) and therefore a faster biomass
+accumulation with high photosynthesis together at the late growth stage. However, at the later growth
+stage (i.e., bulb development stage and harvest stage), the conversion of nitrate into N-containing
+compounds become faster than the nitrate absorbed from the root, leading to lower nitrate accumulation.
+
+4.3 Nitrate concentration at spring garlic stage was
+positively correlated with garlic biomass at harvest
+In this study, we observed a strong positive correlation between the shoot nitrate concentration at spring
+garlic stage and garlic biomass. In contrast, there was no significant correlation between the root nitrate
+concentration and garlic biomass. This observation suggested that the shoot nitrate concentration in
+garlic at spring garlic stage exert significant impact on biomass accumulation of garlic at harvest. The
+observed phenomenon may be either due to the role of nitrate as nutrient or as the major anionic
+osmotica that increase plant tolerance to chilling stress (Heerden et al. 2004). Chilling stress is one of the
+environmental factors that restrict the growth and productivity of plant. Generally, chilling stress causes a
+decrease in the hydraulic conductivity of the roots and subsequently a significant decrease in leaf water
+potential. The reduced leaf water potential leads to the loss of leaf turgor pressure, resulting in severe
+                                                  Page 11/21
+plant wilting (Hussain et al. 2018). Hence, osmotic adjustment is crucial to assists the plant to maintain
+higher turgor potential. It has been well established that nitrate is the major osmolyte that help
+maintaining the cell turgor by reducing the osmotic potential of vacuolar sap in many crops (Mott and
+Steward 1972). Besides that, previous study reported a linear correlation between plant nitrate and water
+content (Cárdenas-Navarro et al. 1999). For example, nitrate has been shown to involve in stomatal
+functioning by controlling the turgor pressure of guard cell (Guo et al. 2003). In addition, study showed
+that intracellular nitrate can also control the root hydraulic properties in plants, resulting into higher water
+uptake (Gorska et al. 2008). A previous study also showed that nitrate supplementation can significantly
+reduce the detrimental effect of chilling stress on crops (Heerden et al. 2004). This observation suggested
+that the higher shoot nitrate concentration at spring garlic stage can increase the chilling tolerance of
+garlic, which may be achieved by maintaining leaf water potential. In addition to nitrate, studies showed
+that potassium (K+) is also important for cold tolerance in plant by regulating the osmotic and water
+potential, increasing antioxidant levels to reduce ROS production and reducing electrolyte leakage caused
+by chilling stress (Oosterhuis et al. 2013; Hasanuzzaman et al. 2018). Hence, the relatively higher root
+concentration of K+ maybe a protective strategy for garlic to survive under chilling stress (Fig. 5c). As the
+major cation in plant cell, K+ has been shown to be closely linked with NO3− (counterion of K+) in
+translocation, transportation and distribution due to the effect of anion-cation balance in plant cells
+(Raddatz et al. 2020). Hence, it is possible that nitrate and potassium act synergistically in protecting the
+garlic from chilling stress. It has been reported that exogenous application of potassium nitrate can
+promote the cold tolerance in Panax ginseng by enhancing the antioxidant level (Devi et al. 2012).
+However, a more detailed study at the molecular level should be conducted in order to further understand
+the underlying mechanism.
+
+
+5. Conclusions
+Overall, the microbial biofertilizer and germanium-containing controlled release fertilizer used in this
+study could significantly increase the growth, nitrogen use efficiency and allicin content. This study also
+observed a strong positive correlation between the shoot nitrate concentration at spring garlic stage and
+garlic biomass. It indicated that higher shoot nitrate at spring garlic stage may promote the growth of
+garlic at later stage, which may be due to the synergistic effect of nitrate and potassium in enhancing the
+cold tolerance of garlic. Our study provides a scientific theoretical basis for high yield garlic using the
+microbial biofertilizer.
+
+
+Declarations
+Ethics approval and consent to participate：Here is no ethics conflicts in these data
+
+Consent to publish: we are consent to publish these data
+
+Availability of data and materials: The data and materials in the manuscript are available.
+
+
+                                                   Page 12/21
+Competing interests: The authors declare no competing interests.
+
+Funding: This work was supported by the sub-project 4 of Jiangsu middle and late mature garlic
+industrial cluster construction: Garlic mechanical intelligent operation technology and demonstration and
+promotion of green production technology.
+
+Authors' Contributions: ZY produced the fertilizer; ZY, FX, ZX designed the experiment; SJ, LZ, FX
+conducted and wrote the manuscript; ZH and ZL supplied the experiment land.
+
+Acknowledgements: We would like to thank the assistance of Agricultural and rural Office of Nianzhuang
+Town, Pizhou city, Jiangsu, China.
+
+
+References
+  1. Atif MJ, Amin B, Ghani MI, Hayat S, Ali M, Zhang Y, Cheng Z (2019) Influence of different photoperiod
+    and temperature regimes on growth and bulb quality of garlic (Allium sativum L.) cultivars. Agron
+    9(12): 879. https://doi.org/ 10.3390/agronomy9120879
+  2. Batiha GE, Beshbishy AM, Wasef LG, Elewa YHA, Al-Sagan AA, El-Hack MEA, Taha AE, Abd-Elhakim
+     YM, Devkota HP (2020) Chemical constituents and pharmacological activities of garlic (Allium
+    sativum L.): A Review. Nutrients 12(3): 872. https://doi.org/10.3390/nu12030872
+  3. Burchett S, Niven S, Fuller M (2006) The effect of cold-acclimation on the water relations and
+     freezing tolerance Hordeum vulgare L. Cryo Letters 27(5):295–303
+  4. Cárdenas-Navarro R, Adamowicz S, Robin P (1999) Nitrate accumulation in plants: a role for water. J
+     Exp Bot 73(13): 613-624. https://doi.org/10.1093/jxb/50.334.613
+  5. Chanchan M, Thapa P, Hore J (2018) Effect of biofertilizers with graded levels of nitrogen and
+     phosphorus on growth and yield of garlic (Allium sativum L.). Res Crop 19(1):127.
+    https://doi.org/10.5958/2348-7542.2018.00021.9
+  6. Chen J, Zhang Y, Tan Y, Zhang M, Zhu L, Xu G, Fan X (2016) Agronomic nitrogen‐use efficiency of
+     rice can be increased by driving OsNRT2.1 expression with the OsNAR2.1 promoter. Plant Biotechnol
+    J 14(8):1705-1715. https://doi.org/10.1111/pbi.12531
+  7. Dechorgnat J, Nguyen CT, Armengaud P, Jossier M, Diatloff E, Filleur S, Daniel-Vedele F (2011) From
+    the soil to the seeds: the long journey of nitrate in plants. J Exp Bot 62(4):1349–1359.
+    https://doi.org/10.1093/jxb/erq409
+  8. Devi BSR, Kim YJ, Selvi SK, Gayathri S, Altanzul K, Parvin S, Yang DU, Lee OR, Lee S, Yang DC (2012)
+    Influence of potassium nitrate on antioxidant level and secondary metabolite genes under cold stress
+    in Panax ginseng. Russ J Plant Physiol 59, 318–325. https://doi.org/10.1134/S1021443712030041
+  9. Dhir B (2021) Nanofertilizers and their applications. In: Kumar, R.; Kumar, R.; Kaur, G. (eds) New
+     Frontiers of Nanomaterials in Environmental Science. Springer, Singapore, pp 229-241
+10. Fan X, Naz M, Fan X, Xuan W, Miller AJ, Xu G (2017) Plant nitrate transporters: from gene function to
+    application. J Exp Bot 68(10):2463–2475. https://doi.org/10.1093/jxb/erx011
+                                                  Page 13/21
+11. FAO 2019. Statistical Yearbook. Food and Agriculture Organization (FAO).
+    http://www.fao.org/faostat/en/#data/QC.
+12. Fouda MMG, Abdelsalam NR, El-Naggar ME, Zaitoun AF, Salim BMA, Bin-Jumah M, Allam AA, Abo-
+    Marzoka SA, Kandil EE (2020) Impact of high throughput green synthesized silver nanoparticles on
+   agronomic traits of onion. Int J Biol Macromol 149(2020):1304-1317.
+   https://doi.org/10.1016/j.ijbiomac.2020.02.004
+13. Gebreyohannes G, Gebreyohannes M (2013) Medicinal values of garlic: A Review. Int j med med
+   health sci 5(9): 401–408. https://doi.org/10.5897/IJMMS2013.0960
+14. González RE, Soto VC, Sance MM, Camargo AB, Galmarini CR (2009) Variability of solids,
+   organosulfur compounds, pungency and health-enhancing traits in garlic (Allium sativum L.)
+   cultivars belonging to different ecophysiological groups. J Agric Food Chem 57(21): 10282-10208.
+   https://doi.org/10.1021/jf9018189
+15. Gorska A, Ye Q, Holbrook NM, Zwieniecki MA (2008) Nitrate control of root hydraulic properties in
+   plants: Translating local information to whole plant response. Plant Physiol. 148(2):1159–1167.
+   https://doi.org/10.1104/pp.108.122499
+16. Guo FQ, Young J, Crawford NM (2003) The nitrate transporter AtNRT1.1 (CHL1) functions in
+   stomatal opening and contributes to drought susceptibility in Arabidopsis. Plant Cell 15(1): 107–
+   117. https://doi.org/ 10.1105/tpc.006312
+17. Hasanuzzaman M, Bhuyan MHMB, Nahar K, Hossain MS, Mahmud JA, Hossen MS, Masud AA,
+   Moumita, Fujita M. (2018) Potassium: A Vital Regulator of Plant Responses and Tolerance to Abiotic
+   Stresses. Agron 2018, 8(3), 31. https://doi.org/10.3390/agronomy8030031
+18. Heerden P, Strasser R, Krüger G (2004) Reduction of dark chilling stress in N2-fixing soybean by
+   nitrate as indicated by chlorophyll a fluorescence kinetics. Physiol Plant 121(2):239–249.
+   https://doi.org/10.1111/j.0031-9317.2004.0312.x
+19. Hussain HA, Hussain S, Khaliq A, Ashraf U, Anjum SA, Men S, Wang L (2018) Chilling and drought
+    stresses in crop plants: implications, cross talk, and potential management opportunities. Front Plant
+   Sci 9:393. https://doi.org/10.3389/fpls.2018.00393
+20. Jiku MA, Alimuzzaman M, Singha A, Rahaman M, Ganapati RK, Alam M, Sinha S (2020) Response
+    and productivity of Garlic (Allium Sativum L.) by different levels of potassium fertilizer in farm soils.
+   Bull Natl Res Cent 44:9(2020). https://doi.org/10.1186/s42269-020-0267-7
+21. Kjeldahl J (1883) Neue Methode zur Bestimmung des Stickstoffs in organischen Körpern. Zeitschrift
+   für Anal Chemie 22: 366–382.
+22. Kottegoda N, Sandaruwan C, Priyadarshana G, Siriwardhana A, Rathnayake UA, Arachchige DMB,
+   Kumarasinghe AR, Dahanayake D, Karunaratne V, Amaratunga GAJ (2017) Urea-hydroxyapatite
+   nanohybrids for slow release of nitrogen. ACS Nano 11(2):1214-1221.
+   https://doi.org/10.1021/acsnano.6b07781
+23. Kour D, Rana KL, Yadav AN, Yadav N, Kumar M, Kumar V, Vyas P, Dhaliwal HS, Saxena AK (2020)
+    Microbial biofertilizers: Bioresources and eco-friendly technologies for agricultural and
+                                                 Page 14/21
+   environmental sustainability. Biocatal Agric Biotechnol 23:101487.
+   https://doi.org/10.1016/j.bcab.2019.101487
+24. Laine P, Bigot J, Ourry A, Boucaud J (1994) Effects of low temperature on nitrate uptake, and xylem
+    and phloem flows of nitrogen, in Secale cereale L. and Brassica napus L. New Phytol 127(4):675–
+   683. https://doi.org/10.1111/j.1469-8137.1994.tb02970.x
+25. Mott RL, Steward FC (1972) Solute accumulation in plant cells V. An aspect of nutrition and
+   development. Ann Bot 36:915–937.
+26. Okur NA (2018) A review: Bio-fertilizers- power of beneficial microorganisms in soils. Biomed J Sci
+    Tech Res 4(4): 4028-4029. https://doi.org/ 10.26717/BJSTR.2018.04.001076
+27. Oosterhuis DM, Loka DA, Raper TB (2013) Potassium and stress alleviation: Physiological functions
+    and management of cotton. J Plant Nutr Soil Sci 176:331–343.
+28. Petropoulos SA, Fernandes Â, Ntatsi G, Petrotos K, Barros L, Ferreira ICFR (2018) Nutritional value,
+    chemical characterization and bulb morphology of greek garlic landraces. Mol 23(2):319.
+   https://doi.org/10.3390/molecules23020319
+29. Raddatz N, Morales de los Ríos L, Lindahl M, Quintero FJ, Pardo JM (2020) Coordinated Transport of
+    Nitrate, Potassium, and Sodium. Front Plant Sci 11:247. https://doi.org/10.3389/fpls.2020.00247
+30. Raliya R, Saharan V, Dimkpa C, Biswas P (2018) Nanofertilizer for precision and sustainable
+    agriculture: Current state and future perspectives. J Agric Food Chem 66(26):6487-6503.
+   https://doi.org/10.1021/acs.jafc.7b02178.
+31. Sahu TK, Kumar M, Kumar N, Chandrakar T, Singh DP (2022) Effect of nano urea application on
+   growth and productivity of rice (Oryza sativa L.) under midland situation of Bastar region. Pharma
+   innov 11(6):185-187.
+32. Savci S (2012) Investigation of effect of chemical fertilizers on environment. APCBEE Procedia
+   1:287–292. https://doi.org/10.1016/j.apcbee.2012.03.047
+33. Shi X, Lv Y, Mao C, Yuan J, Yin Z, Gao X, Zhang Z (2019) Garlic consumption and all-cause mortality
+   among chinese oldest-old individuals: A population-based cohort study. Nutrients 11(7): 1504.
+   https://doi.org/10.3390/nu11071504
+34. Sun B, Liu GL, Phan TT, Yang LT, Li YR, Xing YX (2017) Effects of Cold Stress on Root Growth and
+   Physiological Metabolisms in Seedlings of Different Sugarcane Varieties. Sugar Tech 19:165–175.
+   https://doi.org/10.1007/s12355-016-0452-z
+35. Takhtajan A (1997) Diversity and classification of flowering plants; Columbia University, New York
+    Press, pp 643
+36. Wang M, Bian Z, Shi J, Wu Y, Yu X, Yang Y, Ni H, Chen H, Bian X, Li T, Zhang Y, Jiang L, Tu Qiang
+    (2020) Effect of the nitrogen-fixing bacterium Pseudomonas protegens CHA0-ΔretS-nif on garlic
+   growth under different field conditions. Ind. Crops Prod. 145:111982.
+   https://doi.org/10.1016/j.indcrop.2019.111982
+37. Wang M, Shen Q, Xu G, Guo S (2014) Chapter one-new insight into the strategy for nitrogen
+   metabolism in plant cells. In; Jeon, K.W.B.T.-I.R. of C. and M.B., Ed.; Academic Press, 2014; Vol. 310,
+                                                Page 15/21
+    pp. 1–37 ISBN 1937-6448.
+38. Wang Y, Deng C, Cota-Ruiz K, Peralta-Videa JR, Sun Y, Rawat S, Tan W, Reyes A, Hernandez-Viezcas
+    JA, Niu G, Li C, Gardea-Torresdey JL (2020) Improvement of nutrient elements and allicin content in
+    green onion (Allium fistulosum) plant exposed to CuO nanoparticles. Sci Total Environ 725:138387.
+    https://doi.org/10.1016/j.scitotenv.2020.138387
+39. Zulfiqar F, Navarro M, Ashraf M, Akram NA, Munné-Bosch S (2019) Nanofertilizer use for sustainable
+    agriculture: advantages and limitations. Plant Sci 289:110270.
+    https://doi.org/10.1016/j.plantsci.2019.110270
+
+
+Figures
+
+
+
+
+Figure 1
+
+Legend not included with this version
+
+
+
+
+                                               Page 16/21
+Figure 2
+
+Legend not included with this version
+
+
+
+
+                                        Page 17/21
+Figure 3
+
+Fluctuation of nitrate concentration and content in the shoot and root of garlic plant at different growth
+stages under varying fertilizer treatments. a Shoot nitrate concentration (g·kg-1) of garlic harvested in
+2021, b Shoot nitrate concentration (g·kg-1) of garlic harvested in 2022, c Root nitrate concentration (g·kg-
+1) of garlic harvested in 2021, d Root nitrate concentration (g·kg-1) of garlic harvested in 2022. Values are
+
+means ± SE (n ≥ 3). Significant difference (P<0.05) is indicated by asterisk as determined by Duncan’s
+multiple range test
+
+
+
+
+                                                  Page 18/21
+Figure 4
+
+Nitrogen concentration and content in the shoot and root of garlic plant under different fertilizer
+treatments. a Nitrogen concentration in the shoot of garlic plant. bNitrogen content in the shoot of garlic
+plant. c Nitrogen concentration in the root of garlic plant. d Nitrogen content in the root of garlic plant.
+Values are means±SE (n ≥ 3). Significant difference (P<0.05) is indicated by asterisk as determined by
+Duncan’s multiple range test
+
+
+
+
+                                                   Page 19/21
+Figure 5
+
+Available potassium concentration and content in the shoot and root of garlic plant under different
+fertilizer treatments. a Available potassium concentration in the shoot of garlic plant. b Available
+potassium content in the shoot of garlic plant. c Available potassium concentration in the root of garlic
+plant. d Available potassium content in the root of garlic plant. Values are means ± SE (n ≥ 3).
+Significant difference (P<0.05) is indicated by asterisk as determined by Duncan’s multiple range test
+
+
+
+
+                                                 Page 20/21
+Figure 6
+
+Pearson correlation analysis between nitrate concentration at the spring garlic stage and garlic biomass
+at harvest. Blue colored line represents pearson correlation analysis between shoot nitrate concentration
+at spring garlic stage and garlic biomass at harvest. Orange colored line represents pearson correlation
+analysis between root nitrate concentration at spring garlic stage and garlic biomass at harvest.
+
+
+Supplementary Files
+This is a list of supplementary files associated with this preprint. Click to download.
+
+    SupplementaryInformation.docx
+
+
+
+
+                                                  Page 21/21
+
